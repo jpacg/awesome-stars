@@ -84,6 +84,7 @@
 
 ## Python
 
+* [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [enjarify](https://github.com/google/enjarify) - 
 * [my_blog_tutorial](https://github.com/Andrew-liu/my_blog_tutorial) - It's the example of the development of blog by Django and Pure.
 * [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™
