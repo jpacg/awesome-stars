@@ -21,6 +21,7 @@
 
 ## C
 
+* [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 * [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 * [adbi](https://github.com/crmulliner/adbi) - Android Dynamic Binary Instrumentation Toolkit
 * [Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs) - A list of my CVE's with POCs
