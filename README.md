@@ -20,6 +20,8 @@
 
 ## C 
 
+- [android_external_busybox](https://github.com/CyanogenMod/android_external_busybox) - Android/bionic port of busybox
+- [android_external_busybox](https://github.com/omnirom/android_external_busybox) - 
 - [external_seSuperuser](https://github.com/Sekwel/external_seSuperuser) - 
 - [xmake](https://github.com/waruqi/xmake) - A make-like build utility based on Lua
 - [tbox](https://github.com/waruqi/tbox) - A glib-like multi-platform c library
@@ -95,7 +97,7 @@
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
-- [httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client, user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+- [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. New: follow https://twitter.com/clihttp for tips and updates.
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 
@@ -106,7 +108,7 @@
 
 ## VimL 
 
-- [k-vim](https://github.com/wklken/k-vim) - vim配置
+- [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
 
 ## License
