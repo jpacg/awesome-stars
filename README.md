@@ -48,6 +48,7 @@
 
 ## C++ 
 
+- [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [eluna](https://github.com/radiotail/eluna) - simple library to bind C/C++ and Lua(support lua 5.3/5.2/5.1)
 - [sqlyog-community](https://github.com/webyog/sqlyog-community) - 
 - [android-ndk](https://github.com/googlesamples/android-ndk) - Android NDK samples
@@ -71,6 +72,7 @@
 
 ## Java 
 
+- [tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
 - [solo](https://github.com/b3log/solo) - :guitar: A blogging system written in Java, feel free to create your or your team own blog. 一个用 Java 实现的博客系统，为你或你的团队创建个博客吧。
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
 - [XposedInstaller](https://github.com/rovo89/XposedInstaller) - 
@@ -103,7 +105,7 @@
 
 ## Shell 
 
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
 
 ## VimL 
