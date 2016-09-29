@@ -20,6 +20,9 @@
 
 ## C 
 
+- [toybox](https://github.com/landley/toybox) - toybox
+- [android_external_toybox](https://github.com/CyanogenMod/android_external_toybox) - 
+- [android_external_toybox](https://github.com/omnirom/android_external_toybox) - 
 - [android_external_busybox](https://github.com/CyanogenMod/android_external_busybox) - Android/bionic port of busybox
 - [android_external_busybox](https://github.com/omnirom/android_external_busybox) - 
 - [external_seSuperuser](https://github.com/Sekwel/external_seSuperuser) - 
@@ -92,6 +95,7 @@
 
 ## Python 
 
+- [pyinstaller](https://github.com/pyinstaller/pyinstaller) - PyInstaller official GIT repository
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [enjarify](https://github.com/google/enjarify) - 
