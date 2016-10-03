@@ -20,6 +20,7 @@
 
 ## C 
 
+- [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [toybox](https://github.com/landley/toybox) - toybox
 - [android_external_toybox](https://github.com/CyanogenMod/android_external_toybox) - 
 - [android_external_toybox](https://github.com/omnirom/android_external_toybox) - 
@@ -75,6 +76,8 @@
 
 ## Java 
 
+- [QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney) - QQLuckyMoney(QQ红包插件)
+- [WechatLuckyMoney](https://github.com/veryyoung/WechatLuckyMoney) - WechatLuckyMoney(微信红包插件)
 - [tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
 - [solo](https://github.com/b3log/solo) - :guitar: A blogging system written in Java, feel free to create your or your team own blog. 一个用 Java 实现的博客系统，为你或你的团队创建个博客吧。
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
