@@ -22,7 +22,6 @@
 
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [toybox](https://github.com/landley/toybox) - toybox
-- [android_external_toybox](https://github.com/CyanogenMod/android_external_toybox) - 
 - [android_external_toybox](https://github.com/omnirom/android_external_toybox) - 
 - [android_external_busybox](https://github.com/CyanogenMod/android_external_busybox) - Android/bionic port of busybox
 - [android_external_busybox](https://github.com/omnirom/android_external_busybox) - 
@@ -48,7 +47,7 @@
 
 ## C# # 
 
-- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - 
+- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 
 ## C++ 
