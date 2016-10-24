@@ -12,8 +12,10 @@
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
+  - [JavaScript](#javascript)
   - [Lua](#lua)
   - [Others](#others)
+  - [Perl](#perl)
   - [Python](#python)
   - [Shell](#shell)
   - [VimL](#viml)
@@ -33,7 +35,6 @@
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [adbi](https://github.com/crmulliner/adbi) - Android Dynamic Binary Instrumentation Toolkit
 - [Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs) - A list of my CVE's with POCs
-- [chromiumos-third_party-mediatek-datool](https://github.com/mtk09422/chromiumos-third_party-mediatek-datool) - 
 - [android-unpacker](https://github.com/strazzere/android-unpacker) - Android Unpacker presented at Defcon 22: Android Hacker Protection Level 0
 - [android_run_root_shell](https://github.com/android-rooting-tools/android_run_root_shell) - 
 - [android_bootable_recovery](https://github.com/omnirom/android_bootable_recovery) - 
@@ -52,9 +53,9 @@
 
 ## C++ 
 
+- [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
 - [unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-- [eluna](https://github.com/radiotail/eluna) - simple library to bind C/C++ and Lua(support lua 5.3/5.2/5.1)
 - [sqlyog-community](https://github.com/webyog/sqlyog-community) - 
 - [android-ndk](https://github.com/googlesamples/android-ndk) - Android NDK samples with Android Studio
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
@@ -82,9 +83,12 @@
 - [QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney) - QQLuckyMoney(QQ红包插件)
 - [WechatLuckyMoney](https://github.com/veryyoung/WechatLuckyMoney) - WechatLuckyMoney(微信红包插件)
 - [tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
-- [solo](https://github.com/b3log/solo) - :guitar: A blogging system written in Java, feel free to create your or your team own blog. 一个用 Java 实现的博客系统，为你或你的团队创建个博客吧。
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
 - [XposedInstaller](https://github.com/rovo89/XposedInstaller) - 
+
+## JavaScript 
+
+- [XposedBridge](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.
 
 ## Lua 
 
@@ -99,13 +103,16 @@
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 
+## Perl 
+
+- [XposedTools](https://github.com/rovo89/XposedTools) - These tools can be used to compile and package the Xposed framework.
+
 ## Python 
 
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - PyInstaller official GIT repository
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [enjarify](https://github.com/google/enjarify) - 
-- [my_blog_tutorial](https://github.com/Andrew-liu/my_blog_tutorial) - It's the example of the development of blog by Django and Pure.
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
