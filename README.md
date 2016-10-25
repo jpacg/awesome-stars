@@ -9,7 +9,6 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CoffeeScript](#coffeescript)
-  - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -22,6 +21,8 @@
 
 ## C 
 
+- [android_kernel_oneplus_msm8996](https://github.com/OnePlusOSS/android_kernel_oneplus_msm8996) - 
+- [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [toybox](https://github.com/landley/toybox) - toybox
 - [android_external_toybox](https://github.com/omnirom/android_external_toybox) - 
@@ -68,16 +69,13 @@
 
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 
-## HTML 
-
-- [FanHaoSearch](https://github.com/ShenXuGongZi/FanHaoSearch) - 番号搜索器在线版本
-
 ## Haskell 
 
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
 
+- [XposedInstaller](https://github.com/DVDAndroid/XposedInstaller) - Materialised Xposed Installer
 - [libsuperuser](https://github.com/Chainfire/libsuperuser) - Example code for "How-To SU"
 - [legend](https://github.com/asLody/legend) - A framework for hook java methods.
 - [QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney) - QQLuckyMoney(QQ红包插件)
@@ -122,6 +120,7 @@
 
 ## Shell 
 
+- [android](https://github.com/OnePlusOSS/android) - 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
 
