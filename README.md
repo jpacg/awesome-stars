@@ -14,6 +14,7 @@
   - [JavaScript](#javascript)
   - [Lua](#lua)
   - [Others](#others)
+  - [Pascal](#pascal)
   - [Perl](#perl)
   - [Python](#python)
   - [Shell](#shell)
@@ -21,6 +22,7 @@
 
 ## C 
 
+- [android_system_extras_su](https://github.com/CyanogenMod/android_system_extras_su) - privacy guard-driven superuser access
 - [android_kernel_oneplus_msm8996](https://github.com/OnePlusOSS/android_kernel_oneplus_msm8996) - 
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -54,6 +56,7 @@
 
 ## C++ 
 
+- [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [drammer](https://github.com/vusec/drammer) - Native binary for testing Android phones for the Rowhammer bug
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
 - [unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
@@ -76,6 +79,7 @@
 
 ## Java 
 
+- [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) - A plugin framework on android,Run any third-party apk without installation, modification or repackage
 - [XposedInstaller](https://github.com/DVDAndroid/XposedInstaller) - Materialised Xposed Installer
 - [libsuperuser](https://github.com/Chainfire/libsuperuser) - Example code for "How-To SU"
 - [legend](https://github.com/asLody/legend) - A framework for hook java methods.
@@ -102,12 +106,17 @@
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 
+## Pascal 
+
+- [cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
+
 ## Perl 
 
 - [XposedTools](https://github.com/rovo89/XposedTools) - These tools can be used to compile and package the Xposed framework.
 
 ## Python 
 
+- [DrK](https://github.com/sslab-gatech/DrK) - The DrK Attack - Proof of concept
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - PyInstaller official GIT repository
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -115,7 +124,7 @@
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
-- [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates.
+- [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 
