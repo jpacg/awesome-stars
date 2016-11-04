@@ -22,6 +22,7 @@
 
 ## C 
 
+- [LuaScriptCore](https://github.com/vimfung/LuaScriptCore) - Use it can be easily applied the Lua script on iOS, and provides a powerful interactive features to be extended.
 - [android_system_extras_su](https://github.com/CyanogenMod/android_system_extras_su) - privacy guard-driven superuser access
 - [android_kernel_oneplus_msm8996](https://github.com/OnePlusOSS/android_kernel_oneplus_msm8996) - 
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
@@ -101,6 +102,7 @@
 
 ## Others 
 
+- [growing-up](https://github.com/mylxsw/growing-up) - 程序猿成长计划
 - [android](https://github.com/omnirom/android) - 
 - [wiki.secmobi.com](https://github.com/secmobi/wiki.secmobi.com) - SecMobi Wiki is a collection of mobile security resources.
 - [android](https://github.com/CyanogenMod/android) - Misc Android stuff
