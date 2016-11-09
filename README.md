@@ -22,15 +22,14 @@
 
 ## C 
 
+- [android_external_toybox](https://github.com/CyanogenMod/android_external_toybox) - 
 - [LuaScriptCore](https://github.com/vimfung/LuaScriptCore) - Use it can be easily applied the Lua script on iOS, and provides a powerful interactive features to be extended.
 - [android_system_extras_su](https://github.com/CyanogenMod/android_system_extras_su) - privacy guard-driven superuser access
 - [android_kernel_oneplus_msm8996](https://github.com/OnePlusOSS/android_kernel_oneplus_msm8996) - 
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [toybox](https://github.com/landley/toybox) - toybox
-- [android_external_toybox](https://github.com/omnirom/android_external_toybox) - 
 - [android_external_busybox](https://github.com/CyanogenMod/android_external_busybox) - Android/bionic port of busybox
-- [android_external_busybox](https://github.com/omnirom/android_external_busybox) - 
 - [external_seSuperuser](https://github.com/Sekwel/external_seSuperuser) - 
 - [xmake](https://github.com/waruqi/xmake) - A make-like build utility based on Lua
 - [tbox](https://github.com/waruqi/tbox) - A glib-like multi-platform c library
