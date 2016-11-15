@@ -22,6 +22,8 @@
 
 ## C 
 
+- [sepolicy-inject](https://github.com/topjohnwu/sepolicy-inject) - A fork of selinux-inject ( https://bitbucket.org/joshua_brindle/sepolicy-inject )
+- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad)
 - [android_external_toybox](https://github.com/CyanogenMod/android_external_toybox) - 
 - [LuaScriptCore](https://github.com/vimfung/LuaScriptCore) - Use it can be easily applied the Lua script on iOS, and provides a powerful interactive features to be extended.
 - [android_system_extras_su](https://github.com/CyanogenMod/android_system_extras_su) - privacy guard-driven superuser access
