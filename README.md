@@ -81,6 +81,8 @@
 
 ## Java 
 
+- [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
+- [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 - [material-dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API.
 - [BusyBox](https://github.com/jrummyapps/BusyBox) - Install BusyBox on an Android device.
 - [busybox](https://github.com/meefik/busybox) - BusyBox for Android | BusyBox для Android
