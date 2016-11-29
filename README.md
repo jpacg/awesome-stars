@@ -25,7 +25,7 @@
 - [sepolicy-inject](https://github.com/topjohnwu/sepolicy-inject) - A fork of selinux-inject ( https://bitbucket.org/joshua_brindle/sepolicy-inject )
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad)
 - [android_external_toybox](https://github.com/CyanogenMod/android_external_toybox) - 
-- [LuaScriptCore](https://github.com/vimfung/LuaScriptCore) - Use it can be easily applied the Lua script on iOS, and provides a powerful interactive features to be extended.
+- [LuaScriptCore](https://github.com/vimfung/LuaScriptCore) - 一款简单易用的多平台Lua桥接器，目前支持在iOS、Mac OS X、Android以及Unity3D中使用，让原生环境与Lua无障碍沟通。
 - [android_system_extras_su](https://github.com/CyanogenMod/android_system_extras_su) - privacy guard-driven superuser access
 - [android_kernel_oneplus_msm8996](https://github.com/OnePlusOSS/android_kernel_oneplus_msm8996) - 
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
@@ -81,6 +81,7 @@
 
 ## Java 
 
+- [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
 - [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 - [material-dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API.
@@ -132,7 +133,7 @@
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
-- [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, a user-friendly curl alternative with an intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
+- [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client — user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 
