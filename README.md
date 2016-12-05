@@ -9,6 +9,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CoffeeScript](#coffeescript)
+  - [Go](#go)
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -22,6 +23,7 @@
 
 ## C 
 
+- [openpilot](https://github.com/commaai/openpilot) - open source driving agent
 - [sepolicy-inject](https://github.com/topjohnwu/sepolicy-inject) - A fork of selinux-inject ( https://bitbucket.org/joshua_brindle/sepolicy-inject )
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad)
 - [android_external_toybox](https://github.com/CyanogenMod/android_external_toybox) - 
@@ -75,6 +77,11 @@
 
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 
+## Go 
+
+- [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+
 ## Haskell 
 
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -94,7 +101,6 @@
 - [QQLuckyMoney](https://github.com/veryyoung/QQLuckyMoney) - QQLuckyMoney(QQ红包插件)
 - [WechatLuckyMoney](https://github.com/veryyoung/WechatLuckyMoney) - WechatLuckyMoney(微信红包插件)
 - [tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
-- [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
 - [XposedInstaller](https://github.com/rovo89/XposedInstaller) - 
 
 ## JavaScript 
