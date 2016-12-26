@@ -23,9 +23,12 @@
 
 ## C 
 
+- [Superuser](https://github.com/phhusson/Superuser) - Keeping koush's Superuser fresh
+- [Superuser](https://github.com/seSuperuser/Superuser) - Keeping koush's Superuser fresh
+- [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol
 - [openpilot](https://github.com/commaai/openpilot) - open source driving agent
 - [sepolicy-inject](https://github.com/topjohnwu/sepolicy-inject) - A fork of selinux-inject ( https://bitbucket.org/joshua_brindle/sepolicy-inject )
-- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad)
+- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad),latte-l-oss(Mi Pad2)
 - [android_external_toybox](https://github.com/CyanogenMod/android_external_toybox) - 
 - [LuaScriptCore](https://github.com/vimfung/LuaScriptCore) - 一款简单易用的多平台Lua桥接器，目前支持在iOS、Mac OS X、Android以及Unity3D中使用，让原生环境与Lua无障碍沟通。
 - [android_system_extras_su](https://github.com/CyanogenMod/android_system_extras_su) - privacy guard-driven superuser access
@@ -35,8 +38,8 @@
 - [toybox](https://github.com/landley/toybox) - toybox
 - [android_external_busybox](https://github.com/CyanogenMod/android_external_busybox) - Android/bionic port of busybox
 - [external_seSuperuser](https://github.com/Sekwel/external_seSuperuser) - 
-- [xmake](https://github.com/waruqi/xmake) - A make-like build utility based on Lua
-- [tbox](https://github.com/waruqi/tbox) - A glib-like multi-platform c library
+- [xmake](https://github.com/tboox/xmake) - A make-like build utility based on Lua
+- [tbox](https://github.com/tboox/tbox) - A glib-like multi-platform c library
 - [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
@@ -45,7 +48,7 @@
 - [android-unpacker](https://github.com/strazzere/android-unpacker) - Android Unpacker presented at Defcon 22: Android Hacker Protection Level 0
 - [android_run_root_shell](https://github.com/android-rooting-tools/android_run_root_shell) - 
 - [android_bootable_recovery](https://github.com/omnirom/android_bootable_recovery) - 
-- [Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P)
+- [Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/omnirom/android_bootable_recovery/
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 - [udis86](https://github.com/vmt/udis86) - Disassembler Library for x86 and x86-64
@@ -79,6 +82,8 @@
 
 ## Go 
 
+- [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+- [kcptun](https://github.com/xtaci/kcptun) - A Simple UDP Tunnel Based On KCP
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 
@@ -88,6 +93,7 @@
 
 ## Java 
 
+- [xUtils3](https://github.com/wyouflf/xUtils3) - android orm, bitmap, http, view inject...
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
 - [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
@@ -139,7 +145,7 @@
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
-- [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client — user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/CLIHTTP for tips and updates.
+- [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates.
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 
