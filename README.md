@@ -39,8 +39,6 @@
 - [toybox](https://github.com/landley/toybox) - toybox
 - [android_external_busybox](https://github.com/CyanogenMod/android_external_busybox) - Android/bionic port of busybox
 - [external_seSuperuser](https://github.com/Sekwel/external_seSuperuser) - 
-- [xmake](https://github.com/tboox/xmake) - A make-like build utility based on Lua
-- [tbox](https://github.com/tboox/tbox) - A glib-like multi-platform c library
 - [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
@@ -125,6 +123,7 @@
 
 ## Others 
 
+- [obfuscator](https://github.com/obfuscator-llvm/obfuscator) - 
 - [growing-up](https://github.com/mylxsw/growing-up) - 程序猿成长计划
 - [android](https://github.com/omnirom/android) - 
 - [wiki.secmobi.com](https://github.com/secmobi/wiki.secmobi.com) - SecMobi Wiki is a collection of mobile security resources.
