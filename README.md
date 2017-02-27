@@ -20,10 +20,12 @@
   - [Perl](#perl)
   - [Python](#python)
   - [Shell](#shell)
-  - [VimL](#viml)
+  - [Vim script](#vim script)
 
 ## C 
 
+- [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
+- [super-bootimg](https://github.com/phhusson/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
 - [Superuser](https://github.com/phhusson/Superuser) - Keeping koush's Superuser fresh
 - [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol
 - [openpilot](https://github.com/commaai/openpilot) - open source driving agent
@@ -61,6 +63,7 @@
 
 ## C++ 
 
+- [platform_system_core](https://github.com/android/platform_system_core) - 
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [drammer](https://github.com/vusec/drammer) - Native binary for testing Android phones for the Rowhammer bug
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
@@ -159,7 +162,7 @@
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
-- [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Follow https://twitter.com/clihttp for tips and updates.
+- [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 
@@ -169,7 +172,7 @@
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
 
-## VimL 
+## Vim script 
 
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
