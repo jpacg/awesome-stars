@@ -24,6 +24,8 @@
 
 ## C 
 
+- [Superuser](https://github.com/topjohnwu/Superuser) - Keeping koush's Superuser fresh
+- [super-bootimg](https://github.com/topjohnwu/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
 - [super-bootimg](https://github.com/phhusson/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
 - [Superuser](https://github.com/phhusson/Superuser) - Keeping koush's Superuser fresh
@@ -95,6 +97,7 @@
 
 ## Java 
 
+- [MagiskManager](https://github.com/topjohnwu/MagiskManager) - Companion Android application for Magisk
 - [Inject-Hook](https://github.com/zhouat/Inject-Hook) - for android
 - [ReLinker](https://github.com/KeepSafe/ReLinker) - A robust native library loader for Android.
 - [OpenGrok](https://github.com/OpenGrok/OpenGrok) - Main {OpenGrok git repository
