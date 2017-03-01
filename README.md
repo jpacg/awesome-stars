@@ -25,7 +25,7 @@
 ## C 
 
 - [selinux](https://github.com/topjohnwu/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
-- [Superuser](https://github.com/topjohnwu/Superuser) - Keeping koush's Superuser fresh
+- [MagiskSU](https://github.com/topjohnwu/MagiskSU) - Keeping koush's Superuser fresh
 - [super-bootimg](https://github.com/topjohnwu/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
 - [super-bootimg](https://github.com/phhusson/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
@@ -67,6 +67,7 @@
 ## C++ 
 
 - [resetprop](https://github.com/topjohnwu/resetprop) - A setprop that can manipulate any system props, including read-only props (ro.)
+- [Magisk](https://github.com/topjohnwu/Magisk) - 
 - [platform_system_core](https://github.com/android/platform_system_core) - 
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [drammer](https://github.com/vusec/drammer) - Native binary for testing Android phones for the Rowhammer bug
@@ -173,7 +174,6 @@
 
 ## Shell 
 
-- [Magisk](https://github.com/topjohnwu/Magisk) - 
 - [android](https://github.com/OnePlusOSS/android) - 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
