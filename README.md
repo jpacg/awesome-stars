@@ -10,7 +10,6 @@
   - [C++](#c++)
   - [CoffeeScript](#coffeescript)
   - [Go](#go)
-  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Lua](#lua)
@@ -82,14 +81,7 @@
 ## Go 
 
 - [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
-- [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [kcptun](https://github.com/xtaci/kcptun) - A Secure Tunnel Based On KCP with N:M Multiplexing
-- [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
-
-## Haskell 
-
-- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
 
@@ -127,7 +119,6 @@
 
 ## Others 
 
-- [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers
 - [ZjDroid](https://github.com/halfkiss/ZjDroid) - Android app dynamic reverse tool based on Xposed framework.
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [obfuscator](https://github.com/obfuscator-llvm/obfuscator) - 
@@ -152,7 +143,6 @@
 - [DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 基于Django的博客系统
 - [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [DrK](https://github.com/sslab-gatech/DrK) - The DrK Attack - Proof of concept
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
