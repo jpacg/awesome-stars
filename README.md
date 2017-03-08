@@ -23,8 +23,10 @@
 
 ## C 
 
+- [ndk-compression](https://github.com/topjohnwu/ndk-compression) - Common compression tool libraries build with ndk-build command
 - [Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs) - A list of my CVE's with POCs
 - [selinux](https://github.com/topjohnwu/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
+- [Magisk](https://github.com/topjohnwu/Magisk) - 
 - [MagiskSU](https://github.com/topjohnwu/MagiskSU) - Keeping koush's Superuser fresh
 - [super-bootimg](https://github.com/topjohnwu/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
@@ -57,7 +59,6 @@
 ## C++ 
 
 - [resetprop](https://github.com/topjohnwu/resetprop) - A setprop that can manipulate any system props, including read-only props (ro.)
-- [Magisk](https://github.com/topjohnwu/Magisk) - 
 - [platform_system_core](https://github.com/android/platform_system_core) - 
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
@@ -81,6 +82,7 @@
 
 ## Java 
 
+- [booksource](https://github.com/guolindev/booksource) - 《第二行代码》全书源代码
 - [MagiskManager](https://github.com/topjohnwu/MagiskManager) - Companion Android application for Magisk
 - [Inject-Hook](https://github.com/zhouat/Inject-Hook) - for android
 - [ReLinker](https://github.com/KeepSafe/ReLinker) - A robust native library loader for Android.
