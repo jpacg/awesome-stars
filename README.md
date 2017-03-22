@@ -23,17 +23,18 @@
 
 ## C 
 
+- [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
 - [VIKIROOT](https://github.com/hyln9/VIKIROOT) - CVE-2016-5195 (Dirty COW) PoC for Android 6.0.1 Marshmallow
 - [iovyroot](https://github.com/dosomder/iovyroot) - CVE-2015-1805 root tool
 - [ndk-compression](https://github.com/topjohnwu/ndk-compression) - Common compression tool libraries build with ndk-build command
 - [Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs) - A list of my CVE's with POCs
 - [selinux](https://github.com/topjohnwu/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
-- [Magisk](https://github.com/topjohnwu/Magisk) - 
+- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [MagiskSU](https://github.com/topjohnwu/MagiskSU) - Keeping koush's Superuser fresh
 - [super-bootimg](https://github.com/topjohnwu/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
-- [sepolicy-inject](https://github.com/topjohnwu/sepolicy-inject) - A fork of selinux-inject ( https://bitbucket.org/joshua_brindle/sepolicy-inject )
-- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad),latte-l-oss(Mi Pad2),land-m-oss(Redmi 3S)
+- [magiskpolicy](https://github.com/topjohnwu/magiskpolicy) - A fork of selinux-inject ( https://bitbucket.org/joshua_brindle/sepolicy-inject )
+- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad),latte-l-oss(Mi Pad2),land-m-oss(Redmi 3S),markw-m-oss(Redmi 4)
 - [LuaScriptCore](https://github.com/vimfung/LuaScriptCore) - 一款简单易用的多平台Lua桥接器，目前支持在iOS、Mac OS X、Android以及Unity3D中使用，让原生环境与Lua无障碍沟通。
 - [android_kernel_oneplus_msm8996](https://github.com/OnePlusOSS/android_kernel_oneplus_msm8996) - 
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
@@ -60,7 +61,6 @@
 
 ## C++ 
 
-- [resetprop](https://github.com/topjohnwu/resetprop) - A setprop that can manipulate any system props, including read-only props (ro.)
 - [platform_system_core](https://github.com/android/platform_system_core) - 
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
@@ -139,6 +139,8 @@
 
 ## Python 
 
+- [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
+- [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 基于Django的博客系统
 - [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
@@ -150,7 +152,7 @@
 - [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
-- [httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
+- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 
