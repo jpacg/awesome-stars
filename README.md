@@ -23,6 +23,7 @@
 
 ## C 
 
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - mirror of git://source.ffmpeg.org/ffmpeg.git
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
 - [VIKIROOT](https://github.com/hyln9/VIKIROOT) - CVE-2016-5195 (Dirty COW) PoC for Android 6.0.1 Marshmallow
 - [iovyroot](https://github.com/dosomder/iovyroot) - CVE-2015-1805 root tool
@@ -119,6 +120,7 @@
 
 ## Others 
 
+- [ndk](https://github.com/android-ndk/ndk) - The Android Native Development Kit
 - [ZjDroid](https://github.com/halfkiss/ZjDroid) - Android app dynamic reverse tool based on Xposed framework.
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [obfuscator](https://github.com/obfuscator-llvm/obfuscator) - 
