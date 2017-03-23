@@ -108,6 +108,7 @@
 
 ## JavaScript 
 
+- [hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension
 - [XposedBridge](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.
 
 ## Lua 
