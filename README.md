@@ -41,7 +41,7 @@
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [toybox](https://github.com/landley/toybox) - toybox
-- [libraries](https://github.com/gozfree/libraries) - Basic libraries all written in c by gozfree, including network, event, config, log, hash, ipc, rpc, mem,  and so on
+- [libraries](https://github.com/gozfree/libraries) - Lightweight libraries, wrapper and extension of POSIX
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [adbi](https://github.com/crmulliner/adbi) - Android Dynamic Binary Instrumentation Toolkit
@@ -145,7 +145,6 @@
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [cpython](https://github.com/python/cpython) - The Python programming language
-- [DjangoBlog](https://github.com/liangliangyy/DjangoBlog) - 基于Django的博客系统
 - [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
