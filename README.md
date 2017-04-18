@@ -8,6 +8,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CSS](#css)
   - [CoffeeScript](#coffeescript)
   - [Go](#go)
   - [Java](#java)
@@ -31,7 +32,7 @@
 - [Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs) - A list of my CVE's with POCs
 - [selinux](https://github.com/topjohnwu/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
 - [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
-- [MagiskSU](https://github.com/topjohnwu/MagiskSU) - Keeping koush's Superuser fresh
+- [MagiskSU](https://github.com/topjohnwu/MagiskSU) - Keeping phh's Superuser fresh
 - [super-bootimg](https://github.com/topjohnwu/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
 - [magiskpolicy](https://github.com/topjohnwu/magiskpolicy) - A fork of selinux-inject ( https://bitbucket.org/joshua_brindle/sepolicy-inject )
@@ -62,6 +63,8 @@
 
 ## C++ 
 
+- [substrate](https://github.com/r-plus/substrate) - mirror of git://git.saurik.com/substrate.git
+- [v8](https://github.com/v8/v8) - The official mirror of the V8 git repository
 - [platform_system_core](https://github.com/android/platform_system_core) - 
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
@@ -74,6 +77,10 @@
 - [duilib](https://github.com/duilib/duilib) - 
 - [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 
+## CSS 
+
+- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+
 ## CoffeeScript 
 
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
@@ -85,6 +92,9 @@
 
 ## Java 
 
+- [FcPermissions](https://github.com/lypeer/FcPermissions) - Fuck the permissions in Android M
+- [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
+- [Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability.Robust can fix bug immediately without publishing apk.
 - [booksource](https://github.com/guolindev/booksource) - 《第二行代码》全书源代码
 - [MagiskManager](https://github.com/topjohnwu/MagiskManager) - Companion Android application for Magisk
 - [Inject-Hook](https://github.com/zhouat/Inject-Hook) - for android
@@ -108,6 +118,9 @@
 
 ## JavaScript 
 
+- [adblockpluschrome](https://github.com/adblockplus/adblockpluschrome) - Adblock Plus for Chrome source code
+- [adblockplus](https://github.com/adblockplus/adblockplus) - Adblock Plus extension for Firefox and other Gecko-based browsers
+- [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension
 - [XposedBridge](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.
 
@@ -121,6 +134,7 @@
 
 ## Others 
 
+- [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
 - [ndk](https://github.com/android-ndk/ndk) - The Android Native Development Kit
 - [ZjDroid](https://github.com/halfkiss/ZjDroid) - Android app dynamic reverse tool based on Xposed framework.
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
@@ -142,6 +156,7 @@
 
 ## Python 
 
+- [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [cpython](https://github.com/python/cpython) - The Python programming language
@@ -160,9 +175,9 @@
 
 ## Shell 
 
+- [docker-aosp](https://github.com/kylemanna/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
 - [android](https://github.com/OnePlusOSS/android) - 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
 
 ## Vim script 
 
