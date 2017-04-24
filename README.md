@@ -63,7 +63,6 @@
 
 ## C++ 
 
-- [substrate](https://github.com/r-plus/substrate) - mirror of git://git.saurik.com/substrate.git
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 git repository
 - [platform_system_core](https://github.com/android/platform_system_core) - 
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
@@ -87,11 +86,14 @@
 
 ## Go 
 
-- [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
+- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 
 ## Java 
 
+- [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
+- [VirtualApp](https://github.com/asLody/VirtualApp) - An open source implementation of MultiAccount.(Support 4.0 - 8.0).
+- [XPrivacy](https://github.com/M66B/XPrivacy) - XPrivacy - The ultimate, yet easy to use, privacy manager
 - [FcPermissions](https://github.com/lypeer/FcPermissions) - Fuck the permissions in Android M
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
 - [Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability.Robust can fix bug immediately without publishing apk.
@@ -134,6 +136,7 @@
 
 ## Others 
 
+- [ShadowsocksR-Docker](https://github.com/smounives/ShadowsocksR-Docker) - :airplane: Dockerfile for shadowsocksr server
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
 - [ndk](https://github.com/android-ndk/ndk) - The Android Native Development Kit
 - [ZjDroid](https://github.com/halfkiss/ZjDroid) - Android app dynamic reverse tool based on Xposed framework.
@@ -156,6 +159,7 @@
 
 ## Python 
 
+- [shadowsocksr](https://github.com/shadowsocksr/shadowsocksr) - Python port of ShadowsocksR
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
