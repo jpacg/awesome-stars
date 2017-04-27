@@ -11,6 +11,7 @@
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
   - [Go](#go)
+  - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Lua](#lua)
@@ -36,7 +37,7 @@
 - [super-bootimg](https://github.com/topjohnwu/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
 - [magiskpolicy](https://github.com/topjohnwu/magiskpolicy) - A fork of selinux-inject ( https://bitbucket.org/joshua_brindle/sepolicy-inject )
-- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad),latte-l-oss(Mi Pad2),land-m-oss(Redmi 3S),markw-m-oss(Redmi 4)
+- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad),latte-l-oss(Mi Pad2),land-m-oss(Redmi 3S),markw-m-oss(Redmi 4),scorpio-m-oss(Mi 5/5s/5s Plus/Note2 and MIX)
 - [LuaScriptCore](https://github.com/vimfung/LuaScriptCore) - 一款简单易用的多平台Lua桥接器，目前支持在iOS、Mac OS X、Android以及Unity3D中使用，让原生环境与Lua无障碍沟通。
 - [android_kernel_oneplus_msm8996](https://github.com/OnePlusOSS/android_kernel_oneplus_msm8996) - 
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
@@ -89,8 +90,13 @@
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 
+## HTML 
+
+- [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
+
 ## Java 
 
+- [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
 - [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
 - [VirtualApp](https://github.com/asLody/VirtualApp) - An open source implementation of MultiAccount.(Support 4.0 - 8.0).
 - [FcPermissions](https://github.com/lypeer/FcPermissions) - Fuck the permissions in Android M
