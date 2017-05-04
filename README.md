@@ -88,6 +88,7 @@
 
 ## Go 
 
+- [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 
@@ -147,6 +148,7 @@
 
 ## Others 
 
+- [shadowsocks-rss](https://github.com/breakwa11/shadowsocks-rss) - ShadowsocksR update rss, SSR organization https://github.com/shadowsocksr
 - [ShadowsocksR-Docker](https://github.com/smounives/ShadowsocksR-Docker) - :airplane: Dockerfile for shadowsocksr server
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
 - [ndk](https://github.com/android-ndk/ndk) - The Android Native Development Kit
