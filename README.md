@@ -16,6 +16,7 @@
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [Makefile](#makefile)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [Pascal](#pascal)
@@ -65,6 +66,7 @@
 
 ## C++ 
 
+- [breakpad](https://github.com/google/breakpad) - Mirror of Google Breakpad project
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 git repository
 - [platform_system_core](https://github.com/android/platform_system_core) - 
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
@@ -94,10 +96,12 @@
 
 ## HTML 
 
+- [arm-gcc-inline-assembler](https://github.com/tidyjiang8/arm-gcc-inline-assembler) - ARM GCC 内联汇编参考手册 - 中文版
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 
 ## Java 
 
+- [rootcloak](https://github.com/devadvance/rootcloak) - Open source module for Xposed Framework that hides root from specific apps
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
 - [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
@@ -128,6 +132,7 @@
 
 ## JavaScript 
 
+- [ss-panel-v3-mod](https://github.com/esdeathlove/ss-panel-v3-mod) - Forked from https://github.com/orvice/ss-panel
 - [adblockpluschrome](https://github.com/adblockplus/adblockpluschrome) - Adblock Plus for Chrome source code
 - [adblockplus](https://github.com/adblockplus/adblockplus) - Adblock Plus extension for Firefox and other Gecko-based browsers
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -141,6 +146,10 @@
 ## Lua 
 
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
+
+## Makefile 
+
+- [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Objective-C 
 
