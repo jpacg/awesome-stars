@@ -16,7 +16,6 @@
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
-  - [Makefile](#makefile)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [Pascal](#pascal)
@@ -61,7 +60,6 @@
 
 ## C# # 
 
-- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 
 ## C++ 
@@ -101,6 +99,7 @@
 
 ## Java 
 
+- [condom](https://github.com/oasisfeng/condom) - 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能。（例如严重影响用户体验的『链式唤醒』）
 - [rootcloak](https://github.com/devadvance/rootcloak) - Open source module for Xposed Framework that hides root from specific apps
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
@@ -147,10 +146,6 @@
 
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
-## Makefile 
-
-- [frida](https://github.com/frida/frida) - Clone this repo to build Frida
-
 ## Objective-C 
 
 - [WeChatRedEnvelop](https://github.com/buginux/WeChatRedEnvelop) - iOS版微信抢红包Tweak
@@ -181,6 +176,7 @@
 
 ## Python 
 
+- [crawler_html2pdf](https://github.com/lzjun567/crawler_html2pdf) - 
 - [shadowsocksr](https://github.com/shadowsocksr/shadowsocksr) - Python port of ShadowsocksR
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
