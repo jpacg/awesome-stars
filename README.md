@@ -101,6 +101,7 @@
 
 ## Java 
 
+- [encore](https://github.com/fastbootmobile/encore) - An open source, extendable music player for Android.
 - [condom](https://github.com/oasisfeng/condom) - 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能。（例如严重影响用户体验的『链式唤醒』）
 - [rootcloak](https://github.com/devadvance/rootcloak) - Open source module for Xposed Framework that hides root from specific apps
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
@@ -143,6 +144,8 @@
 
 ## Kotlin 
 
+- [khttp](https://github.com/jkcclemens/khttp) - Kotlin HTTP requests library. Similar to Python requests.
+- [Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
@@ -194,12 +197,11 @@
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [enjarify](https://github.com/google/enjarify) - 
-- [requests](https://github.com/kennethreitz/requests) - Python HTTP Requests for Humans™
+- [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
 - [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
-- [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
 
 ## Shell 
 
