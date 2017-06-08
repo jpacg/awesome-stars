@@ -160,6 +160,7 @@
 
 ## Others 
 
+- [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp Manual [English and Chinese]
 - [shadowsocks-rss](https://github.com/breakwa11/shadowsocks-rss) - ShadowsocksR update rss, SSR organization https://github.com/shadowsocksr
 - [ShadowsocksR-Docker](https://github.com/smounives/ShadowsocksR-Docker) - :airplane: Dockerfile for shadowsocksr server
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
