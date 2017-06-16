@@ -18,6 +18,7 @@
   - [Lua](#lua)
   - [Objective-C](#objective-c)
   - [Others](#others)
+  - [PHP](#php)
   - [Pascal](#pascal)
   - [Perl](#perl)
   - [Python](#python)
@@ -176,6 +177,10 @@
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 
+## PHP 
+
+- [docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL & PHPMyAdmin
+
 ## Pascal 
 
 - [cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
@@ -186,6 +191,7 @@
 
 ## Python 
 
+- [PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [ykdl](https://github.com/zhangn1985/ykdl) - 
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
