@@ -40,7 +40,7 @@
 - [MagiskSU](https://github.com/topjohnwu/MagiskSU) - Keeping phh's Superuser fresh
 - [super-bootimg](https://github.com/topjohnwu/super-bootimg) - Tools to edit Android boot.img. NDK buildable, to be usable in an update.zip
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
-- [magiskpolicy](https://github.com/topjohnwu/magiskpolicy) - A fork of selinux-inject ( https://bitbucket.org/joshua_brindle/sepolicy-inject )
+- [magiskpolicy](https://github.com/topjohnwu/magiskpolicy) - SEPolicy Patching Tool
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad),latte-l-oss(Mi Pad2),land-m-oss(Redmi 3S),markw-m-oss(Redmi 4),scorpio-m-oss(Mi 5/5s/5s Plus/Note2 and MIX),mido-m-oss(Redmi Note4X)
 - [LuaScriptCore](https://github.com/vimfung/LuaScriptCore) - 一款简单易用的多平台Lua桥接器，目前支持在iOS、Mac OS X、Android以及Unity3D中使用，让原生环境与Lua无障碍沟通。
 - [android_kernel_oneplus_msm8996](https://github.com/OnePlusOSS/android_kernel_oneplus_msm8996) - 
@@ -91,6 +91,7 @@
 
 ## Go 
 
+- [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
@@ -164,7 +165,6 @@
 
 - [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp Manual [English and Chinese]
 - [shadowsocks-rss](https://github.com/breakwa11/shadowsocks-rss) - ShadowsocksR update rss, SSR organization https://github.com/shadowsocksr
-- [ShadowsocksR-Docker](https://github.com/smounives/ShadowsocksR-Docker) - :airplane: Dockerfile for shadowsocksr server
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
 - [ndk](https://github.com/android-ndk/ndk) - The Android Native Development Kit
 - [ZjDroid](https://github.com/halfkiss/ZjDroid) - Android app dynamic reverse tool based on Xposed framework.
