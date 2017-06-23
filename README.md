@@ -136,6 +136,7 @@
 
 ## JavaScript 
 
+- [DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [dockerfiles](https://github.com/waylybaye/dockerfiles) - :whale: A collection of delicious docker recipes
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
 - [ss-panel-v3-mod](https://github.com/esdeathlove/ss-panel-v3-mod) - Forked from https://github.com/orvice/ss-panel
