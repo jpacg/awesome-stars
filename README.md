@@ -145,11 +145,11 @@
 - [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
+- [APlayer](https://github.com/MoePlayer/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [Access-Control-Allow-Origin](https://github.com/vitvad/Access-Control-Allow-Origin) - Chrome extension: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
 - [Amativeness](https://github.com/DIYgod/Amativeness) - :cake: Wow, such a beautiful WordPress theme
 - [chplayer](https://github.com/niandeng-ckplayer/chplayer) - 网页视频播放器，支持mp4,flv,f4v以及m3u8格式，支持rtmp。支持点播和直播
-- [DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
+- [DPlayer](https://github.com/MoePlayer/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [dockerfiles](https://github.com/waylybaye/dockerfiles) - :whale: A collection of delicious docker recipes
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
 - [ss-panel-v3-mod](https://github.com/esdeathlove/ss-panel-v3-mod) - Forked from https://github.com/orvice/ss-panel
