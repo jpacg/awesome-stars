@@ -16,6 +16,7 @@
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [Makefile](#makefile)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -25,12 +26,11 @@
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vim script](#vim script)
+  - [Vue](#vue)
 
 ## C 
 
 - [coffeecatch](https://github.com/xroche/coffeecatch) - CoffeeCatch, a tiny native POSIX signal catcher (especially useful for JNI code on Android/Dalvik)
-- [obfsplugin](https://github.com/shadowsocksr/obfsplugin) - 
-- [shadowsocksr-libev](https://github.com/shadowsocksr/shadowsocksr-libev) - libev port of ShadowsocksR
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - mirror of git://source.ffmpeg.org/ffmpeg.git
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.
 - [VIKIROOT](https://github.com/hyln9/VIKIROOT) - CVE-2016-5195 (Dirty COW) PoC for Android 6.0.1 Marshmallow
@@ -68,6 +68,8 @@
 
 ## C++ 
 
+- [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
+- [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [breakpad](https://github.com/google/breakpad) - Mirror of Google Breakpad project
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 git repository
 - [platform_system_core](https://github.com/android/platform_system_core) - 
@@ -99,6 +101,7 @@
 
 ## HTML 
 
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
 - [OctBlog](https://github.com/flyhigher139/OctBlog) - Yet another blog system powered by Flask and MongoDB
 - [web_develop](https://github.com/dongweiming/web_develop) - 《Python Web开发实战》书中源码
 - [Head-First-HTML](https://github.com/bethrobson/Head-First-HTML) - Code for the 2nd edition of Head First HTML and CSS
@@ -112,7 +115,6 @@
 - [RePlugin](https://github.com/Qihoo360/RePlugin) - RePlugin - A flexible, stable, easy-to-use Android Plug-in Framework
 - [condom](https://github.com/oasisfeng/condom) - 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能。（例如严重影响用户体验的『链式唤醒』）
 - [rootcloak](https://github.com/devadvance/rootcloak) - Open source module for Xposed Framework that hides root from specific apps
-- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
 - [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
 - [VirtualApp](https://github.com/asLody/VirtualApp) - An open source implementation of MultiAccount.(Support 4.0 - 8.0).
@@ -142,6 +144,7 @@
 
 ## JavaScript 
 
+- [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 - [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -165,11 +168,16 @@
 - [Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 
 ## Lua 
 
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
+
+## Makefile 
+
+- [docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL & PHPMyAdmin
 
 ## Objective-C 
 
@@ -179,7 +187,6 @@
 ## Others 
 
 - [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
-- [shadowsocks-rss](https://github.com/breakwa11/shadowsocks-rss) - ShadowsocksR update rss, SSR organization https://github.com/shadowsocksr
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
 - [ndk](https://github.com/android-ndk/ndk) - The Android Native Development Kit
 - [ZjDroid](https://github.com/halfkiss/ZjDroid) - Android app dynamic reverse tool based on Xposed framework.
@@ -195,7 +202,6 @@
 ## PHP 
 
 - [adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
-- [docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL & PHPMyAdmin
 
 ## Pascal 
 
@@ -218,7 +224,6 @@
 - [ykdl](https://github.com/zhangn1985/ykdl) - 
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [crawler_html2pdf](https://github.com/lzjun567/crawler_html2pdf) - 
-- [shadowsocksr](https://github.com/shadowsocksr/shadowsocksr) - Python port of ShadowsocksR
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -250,6 +255,10 @@
 ## Vim script 
 
 - [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
+
+## Vue 
+
+- [wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 
 
 ## License
