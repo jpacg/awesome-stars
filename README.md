@@ -41,7 +41,7 @@
 - [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [MagiskSU](https://github.com/topjohnwu/MagiskSU) - Keeping phh's Superuser fresh
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
-- [magiskpolicy](https://github.com/topjohnwu/magiskpolicy) - SEPolicy Patching Tool
+- [magiskpolicy](https://github.com/topjohnwu/magiskpolicy) - sepolicy patching tool
 - [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad),latte-l-oss(Mi Pad2),land-m-oss(Redmi 3S),markw-m-oss(Redmi 4),scorpio-m-oss(Mi 5/5s/5s Plus/Note2 and MIX),mido-m-oss(Redmi Note4X)
 - [LuaScriptCore](https://github.com/vimfung/LuaScriptCore) - 一款简单易用的多平台Lua桥接器，目前支持在iOS、Mac OS X、Android以及Unity3D中使用，让原生环境与Lua无障碍沟通。
 - [android_kernel_oneplus_msm8996](https://github.com/OnePlusOSS/android_kernel_oneplus_msm8996) - 
@@ -54,7 +54,6 @@
 - [adbi](https://github.com/crmulliner/adbi) - Android Dynamic Binary Instrumentation Toolkit
 - [android_run_root_shell](https://github.com/android-rooting-tools/android_run_root_shell) - 
 - [android_bootable_recovery](https://github.com/omnirom/android_bootable_recovery) - 
-- [Team-Win-Recovery-Project](https://github.com/TeamWin/Team-Win-Recovery-Project) - Core recovery files for the Team Win Recovery Project (T.W.R.P) - this is not up to date, please see https://github.com/omnirom/android_bootable_recovery/
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 - [udis86](https://github.com/vmt/udis86) - Disassembler Library for x86 and x86-64
@@ -86,6 +85,7 @@
 
 ## CSS 
 
+- [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## CoffeeScript 
@@ -144,6 +144,7 @@
 
 ## JavaScript 
 
+- [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 - [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript
@@ -186,7 +187,6 @@
 
 ## Others 
 
-- [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
 - [ndk](https://github.com/android-ndk/ndk) - The Android Native Development Kit
 - [ZjDroid](https://github.com/halfkiss/ZjDroid) - Android app dynamic reverse tool based on Xposed framework.
@@ -201,6 +201,7 @@
 
 ## PHP 
 
+- [DVWA](https://github.com/ethicalhack3r/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 
 ## Pascal 
@@ -215,7 +216,6 @@
 
 - [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si!
 - [flask-sqlalchemy](https://github.com/mitsuhiko/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
-- [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for Python 2.7 and Python 3.5 applications (as Flask) in a single container.
 - [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [flask-mako](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask.
 - [ncmbot](https://github.com/xiyouMc/ncmbot) - NeteaseCloudMusic Bot for Philharmonic™. ✨🍰✨  网易云音乐 Python 组件库，用 Python 玩转网易云音乐
@@ -242,6 +242,7 @@
 ## Shell 
 
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for applications in Python 3.6 and Python 2.7 (as Flask) in a single container.
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
 - [docker-aosp](https://github.com/kylemanna/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
 - [android](https://github.com/OnePlusOSS/android) - 
