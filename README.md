@@ -103,18 +103,19 @@
 
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit
 - [OctBlog](https://github.com/flyhigher139/OctBlog) - Yet another blog system powered by Flask and MongoDB
-- [web_develop](https://github.com/dongweiming/web_develop) - 《Python Web开发实战》书中源码
 - [Head-First-HTML](https://github.com/bethrobson/Head-First-HTML) - Code for the 2nd edition of Head First HTML and CSS
 - [arm-gcc-inline-assembler](https://github.com/tidyjiang8/arm-gcc-inline-assembler) - ARM GCC 内联汇编参考手册 - 中文版
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 
 ## Java 
 
+- [SlimAdapter](https://github.com/MEiDIK/SlimAdapter) - A slim & clean & typeable Adapter without# VIEWHOLDER
 - [retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
 - [VirtualAPK](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android
 - [RePlugin](https://github.com/Qihoo360/RePlugin) - RePlugin - A flexible, stable, easy-to-use Android Plug-in Framework
 - [condom](https://github.com/oasisfeng/condom) - 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能。（例如严重影响用户体验的『链式唤醒』）
 - [rootcloak](https://github.com/devadvance/rootcloak) - Open source module for Xposed Framework that hides root from specific apps
+- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
 - [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
 - [VirtualApp](https://github.com/asLody/VirtualApp) - An open source implementation of MultiAccount.(Support 4.0 - 8.0).
@@ -147,7 +148,7 @@
 - [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 - [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
-- [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript
+- [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [APlayer](https://github.com/MoePlayer/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [Access-Control-Allow-Origin](https://github.com/vitvad/Access-Control-Allow-Origin) - Chrome extension: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
@@ -156,7 +157,7 @@
 - [DPlayer](https://github.com/MoePlayer/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [dockerfiles](https://github.com/waylybaye/dockerfiles) - :whale: A collection of delicious docker recipes
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
-- [ss-panel-v3-mod](https://github.com/esdeathlove/ss-panel-v3-mod) - Forked from https://github.com/orvice/ss-panel
+- [ss-panel-v3-mod](https://github.com/esdeathlove/ss-panel-v3-mod) - Forked from https://github.com/orvice/ss-panel 个人项目存档，不接受任何反馈和 PR..... Edit
 - [adblockpluschrome](https://github.com/adblockplus/adblockpluschrome) - Adblock Plus for Chrome source code
 - [adblockplus](https://github.com/adblockplus/adblockplus) - Adblock Plus extension for Firefox and other Gecko-based browsers
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -169,7 +170,6 @@
 - [Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
-- [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 
 ## Lua 
@@ -214,10 +214,15 @@
 
 ## Python 
 
-- [nyaa](https://github.com/nyaadevs/nyaa) - The software behind Nyaa.si!
+- [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+- [pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+- [enjarify](https://github.com/Storyyeller/enjarify) - 
+- [nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
 - [flask-sqlalchemy](https://github.com/mitsuhiko/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
 - [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [flask-mako](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask.
+- [web_develop](https://github.com/dongweiming/web_develop) - 《Python Web开发实战》书中源码
 - [ncmbot](https://github.com/xiyouMc/ncmbot) - NeteaseCloudMusic Bot for Philharmonic™. ✨🍰✨  网易云音乐 Python 组件库，用 Python 玩转网易云音乐
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
@@ -232,7 +237,6 @@
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
-- [enjarify](https://github.com/google/enjarify) - 
 - [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - A microframework based on Werkzeug, Jinja2 and good intentions
@@ -259,6 +263,7 @@
 
 ## Vue 
 
+- [vux](https://github.com/airyland/vux) - Vue UI Components based on WeUI
 - [wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 
 
