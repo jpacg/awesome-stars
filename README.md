@@ -25,7 +25,6 @@
   - [Python](#python)
   - [Shell](#shell)
   - [TypeScript](#typescript)
-  - [Vim script](#vim script)
   - [Vue](#vue)
 
 ## C 
@@ -269,10 +268,6 @@
 
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
-
-## Vim script 
-
-- [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
 ## Vue 
 
