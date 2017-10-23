@@ -77,7 +77,6 @@
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [breakpad](https://github.com/google/breakpad) - Mirror of Google Breakpad project
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 git repository
-- [platform_system_core](https://github.com/aosp-mirror/platform_system_core) - 
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
 - [unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
@@ -116,7 +115,6 @@
 
 ## Java 
 
-- [CyberLink4Android](https://github.com/CharonChui/CyberLink4Android) - CyberLink for Android is a development package for UPnP™ developers on Android development. CyberLink controls these protocols automatically, and supports to create your devices and control points quickly.The file on www.cybergarage.org for Android can only realize the find and browse function, so I combine the Cyberlink4Java and the jar for Android make this Cyberlink for Android. http://www.cybergarage.org/twiki/bin/view/Main/CyberLinkForJava
 - [cybergarage-upnp](https://github.com/cybergarage/cybergarage-upnp) - cybergarage-upnp is a development package for UPnP™ developers. cybergarage-upnp controls these protocols automatically, and supports to create your devices and control points quickly.
 - [cling](https://github.com/4thline/cling) - UPnP/DLNA library for Java and Android
 - [gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
