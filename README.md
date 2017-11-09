@@ -29,9 +29,12 @@
 
 ## C 
 
+- [INTANG](https://github.com/seclab-ucr/INTANG) - 
+- [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
 - [HookZz](https://github.com/jmpews/HookZz) - a hook framwork for arm/arm64/ios/android
 - [proxydroid](https://github.com/madeye/proxydroid) - Global Proxy for Android
+- [Pcap_DNSProxy](https://github.com/chengr28/Pcap_DNSProxy) - Pcap_DNSProxy, a local DNS server based on WinPcap and LibPcap
 - [Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook) - thumb16 thumb32 arm32 inlineHook in Android
 - [coffeecatch](https://github.com/xroche/coffeecatch) - CoffeeCatch, a tiny native POSIX signal catcher (especially useful for JNI code on Android/Dalvik)
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - mirror of git://source.ffmpeg.org/ffmpeg.git
@@ -45,7 +48,7 @@
 - [MagiskSU](https://github.com/topjohnwu/MagiskSU) - Keeping phh's Superuser fresh
 - [selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
 - [magiskpolicy](https://github.com/topjohnwu/magiskpolicy) - sepolicy patching tool
-- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad),latte-l-oss(Mi Pad2),land-m-oss(Redmi 3S),markw-m-oss(Redmi 4),scorpio-m-oss(Mi 5/5s/5s Plus/Note2 and MIX),mido-m-oss(Redmi Note4X)
+- [Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi kernel OpenSource：cancro-kk-oss(contain MI 3W, MI 3C, MI 4 series, MI NOTE), armani-jb-oss(H1S), dior-kk-oss(HM-NOTE-LTE), ferrari-l-oss(Xiaomi 4i), thmoas-kk-oss(HM2 LTE),libra-l-oss(Xiaomi 4c,Xiaomi 4s and Xiaomi NotePro),kenzo-l-oss(HM Note3),ido-l-oss(Redme 3 and Redmi 2 android L),gucci-kk-oss(HM Note dual SIM version),pisces-kk-oss(MI 3TD),gemini-m-oss(Mi 5),hydrogen-m-oss(Mi Max),mocha-kk-oss(Mi Pad),latte-l-oss(Mi Pad2),land-m-oss(Redmi 3S),markw-m-oss(Redmi 4),scorpio-m-oss(Mi 5/5s/5s Plus/Note2 and MIX),mido-m-oss(Redmi Note4X),sagit-n-oss(Xiaomi 6 and MIX 2)
 - [android_kernel_oneplus_msm8996](https://github.com/OnePlusOSS/android_kernel_oneplus_msm8996) - 
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -71,7 +74,6 @@
 
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi Main Repository - By using this code you agree with our policy and will follow the GPLv2 license as included
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [Pcap_DNSProxy](https://github.com/chengr28/Pcap_DNSProxy) - Pcap_DNSProxy, a local DNS server based on WinPcap and LibPcap
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [breakpad](https://github.com/google/breakpad) - Mirror of Google Breakpad project
@@ -114,6 +116,7 @@
 
 ## Java 
 
+- [jsoup](https://github.com/jhy/jsoup) - jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
 - [cybergarage-upnp](https://github.com/cybergarage/cybergarage-upnp) - cybergarage-upnp is a development package for UPnP™ developers. cybergarage-upnp controls these protocols automatically, and supports to create your devices and control points quickly.
 - [cling](https://github.com/4thline/cling) - UPnP/DLNA library for Java and Android
 - [gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
@@ -130,7 +133,7 @@
 - [VirtualApp](https://github.com/asLody/VirtualApp) - An open source implementation of MultiAccount.(Support 4.0 - 8.0).
 - [FcPermissions](https://github.com/lypeer/FcPermissions) - Fuck the permissions in Android M
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
-- [Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability.Robust can fix bug immediately without publishing apk.
+- [Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without publishing new apks.
 - [booksource](https://github.com/guolindev/booksource) - 《第二行代码》全书源代码
 - [MagiskManager](https://github.com/topjohnwu/MagiskManager) - Companion Android application for Magisk
 - [Inject-Hook](https://github.com/zhouat/Inject-Hook) - for android
@@ -139,7 +142,7 @@
 - [xUtils3](https://github.com/wyouflf/xUtils3) - android orm, bitmap, http, view inject...
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
-- [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+- [EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 - [material-dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API.
 - [BusyBox](https://github.com/jrummyapps/BusyBox) - Install BusyBox on an Android device.
 - [busybox](https://github.com/meefik/busybox) - BusyBox for Android
