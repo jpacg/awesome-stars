@@ -58,6 +58,7 @@
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [adbi](https://github.com/crmulliner/adbi) - Android Dynamic Binary Instrumentation Toolkit
 - [android_run_root_shell](https://github.com/android-rooting-tools/android_run_root_shell) - 
+- [sqlyog-community](https://github.com/webyog/sqlyog-community) - 
 - [android_bootable_recovery](https://github.com/omnirom/android_bootable_recovery) - 
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
@@ -82,7 +83,6 @@
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
 - [unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-- [sqlyog-community](https://github.com/webyog/sqlyog-community) - 
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy S devices.
 - [tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
@@ -116,6 +116,8 @@
 
 ## Java 
 
+- [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid) - RxJava bindings for Android
 - [jsoup](https://github.com/jhy/jsoup) - jsoup: Java HTML Parser, with best of DOM, CSS, and jquery
 - [cybergarage-upnp](https://github.com/cybergarage/cybergarage-upnp) - cybergarage-upnp is a development package for UPnP™ developers. cybergarage-upnp controls these protocols automatically, and supports to create your devices and control points quickly.
 - [cling](https://github.com/4thline/cling) - UPnP/DLNA library for Java and Android
@@ -166,7 +168,6 @@
 - [APlayer](https://github.com/MoePlayer/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [Access-Control-Allow-Origin](https://github.com/vitvad/Access-Control-Allow-Origin) - Chrome extension: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
 - [Amativeness](https://github.com/DIYgod/Amativeness) - :cake: Wow, such a beautiful WordPress theme
-- [chplayer](https://github.com/niandeng-ckplayer/chplayer) - 网页视频播放器，支持mp4,flv,f4v以及m3u8格式，支持rtmp。支持点播和直播
 - [DPlayer](https://github.com/MoePlayer/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [dockerfiles](https://github.com/waylybaye/dockerfiles) - :whale: A collection of delicious docker recipes
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
@@ -179,8 +180,6 @@
 
 ## Kotlin 
 
-- [khttp](https://github.com/jkcclemens/khttp) - Kotlin HTTP requests library. Similar to Python requests.
-- [Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
@@ -242,7 +241,6 @@
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [ykdl](https://github.com/zhangn1985/ykdl) - a video downloader focus on China mainland video sites.
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [crawler_html2pdf](https://github.com/lzjun567/crawler_html2pdf) - 
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
@@ -260,6 +258,7 @@
 
 ## Shell 
 
+- [libev](https://github.com/enki/libev) - Full-featured high-performance event loop loosely modelled after libevent
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for applications in Python 3.6 and Python 2.7 (as Flask) in a single container.
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
@@ -275,7 +274,6 @@
 ## Vue 
 
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
-- [wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 
 
 ## License
