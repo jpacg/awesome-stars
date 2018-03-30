@@ -77,6 +77,8 @@
 
 ## C++ 
 
+- [android-ndk](https://github.com/googlesamples/android-ndk) - Android NDK samples with Android Studio
+- [Bangcle](https://github.com/woxihuannisja/Bangcle) - The second generation Android Hardening Protection
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi Main Repository - By using this code you agree with our policy and will follow the GPLv2 license as included
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -123,6 +125,8 @@
 
 ## Java 
 
+- [exposed](https://github.com/android-hacker/exposed) - A library to use Xposed without root or recovery(or modify system image etc..).
+- [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc).
 - [epic](https://github.com/tiann/epic) - Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 4.0~8.1
 - [WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master) - Android下WIFI隔空apk安装
 - [AndroidOtgDemo](https://github.com/developerHaoz/AndroidOtgDemo) - 
@@ -174,6 +178,8 @@
 
 ## JavaScript 
 
+- [duktape-android](https://github.com/square/duktape-android) - The Duktape embeddable Javascript engine packaged for Android.
+- [duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 - [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 - [AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
@@ -189,7 +195,7 @@
 - [dockerfiles](https://github.com/waylybaye/dockerfiles) - :whale: A collection of delicious docker recipes
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin Programming Language Website
 - [ss-panel-v3-mod](https://github.com/esdeathlove/ss-panel-v3-mod) - Forked from https://github.com/orvice/ss-panel 个人项目存档，不接受任何反馈和 PR..... Edit
-- [adblockpluschrome](https://github.com/adblockplus/adblockpluschrome) - Adblock Plus for Chrome source code
+- [adblockpluschrome](https://github.com/adblockplus/adblockpluschrome) - Adblock Plus browser extension
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension
 - [XposedBridge](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.
@@ -220,6 +226,7 @@
 
 ## Others 
 
+- [Hikari](https://github.com/HikariObfuscator/Hikari) - LLVM Obfuscator
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全
 - [ndk](https://github.com/android-ndk/ndk) - The Android Native Development Kit
@@ -248,11 +255,12 @@
 
 ## Python 
 
+- [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
+- [denyhosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks
 - [Lulu](https://github.com/iawia002/Lulu) - A simple and clean video/music/image downloader 👾
-- [jiphy](https://github.com/timothycrosley/jiphy) - Your client side done in a jiphy. Python to JavaScript 2-way converter.
 - [objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [gef](https://github.com/hugsy/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
-- [PyExecJS](https://github.com/doloopwhile/PyExecJS) - Run JavaScript code from Python
+- [PyExecJS](https://github.com/doloopwhile/PyExecJS) - Run JavaScript code from Python (EOL: https://gist.github.com/doloopwhile/8c6ec7dd4703e8a44e559411cb2ea221)
 - [PySocks](https://github.com/Anorov/PySocks) - A SOCKS proxy client and wrapper for Python.
 - [python-pinyin](https://github.com/mozillazg/python-pinyin) - 汉字转拼音(pypinyin)
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
