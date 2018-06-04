@@ -29,6 +29,7 @@
 
 ## C 
 
+- [xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF (executable and shared libraries). Support Android 4.0+. Support armeabi-v7a, arm64-v8a, x86, x86_64.
 - [CustomLinker](https://github.com/liumengdeqq/CustomLinker) - 
 - [Bangcle](https://github.com/woxihuannisja/Bangcle) - The second generation Android Hardening Protection
 - [axel](https://github.com/axel-download-accelerator/axel) - light command line download accelerator
@@ -108,6 +109,7 @@
 
 ## Go 
 
+- [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S), websocket, TCP, UDP, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。
 - [TcpConnectionTest](https://github.com/linxin26/TcpConnectionTest) - 
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -134,7 +136,7 @@
 - [LuckyHooker](https://github.com/wuxianlin/LuckyHooker) - Xposed moudle to remove ads from some apps
 - [libaums](https://github.com/magnusja/libaums) - Open source library to access USB Mass Storage devices on Android without rooting your device
 - [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android
-- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。项目解析：
+- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。项目解析：
 - [AndroidVideoCache](https://github.com/danikula/AndroidVideoCache) - Cache support for any video player with help of single line
 - [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -179,6 +181,7 @@
 
 ## JavaScript 
 
+- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 使用 RSS 连接全世界
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
@@ -244,7 +247,7 @@
 - [wiki.secmobi.com](https://github.com/secmobi/wiki.secmobi.com) - SecMobi Wiki is a collection of mobile security resources.
 - [010-Editor-templates](https://github.com/MartijnB/010-Editor-templates) - 010 Editor templates
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
+- [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here (Issues CLOSED during 06/04/2018)
 
 ## PHP 
 
@@ -263,6 +266,7 @@
 
 ## Python 
 
+- [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？😍
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
 - [denyhosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks
@@ -308,7 +312,7 @@
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
 - [docker-aosp](https://github.com/kylemanna/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
 - [android](https://github.com/OnePlusOSS/android) - 
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,000+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## TypeScript 
 
