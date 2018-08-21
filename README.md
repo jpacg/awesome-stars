@@ -25,6 +25,7 @@
 
 ## C 
 
+- [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.
 - [openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
@@ -70,6 +71,7 @@
 
 ## C++ 
 
+- [FUPK3](https://github.com/F8LEFT/FUPK3) - 演示视频https://pan.baidu.com/s/1HH_-TQGca1NLoSqzvOPB3Q 密码：izm3
 - [v8eval](https://github.com/sony/v8eval) - Multi-language bindings to JavaScript engine V8
 - [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
 - [dumpDex](https://github.com/WrBug/dumpDex) - 一款Android脱壳工具，需要xposed支持
@@ -102,6 +104,7 @@
 
 ## Go 
 
+- [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy software
@@ -121,12 +124,13 @@
 
 ## Java 
 
+- [jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Use what you like.
 - [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) - Android SQLite API based on SQLCipher
 - [LitePal](https://github.com/LitePalFramework/LitePal) - An Android library that makes developers use SQLite database extremely easy.
 - [Aopermission](https://github.com/crazyqiang/Aopermission) - AOP方式封装的6.0运行时申请权限的库—A library that request Permissions in an AOP manner.
 - [exposed](https://github.com/android-hacker/exposed) - A library to use Xposed without root or recovery(or modify system image etc..).
 - [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
-- [epic](https://github.com/tiann/epic) - Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 4.0~8.1
+- [epic](https://github.com/tiann/epic) - Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 4.0~9.0
 - [WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master) - Android下WIFI隔空apk安装
 - [AndroidOtgDemo](https://github.com/developerHaoz/AndroidOtgDemo) - 
 - [LuckyHooker](https://github.com/wuxianlin/LuckyHooker) - Xposed moudle to remove ads from some apps
@@ -150,7 +154,7 @@
 - [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
-- [VirtualApp](https://github.com/asLody/VirtualApp) - An open source Virtual Engine for Android
+- [VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 9.0 in business version)
 - [FcPermissions](https://github.com/lypeer/FcPermissions) - Fuck the permissions in Android M
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
 - [Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without a reboot.
@@ -162,7 +166,6 @@
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
 - [EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
-- [material-dialogs](https://github.com/afollestad/material-dialogs) - A beautiful, fluid, and customizable dialogs API.
 - [BusyBox](https://github.com/jrummyapps/BusyBox) - Install BusyBox on an Android device.
 - [busybox](https://github.com/meefik/busybox) - BusyBox for Android
 - [libsuperuser](https://github.com/Chainfire/libsuperuser) - Example code for "How-To SU"
@@ -173,12 +176,14 @@
 
 ## JavaScript 
 
+- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [async](https://github.com/caolan/async) - Async utilities for node and the browser
+- [browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [Rules](https://github.com/lhie1/Rules) - Rules / 规则：Surge / Shadowrocket / Quantumult
 - [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nodejs-mobile](https://github.com/janeasystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
-- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 万物皆可 RSS
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
@@ -206,6 +211,7 @@
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
+- [material-dialogs](https://github.com/afollestad/material-dialogs) - [Version 2 available in alpha now] A beautiful, fluid, and customizable dialogs API.
 
 ## Lua 
 
@@ -252,6 +258,7 @@
 
 ## Python 
 
+- [sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
@@ -259,7 +266,7 @@
 - [cowrie](https://github.com/micheloosterhof/cowrie) - Cowrie SSH/Telnet Honeypot
 - [lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
 - [pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
-- [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？😍
+- [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
 - [denyhosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks
