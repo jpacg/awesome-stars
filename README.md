@@ -73,7 +73,7 @@
 
 - [FUPK3](https://github.com/F8LEFT/FUPK3) - 演示视频https://pan.baidu.com/s/1HH_-TQGca1NLoSqzvOPB3Q 密码：izm3
 - [v8eval](https://github.com/sony/v8eval) - Multi-language bindings to JavaScript engine V8
-- [protobuf](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format
+- [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [dumpDex](https://github.com/WrBug/dumpDex) - 一款Android脱壳工具，需要xposed支持
 - [android-ndk](https://github.com/googlesamples/android-ndk) - Android NDK samples with Android Studio
 - [Bangcle](https://github.com/woxihuannisja/Bangcle) - The second generation Android Hardening Protection
@@ -176,6 +176,8 @@
 
 ## JavaScript 
 
+- [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
+- [violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
@@ -211,7 +213,7 @@
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
-- [material-dialogs](https://github.com/afollestad/material-dialogs) - [Version 2 available in alpha now] A beautiful, fluid, and customizable dialogs API.
+- [material-dialogs](https://github.com/afollestad/material-dialogs) - [Version 2 in alpha now] A beautiful, fluid, and customizable dialogs API for Kotlin & Android.
 
 ## Lua 
 
@@ -230,7 +232,7 @@
 ## Others 
 
 - [android](https://github.com/omnirom/android) - 
-- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Shadowrocket、Pepi(ShadowRay)、Kitsunebi、Potatso 2、V2Ray(v2rayNG、BifrostV) 的配置规则文件
+- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Shadowrocket、Pepi(ShadowRay)、Kitsunebi、Potatso 2、Quantumult、Surfboard 、V2Ray(v2rayNG、BifrostV) 的配置规则文件
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
 - [Hikari](https://github.com/HikariObfuscator/Hikari) - LLVM Obfuscator
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
