@@ -104,6 +104,9 @@
 
 ## Go 
 
+- [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
+- [shuttle](https://github.com/sipt/shuttle) - ss-local proxy, HTTP/HTTPS 抓包，多服务器rtt选择，DNS解析(参照Surge)
+- [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
@@ -305,6 +308,7 @@
 
 ## Shell 
 
+- [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [one-key-kms](https://github.com/dakkidaze/one-key-kms) - 在Linux上一键搭建KMS服务器
 - [across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
 - [libev](https://github.com/enki/libev) - Full-featured high-performance event loop loosely modelled after libevent
