@@ -22,6 +22,7 @@
   - [Python](#python)
   - [Shell](#shell)
   - [TypeScript](#typescript)
+  - [Visual Basic](#visual-basic)
   - [Vue](#vue)
 
 ## C 
@@ -109,6 +110,8 @@
 
 ## Go 
 
+- [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [pipe](https://github.com/b3log/pipe) - :saxophone: A small and beautiful blogging platform. 小而美的博客平台。
 - [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -134,6 +137,7 @@
 
 ## Java 
 
+- [symphony](https://github.com/b3log/symphony) - :notes: A modern community (forum/BBS/SNS/blog) platform written in Java. 一个用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com
 - [jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Use what you like.
 - [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) - Android SQLite API based on SQLCipher
 - [LitePal](https://github.com/LitePalFramework/LitePal) - An Android library that makes developers use SQLite database extremely easy.
@@ -186,6 +190,8 @@
 
 ## JavaScript 
 
+- [crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
+- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - parse IQIYI url, and download the videos.
 - [DroidSSLUnpinning](https://github.com/WooyunDota/DroidSSLUnpinning) - Android certificate pinning disable tools
 - [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.
@@ -272,6 +278,7 @@
 
 ## Python 
 
+- [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing.
 - [sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -330,6 +337,10 @@
 
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
+
+## Visual Basic 
+
+- [Lime-RAT](https://github.com/NYAN-x-CAT/Lime-RAT) - LimeRAT | Simple, yet powerful remote administration tool for Windows
 
 ## Vue 
 
