@@ -137,7 +137,6 @@
 
 ## Java 
 
-- [symphony](https://github.com/b3log/symphony) - :notes: A modern community (forum/BBS/SNS/blog) platform written in Java. 一个用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com
 - [jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Use what you like.
 - [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) - Android SQLite API based on SQLCipher
 - [LitePal](https://github.com/LitePalFramework/LitePal) - An Android library that makes developers use SQLite database extremely easy.
@@ -190,6 +189,7 @@
 
 ## JavaScript 
 
+- [Frida-Scripts](https://github.com/smartdone/Frida-Scripts) - 一些自己写的frida脚本
 - [crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - parse IQIYI url, and download the videos.
@@ -335,6 +335,7 @@
 
 ## TypeScript 
 
+- [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
 
