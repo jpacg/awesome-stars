@@ -73,6 +73,8 @@
 
 ## C++ 
 
+- [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [FUPK3](https://github.com/F8LEFT/FUPK3) - 演示视频https://pan.baidu.com/s/1HH_-TQGca1NLoSqzvOPB3Q 密码：izm3
 - [v8eval](https://github.com/sony/v8eval) - Multi-language bindings to JavaScript engine V8
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
@@ -106,12 +108,13 @@
 
 ## Dockerfile 
 
-- [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for applications in Python 3.6 and Python 2.7 (as Flask) in a single container. Optionally with Alpine Linux.
+- [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for applications in Python 3.7, 3.6, 3.5 and Python 2.7 (as Flask) in a single container. Optionally with Alpine Linux.
 
 ## Go 
 
+- [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [pipe](https://github.com/b3log/pipe) - :saxophone: A small and beautiful blogging platform. 小而美的博客平台。
+- [pipe](https://github.com/b3log/pipe) - :saxophone: 一款小而美的 Go 博客平台。https://hacpai.com/tag/pipe
 - [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -137,6 +140,8 @@
 
 ## Java 
 
+- [jsweet](https://github.com/cincheo/jsweet) - A Java to JavaScript transpiler.
+- [XAOP](https://github.com/xuexiangjys/XAOP) - 🔥一个轻量级的AOP(Android)应用框架。囊括了最实用的AOP应用。
 - [jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Use what you like.
 - [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) - Android SQLite API based on SQLCipher
 - [LitePal](https://github.com/LitePalFramework/LitePal) - An Android library that makes developers use SQLite database extremely easy.
@@ -231,7 +236,7 @@
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
-- [material-dialogs](https://github.com/afollestad/material-dialogs) - [Version 2 in alpha now] A beautiful, fluid, and customizable dialogs API for Kotlin & Android.
+- [material-dialogs](https://github.com/afollestad/material-dialogs) - [Version 2 in beta now] A beautiful and fluid dialogs API for Kotlin & Android.
 
 ## Lua 
 
@@ -250,7 +255,7 @@
 ## Others 
 
 - [android](https://github.com/omnirom/android) - 
-- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Shadowrocket、Pepi(ShadowRay)、Kitsunebi、Potatso 2、Quantumult、Surfboard 、V2Ray(v2rayNG、BifrostV) 的配置规则文件
+- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Quantumult、Shadowrocket、Pepi(ShadowRay)、Kitsunebi、Potatso 2、Surfboard 、V2Ray(v2rayNG、BifrostV) 的配置规则文件
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
 - [Hikari](https://github.com/HikariObfuscator/Hikari) - LLVM Obfuscator
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
