@@ -73,6 +73,7 @@
 
 ## C++ 
 
+- [dnscat2](https://github.com/iagox86/dnscat2) - 
 - [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [FUPK3](https://github.com/F8LEFT/FUPK3) - 演示视频https://pan.baidu.com/s/1HH_-TQGca1NLoSqzvOPB3Q 密码：izm3
@@ -112,6 +113,7 @@
 
 ## Go 
 
+- [shadowtunnel](https://github.com/snail007/shadowtunnel) - secure tunnel which help you protecting your tcp traffic between your machine and your service on remote.
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [pipe](https://github.com/b3log/pipe) - :saxophone: 一款小而美的 Go 博客平台。https://hacpai.com/tag/pipe
@@ -140,6 +142,7 @@
 
 ## Java 
 
+- [Neptune](https://github.com/iqiyi/Neptune) - A flexible, powerful and lightweight plugin framework for Android
 - [jsweet](https://github.com/cincheo/jsweet) - A Java to JavaScript transpiler.
 - [XAOP](https://github.com/xuexiangjys/XAOP) - 🔥一个轻量级的AOP(Android)应用框架。囊括了最实用的AOP应用。
 - [jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Use what you like.
@@ -194,6 +197,8 @@
 
 ## JavaScript 
 
+- [whistle](https://github.com/avwo/whistle) - HTTP, HTTPS, WebSocket debugging proxy
+- [anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
 - [Frida-Scripts](https://github.com/smartdone/Frida-Scripts) - 一些自己写的frida脚本
 - [crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -255,7 +260,7 @@
 ## Others 
 
 - [android](https://github.com/omnirom/android) - 
-- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Quantumult、Shadowrocket、Pepi(ShadowRay)、Kitsunebi、Potatso 2、Surfboard 、V2Ray(v2rayNG、BifrostV) 的配置规则文件
+- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Quantumult、Kitsunebi、Shadowrocket、Pepi(ShadowRay) 的配置规则文件
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
 - [Hikari](https://github.com/HikariObfuscator/Hikari) - LLVM Obfuscator
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
@@ -283,6 +288,13 @@
 
 ## Python 
 
+- [black](https://github.com/ambv/black) - The uncompromising Python code formatter
+- [astroid](https://github.com/PyCQA/astroid) - A common base representation of python source code for pylint and other projects
+- [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
+- [flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
+- [yapf](https://github.com/google/yapf) - A formatter for Python files
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
+- [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing framework capable of performing static analysis, dynamic analysis, malware analysis and web API testing.
 - [sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
