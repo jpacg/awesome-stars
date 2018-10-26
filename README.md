@@ -27,6 +27,7 @@
 
 ## C 
 
+- [xAnSo](https://github.com/freakishfox/xAnSo) - Android So文件浏览修复工具
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.
 - [openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
@@ -113,10 +114,11 @@
 
 ## Go 
 
+- [go-sniffer](https://github.com/40t/go-sniffer) - 🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
 - [shadowtunnel](https://github.com/snail007/shadowtunnel) - secure tunnel which help you protecting your tcp traffic between your machine and your service on remote.
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [pipe](https://github.com/b3log/pipe) - :saxophone: 一款小而美的 Go 博客平台。https://hacpai.com/tag/pipe
+- [pipe](https://github.com/b3log/pipe) - 🎷 一款小而美的 Go 博客平台。https://hacpai.com/tag/pipe
 - [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -142,6 +144,7 @@
 
 ## Java 
 
+- [CryptoFucker](https://github.com/Chenyuxin/CryptoFucker) - A xposed plugin for intercepting crypto parameters from apk files.
 - [Neptune](https://github.com/iqiyi/Neptune) - A flexible, powerful and lightweight plugin framework for Android
 - [jsweet](https://github.com/cincheo/jsweet) - A Java to JavaScript transpiler.
 - [XAOP](https://github.com/xuexiangjys/XAOP) - 🔥一个轻量级的AOP(Android)应用框架。囊括了最实用的AOP应用。
@@ -259,6 +262,7 @@
 
 ## Others 
 
+- [helloflask](https://github.com/greyli/helloflask) - 《Flask Web开发实战》Meta仓库（源码、勘误、FAQ等）
 - [android](https://github.com/omnirom/android) - 
 - [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Quantumult、Kitsunebi、Shadowrocket、Pepi(ShadowRay) 的配置规则文件
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
@@ -288,6 +292,10 @@
 
 ## Python 
 
+- [DecLLVM](https://github.com/F8LEFT/DecLLVM) - 针对OLLVM的IDA分析插件
+- [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
+- [python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers. :tada:
+- [ss.conf-for-surge](https://github.com/R0uter/ss.conf-for-surge) - Generate ss.conf for Surge
 - [black](https://github.com/ambv/black) - The uncompromising Python code formatter
 - [astroid](https://github.com/PyCQA/astroid) - A common base representation of python source code for pylint and other projects
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
