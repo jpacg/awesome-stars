@@ -27,6 +27,7 @@
 
 ## C 
 
+- [HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
 - [xAnSo](https://github.com/freakishfox/xAnSo) - Android So文件浏览修复工具
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.
@@ -75,7 +76,7 @@
 ## C++ 
 
 - [dnscat2](https://github.com/iagox86/dnscat2) - 
-- [electron](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [FUPK3](https://github.com/F8LEFT/FUPK3) - 演示视频https://pan.baidu.com/s/1HH_-TQGca1NLoSqzvOPB3Q 密码：izm3
 - [v8eval](https://github.com/sony/v8eval) - Multi-language bindings to JavaScript engine V8
@@ -200,6 +201,7 @@
 
 ## JavaScript 
 
+- [aes-js](https://github.com/ricmoo/aes-js) - A pure JavaScript implementation of the AES block cipher and all common modes of operation for node.js or web browsers.
 - [whistle](https://github.com/avwo/whistle) - HTTP, HTTPS, WebSocket debugging proxy
 - [anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
 - [Frida-Scripts](https://github.com/smartdone/Frida-Scripts) - 一些自己写的frida脚本
@@ -223,7 +225,7 @@
 - [duktape-android](https://github.com/square/duktape-android) - The Duktape embeddable Javascript engine packaged for Android.
 - [duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
-- [etcher](https://github.com/resin-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 - [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
@@ -264,7 +266,7 @@
 
 - [helloflask](https://github.com/greyli/helloflask) - 《Flask Web开发实战》Meta仓库（源码、勘误、FAQ等）
 - [android](https://github.com/omnirom/android) - 
-- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Quantumult、Kitsunebi、Shadowrocket、Pepi(ShadowRay) 的配置规则文件
+- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Quantumult、Kitsunebi、Shadowrocket、Pepi(ShadowRay)、Surfboard 的配置规则文件
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
 - [Hikari](https://github.com/HikariObfuscator/Hikari) - LLVM Obfuscator
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
@@ -344,7 +346,7 @@
 - [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
+- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 
 ## Shell 
