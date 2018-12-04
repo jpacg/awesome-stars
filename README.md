@@ -27,6 +27,10 @@
 
 ## C 
 
+- [EasyHook](https://github.com/EasyHook/EasyHook) - EasyHook - The reinvention of Windows API Hooking
+- [funchook](https://github.com/kubo/funchook) - Funchook - an API Hook Library
+- [zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
+- [zlib](https://github.com/cloudflare/zlib) - Cloudflare fork of zlib with massive performance improvements
 - [zfs](https://github.com/zfsonlinux/zfs) - ZFS on Linux - the official OpenZFS implementation for Linux.
 - [HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
 - [xAnSo](https://github.com/freakishfox/xAnSo) - Android So文件浏览修复工具
@@ -76,6 +80,9 @@
 
 ## C++ 
 
+- [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack
+- [GuiLite](https://github.com/idea4good/GuiLite) - Build UI framework for all platform with 5,000 lines code
+- [xspy](https://github.com/lynnux/xspy) - Spy for MFC/ATL/WTL window
 - [tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [dnscat2](https://github.com/iagox86/dnscat2) - 
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -252,7 +259,7 @@
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
-- [material-dialogs](https://github.com/afollestad/material-dialogs) - [Version 2 in beta now] A beautiful and fluid dialogs API for Kotlin & Android.
+- [material-dialogs](https://github.com/afollestad/material-dialogs) - [Version 2 is now a RC] A beautiful and fluid dialogs API for Kotlin & Android.
 
 ## Lua 
 
@@ -352,7 +359,7 @@
 - [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans™ ✨🍰✨
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [httpie](https://github.com/jakubroztocil/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 
 ## Shell 
