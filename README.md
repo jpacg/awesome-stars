@@ -27,6 +27,7 @@
 
 ## C 
 
+- [cocker](https://github.com/calvinwilliams/cocker) - Container Engine
 - [EasyHook](https://github.com/EasyHook/EasyHook) - EasyHook - The reinvention of Windows API Hooking
 - [funchook](https://github.com/kubo/funchook) - Funchook - an API Hook Library
 - [zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
@@ -80,6 +81,7 @@
 
 ## C++ 
 
+- [easyloggingpp](https://github.com/zuhd-org/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
 - [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack
 - [GuiLite](https://github.com/idea4good/GuiLite) - Build UI framework for all platform with 5,000 lines code
 - [xspy](https://github.com/lynnux/xspy) - Spy for MFC/ATL/WTL window
@@ -100,6 +102,7 @@
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [breakpad](https://github.com/google/breakpad) - Mirror of Google Breakpad project
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -196,7 +199,6 @@
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
 - [Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without a reboot.
 - [booksource](https://github.com/guolindev/booksource) - 《第一行代码 第2版》全书源代码
-- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [Inject-Hook](https://github.com/zhouat/Inject-Hook) - for android
 - [ReLinker](https://github.com/KeepSafe/ReLinker) - A robust native library loader for Android.
 - [opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
@@ -213,6 +215,7 @@
 
 ## JavaScript 
 
+- [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
 - [javascript-zh](https://github.com/BingKui/javascript-zh) - Airbnb 出品，目前非常流行的 JavaScript 代码规范（中文版）。其内对各种 js 范式的写法进行了详细的规定与说明，按照此规范写出的代码将会更加合理。
 - [aes-js](https://github.com/ricmoo/aes-js) - A pure JavaScript implementation of the AES block cipher and all common modes of operation for node.js or web browsers.
 - [whistle](https://github.com/avwo/whistle) - HTTP, HTTPS, WebSocket debugging proxy
@@ -277,9 +280,10 @@
 
 ## Others 
 
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [helloflask](https://github.com/greyli/helloflask) - 《Flask Web开发实战》Meta仓库（源码、勘误、FAQ等）
 - [android](https://github.com/omnirom/android) - 
-- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Quantumult、Kitsunebi、Shadowrocket、Pepi(ShadowRay)、Surfboard 的配置规则文件
+- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Quantumult、Kitsunebi、Shadowrocket、Pepi(ShadowRay)、Surfboard、Clash 的配置规则文件
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
 - [Hikari](https://github.com/HikariObfuscator/Hikari) - LLVM Obfuscator
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
