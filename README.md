@@ -7,6 +7,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
@@ -27,6 +28,7 @@
 
 ## C 
 
+- [xmake](https://github.com/tboox/xmake) - 🔥 A cross-platform build utility based on Lua
 - [cocker](https://github.com/calvinwilliams/cocker) - Container Engine
 - [EasyHook](https://github.com/EasyHook/EasyHook) - EasyHook - The reinvention of Windows API Hooking
 - [funchook](https://github.com/kubo/funchook) - Funchook - an API Hook Library
@@ -76,14 +78,17 @@
 
 ## C# # 
 
+- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
+- [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Get types, methods, fields and so on from Unity Il2Cpp binary file
 - [wtg-assistant](https://github.com/nkc3g4/wtg-assistant) - 
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 
 ## C++ 
 
+- [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [easyloggingpp](https://github.com/zuhd-org/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
-- [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack
-- [GuiLite](https://github.com/idea4good/GuiLite) - Build UI framework for all platform with 5,000 lines code
+- [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了，so easy！
+- [GuiLite](https://github.com/idea4good/GuiLite) - The smallest UI framework for all platform -- 5,000 lines code
 - [xspy](https://github.com/lynnux/xspy) - Spy for MFC/ATL/WTL window
 - [tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [dnscat2](https://github.com/iagox86/dnscat2) - 
@@ -102,7 +107,6 @@
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [breakpad](https://github.com/google/breakpad) - Mirror of Google Breakpad project
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -121,12 +125,18 @@
 
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 
+## Dart 
+
+- [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
+
 ## Dockerfile 
 
+- [laradock](https://github.com/laradock/laradock) - Docker PHP development environment.
 - [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for applications in Python 3.7, 3.6, 3.5 and Python 2.7 (as Flask) in a single container. Optionally with Alpine Linux.
 
 ## Go 
 
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [goproxy](https://github.com/shell909090/goproxy) - 基于go写的隧道代理服务器。
 - [lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
@@ -136,7 +146,7 @@
 - [shadowtunnel](https://github.com/snail007/shadowtunnel) - secure tunnel which help you protecting your tcp traffic between your machine and your service on remote.
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [delve](https://github.com/derekparker/delve) - Delve is a debugger for the Go programming language.
+- [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
@@ -199,6 +209,7 @@
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
 - [Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without a reboot.
 - [booksource](https://github.com/guolindev/booksource) - 《第一行代码 第2版》全书源代码
+- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
 - [Inject-Hook](https://github.com/zhouat/Inject-Hook) - for android
 - [ReLinker](https://github.com/KeepSafe/ReLinker) - A robust native library loader for Android.
 - [opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
@@ -215,6 +226,7 @@
 
 ## JavaScript 
 
+- [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
 - [javascript-zh](https://github.com/BingKui/javascript-zh) - Airbnb 出品，目前非常流行的 JavaScript 代码规范（中文版）。其内对各种 js 范式的写法进行了详细的规定与说明，按照此规范写出的代码将会更加合理。
 - [aes-js](https://github.com/ricmoo/aes-js) - A pure JavaScript implementation of the AES block cipher and all common modes of operation for node.js or web browsers.
@@ -242,7 +254,7 @@
 - [duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [vue](https://github.com/vuejs/vue) - 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [flv.js](https://github.com/Bilibili/flv.js) - HTML5 FLV Player
 - [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
@@ -255,6 +267,7 @@
 
 ## Kotlin 
 
+- [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [v2rayNG](https://github.com/2dust/v2rayNG) - 
 - [Actinium](https://github.com/V2Ray-Android/Actinium) - A 3rd party V2Ray client for Android
@@ -283,7 +296,7 @@
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [helloflask](https://github.com/greyli/helloflask) - 《Flask Web开发实战》Meta仓库（源码、勘误、FAQ等）
 - [android](https://github.com/omnirom/android) - 
-- [Profiles](https://github.com/ConnersHua/Profiles) - Surge、Quantumult、Kitsunebi、Shadowrocket、Pepi(ShadowRay)、Surfboard、Clash 的配置规则文件
+- [Profiles](https://github.com/ConnersHua/Profiles) - Clash、Kitsunebi、Quantumult、Shadowrocket、Pepi(ShadowRay)、Surge 的配置规则文件
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
 - [Hikari](https://github.com/HikariObfuscator/Hikari) - LLVM Obfuscator
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
@@ -300,6 +313,7 @@
 
 ## PHP 
 
+- [Cloudreve](https://github.com/HFO4/Cloudreve) - 🌈支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
 - [typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [wordpress-pubsubhubbub](https://github.com/pubsubhubbub/wordpress-pubsubhubbub) - WebSub/PubSubHubbub for WordPress
 - [DVWA](https://github.com/ethicalhack3r/DVWA) - Damn Vulnerable Web Application (DVWA)
@@ -307,10 +321,14 @@
 
 ## Pascal 
 
+- [VXPack](https://github.com/VXPack/VXPack) - 一个开源的压缩壳
 - [cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 
 ## Python 
 
+- [COMFinder](https://github.com/howmp/COMFinder) - IDA plugin for COM
+- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [DecLLVM](https://github.com/F8LEFT/DecLLVM) - 针对OLLVM的IDA分析插件
 - [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers. :tada:
