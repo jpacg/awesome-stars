@@ -29,6 +29,7 @@
 
 ## C 
 
+- [FastHook](https://github.com/turing-technician/FastHook) - Android ART Hook
 - [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library
 - [xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [cocker](https://github.com/calvinwilliams/cocker) - Container Engine
@@ -43,7 +44,7 @@
 - [openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [mandibule](https://github.com/ixty/mandibule) - linux elf injector for x86 x86_64 arm arm64
-- [xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF (executable and shared libraries). Support Android 4.0+. Support armeabi-v7a, arm64-v8a, x86, x86_64.
+- [xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF. Support Android 4.0 - 9.0. Support armeabi-v7a, arm64-v8a, x86 and x86_64.
 - [CustomLinker](https://github.com/liumengdeqq/CustomLinker) - 
 - [axel](https://github.com/axel-download-accelerator/axel) - light command line download accelerator
 - [bplustree](https://github.com/begeekmyfriend/bplustree) - A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage
@@ -52,6 +53,7 @@
 - [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol
 - [proxydroid](https://github.com/madeye/proxydroid) - Global Proxy for Android
 - [Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook) - thumb16 thumb32 arm32 inlineHook in Android
+- [pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [coffeecatch](https://github.com/xroche/coffeecatch) - CoffeeCatch, a tiny native POSIX signal catcher (especially useful for JNI code on Android/Dalvik)
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of git://source.ffmpeg.org/ffmpeg.git
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
@@ -85,13 +87,14 @@
 
 ## C++ 
 
+- [cryptopp](https://github.com/weidai11/cryptopp) - free C++ class library of cryptographic schemes
 - [json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 - [whale](https://github.com/asLody/whale) - Hook Framework for Android/IOS/Linux/MacOS
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [easyloggingpp](https://github.com/zuhd-org/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
 - [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
-- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️Barebone UI for all platform & Docker -- 5k lines code
+- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest GUI library(5 KLOC) for all platforms
 - [xspy](https://github.com/lynnux/xspy) - Spy for MFC/ATL/WTL window
 - [tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [dnscat2](https://github.com/iagox86/dnscat2) - 
@@ -100,7 +103,7 @@
 - [FUPK3](https://github.com/F8LEFT/FUPK3) - 演示视频https://pan.baidu.com/s/1HH_-TQGca1NLoSqzvOPB3Q 密码：izm3
 - [v8eval](https://github.com/sony/v8eval) - Multi-language bindings to JavaScript engine V8
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [dumpDex](https://github.com/WrBug/dumpDex) - 💯一款Android脱壳工具，需要xposed支持
+- [dumpDex](https://github.com/WrBug/dumpDex) - 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目：
 - [android-ndk](https://github.com/googlesamples/android-ndk) - Android NDK samples with Android Studio
 - [Bangcle](https://github.com/woxihuannisja/Bangcle) - The second generation Android Hardening Protection
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
@@ -129,6 +132,7 @@
 
 ## Dart 
 
+- [flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
 ## Dockerfile 
@@ -175,6 +179,8 @@
 
 ## Java 
 
+- [butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
+- [APIJSON](https://github.com/TommyLemon/APIJSON) - 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
 - [emulator](https://github.com/zhkl0228/emulator) - Allows you to emulate an Android ARM32 and/or ARM64 native library
 - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, JavaScript, Python, C++, C, Rust, TypeScript.
 - [DeveloperHelper](https://github.com/WrBug/DeveloperHelper) - 📌易开发是一款帮助开发人员快速开发的工具，功能包括界面分析，页面信息，加固脱壳，支持Android9.0
@@ -212,7 +218,7 @@
 - [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
-- [VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 9.0 in business version)
+- [VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 10.0 in business version)
 - [FcPermissions](https://github.com/lypeer/FcPermissions) - Fuck the permissions in Android M
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
 - [Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without a reboot.
@@ -232,6 +238,8 @@
 
 ## JavaScript 
 
+- [baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速
+- [pipe-demo](https://github.com/metowolf/pipe-demo) - 从零开始写一个代理
 - [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
@@ -282,7 +290,7 @@
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
-- [material-dialogs](https://github.com/afollestad/material-dialogs) - [Version 2 is now stable] A beautiful and fluid dialogs API for Kotlin & Android.
+- [material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful and fluid dialogs API for Kotlin & Android.
 
 ## Lua 
 
@@ -300,6 +308,7 @@
 
 ## Others 
 
+- [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [postern-stuff](https://github.com/postern-overwal/postern-stuff) - Postern binaries & documents & configurations
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -371,7 +380,6 @@
 - [PySocks](https://github.com/Anorov/PySocks) - A SOCKS proxy client and wrapper for Python.
 - [python-pinyin](https://github.com/mozillazg/python-pinyin) - 汉字转拼音(pypinyin)
 - [cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
-- [pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [enjarify](https://github.com/Storyyeller/enjarify) - 
 - [nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
 - [flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
@@ -384,7 +392,7 @@
 - [crawler_html2pdf](https://github.com/lzjun567/crawler_html2pdf) - 
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
-- [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
@@ -407,10 +415,11 @@
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [docker-letsencrypt-nginx-proxy-companion](https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion) - LetsEncrypt companion container for nginx-proxy
 - [docker-aosp](https://github.com/kylemanna/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,200+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## TypeScript 
 
+- [code-server](https://github.com/codercom/code-server) - Run VS Code on a remote server.
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
@@ -421,10 +430,11 @@
 
 ## Visual Basic 
 
-- [Lime-RAT](https://github.com/NYAN-x-CAT/Lime-RAT) - LimeRAT | Simple, yet powerful remote administration tool for Windows
+- [Lime-RAT](https://github.com/NYAN-x-CAT/Lime-RAT) - LimeRAT | Simple, yet powerful remote administration tool for Windows (RAT)
 
 ## Vue 
 
+- [uni-app](https://github.com/dcloudio/uni-app) - 使用 Vue.js 开发跨平台应用的前端框架
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
 
 
