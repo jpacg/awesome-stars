@@ -21,6 +21,7 @@
   - [PHP](#php)
   - [Pascal](#pascal)
   - [Python](#python)
+  - [Rust](#rust)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
@@ -29,6 +30,8 @@
 
 ## C 
 
+- [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [xCrash](https://github.com/iqiyi/xCrash) - 🔥 A crash reporting library for Android APPs. Support catching native crash and Java exception. Support Android 4.0 - 9.0 (API level 14 - 28). Support armeabi, armeabi-v7a, arm64-v8a, x86 and x86_64.
 - [FastHook](https://github.com/turing-technician/FastHook) - Android ART Hook
 - [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library
 - [xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -44,7 +47,7 @@
 - [openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [mandibule](https://github.com/ixty/mandibule) - linux elf injector for x86 x86_64 arm arm64
-- [xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF. Support Android 4.0 - 9.0. Support armeabi-v7a, arm64-v8a, x86 and x86_64.
+- [xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF. Support Android 4.0 - 9.0 (API level 14 - 28). Support armeabi, armeabi-v7a, arm64-v8a, x86 and x86_64.
 - [CustomLinker](https://github.com/liumengdeqq/CustomLinker) - 
 - [axel](https://github.com/axel-download-accelerator/axel) - light command line download accelerator
 - [bplustree](https://github.com/begeekmyfriend/bplustree) - A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage
@@ -94,7 +97,7 @@
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [easyloggingpp](https://github.com/zuhd-org/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
 - [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
-- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest GUI library(5 KLOC) for all platforms
+- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest GUI library(5 KLOC) for all platfoms
 - [xspy](https://github.com/lynnux/xspy) - Spy for MFC/ATL/WTL window
 - [tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [dnscat2](https://github.com/iagox86/dnscat2) - 
@@ -142,6 +145,12 @@
 
 ## Go 
 
+- [govendor](https://github.com/kardianos/govendor) - Go vendor tool that works with the standard vendor file.
+- [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+- [gorequest](https://github.com/parnurzeal/gorequest) - GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
+- [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+- [cron](https://github.com/robfig/cron) - a cron library for go
+- [dnscrypt-proxy](https://github.com/jedisct1/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
 - [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 - [syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
@@ -150,7 +159,7 @@
 - [goproxy](https://github.com/shell909090/goproxy) - 基于go写的隧道代理服务器。
 - [lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 - [goflyway](https://github.com/coyove/goflyway) - An encrypted HTTP server
-- [daze](https://github.com/godump/daze) - Daze is a tool to help you link to the Internet.
+- [daze](https://github.com/mohanson/daze) - Daze is a tool to help you link to the Internet.
 - [go-sniffer](https://github.com/40t/go-sniffer) - 🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
 - [shadowtunnel](https://github.com/snail007/shadowtunnel) - secure tunnel which help you protecting your tcp traffic between your machine and your service on remote.
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -164,7 +173,7 @@
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 - [sshhipot](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
-- [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。
+- [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S), websocket,TCP, UDP,Secure DNS,Socks5 proxy server .Chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding ,ipv4 and ipv6 supporting .Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,支持ipv4和ipv6,集成外部API。
 - [TcpConnectionTest](https://github.com/linxin26/TcpConnectionTest) - 
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -179,8 +188,11 @@
 
 ## Java 
 
+- [XServer](https://github.com/monkeylord/XServer) - A Xposed Module for Android Penetration Test, with NanoHttpd.
+- [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
 - [APIJSON](https://github.com/TommyLemon/APIJSON) - 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
+- [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [emulator](https://github.com/zhkl0228/emulator) - Allows you to emulate an Android ARM32 and/or ARM64 native library
 - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, JavaScript, Python, C++, C, Rust, TypeScript.
 - [DeveloperHelper](https://github.com/WrBug/DeveloperHelper) - 📌易开发是一款帮助开发人员快速开发的工具，功能包括界面分析，页面信息，加固脱壳，支持Android9.0
@@ -194,7 +206,7 @@
 - [Aopermission](https://github.com/crazyqiang/Aopermission) - AOP方式封装的6.0运行时申请权限的库—A library that request Permissions in an AOP manner.
 - [exposed](https://github.com/android-hacker/exposed) - A library to use Xposed without root or recovery(or modify system image etc..).
 - [VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
-- [epic](https://github.com/tiann/epic) - Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 4.0~9.0
+- [epic](https://github.com/tiann/epic) - Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 4.0~10.0
 - [WifiTransfer-master](https://github.com/MZCretin/WifiTransfer-master) - Android下WIFI隔空apk安装
 - [AndroidOtgDemo](https://github.com/developerHaoz/AndroidOtgDemo) - 
 - [LuckyHooker](https://github.com/wuxianlin/LuckyHooker) - Xposed moudle to remove ads from some apps
@@ -238,7 +250,12 @@
 
 ## JavaScript 
 
-- [baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速
+- [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Pixiv Batch Downloader. fast, powerful, and make your browsing experience better.
+- [snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
+- [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
+- [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
+- [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+- [baiduyun](https://github.com/syhyz1990/baiduyun) - 油猴脚本 一个脚本搞定百度网盘下载
 - [pipe-demo](https://github.com/metowolf/pipe-demo) - 从零开始写一个代理
 - [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
@@ -282,6 +299,7 @@
 
 ## Kotlin 
 
+- [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Kotlin.
 - [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [v2rayNG](https://github.com/2dust/v2rayNG) - 
@@ -303,13 +321,16 @@
 
 ## Objective-C 
 
+- [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [WeChatRedEnvelop](https://github.com/buginux/WeChatRedEnvelop) - iOS版微信抢红包Tweak
 
 ## Others 
 
-- [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+- [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+- [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+- [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers
 - [postern-stuff](https://github.com/postern-overwal/postern-stuff) - Postern binaries & documents & configurations
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [helloflask](https://github.com/greyli/helloflask) - 《Flask Web 开发实战》Meta 仓库
@@ -344,6 +365,9 @@
 
 ## Python 
 
+- [pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
+- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+- [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [COMFinder](https://github.com/howmp/COMFinder) - IDA plugin for COM
@@ -404,6 +428,10 @@
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 
+## Rust 
+
+- [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
 ## Shell 
 
 - [docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -434,6 +462,7 @@
 
 ## Vue 
 
+- [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by electron-vue
 - [uni-app](https://github.com/dcloudio/uni-app) - 使用 Vue.js 开发跨平台应用的前端框架
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
 
