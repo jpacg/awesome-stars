@@ -78,7 +78,7 @@
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 - [udis86](https://github.com/vmt/udis86) - Disassembler Library for x86 and x86-64
-- [Windows-driver-samples](https://github.com/Microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+- [Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 
@@ -91,6 +91,7 @@
 
 ## C++ 
 
+- [Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS
 - [cryptopp](https://github.com/weidai11/cryptopp) - free C++ class library of cryptographic schemes
 - [json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
@@ -137,7 +138,7 @@
 
 ## Dart 
 
-- [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) - 🔥🔥🔥Flutter豆瓣客户端,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉 https://img.xuvip.top/douyademo.mp4
+- [FlutterDouBan](https://github.com/kaina404/FlutterDouBan) - 🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）
 - [flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
 
@@ -148,6 +149,7 @@
 
 ## Go 
 
+- [pangu](https://github.com/vinta/pangu) - Paranoid text spacing in Go (Golang)
 - [alfred-youdao](https://github.com/zgs225/alfred-youdao) - 有道词典 for Alfred
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [govendor](https://github.com/kardianos/govendor) - Go vendor tool that works with the standard vendor file.
@@ -197,7 +199,7 @@
 - [XServer](https://github.com/monkeylord/XServer) - A Xposed Module for Android Penetration Test, with NanoHttpd.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
-- [APIJSON](https://github.com/TommyLemon/APIJSON) - 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
+- [APIJSON](https://github.com/APIJSON/APIJSON) - 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [emulator](https://github.com/zhkl0228/emulator) - Allows you to emulate an Android ARM32 and/or ARM64 native library
 - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, JavaScript, Python, C++, C, Rust, TypeScript.
@@ -334,6 +336,8 @@
 
 ## Others 
 
+- [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult / Shadowrocket / Surfboard / clash(X) 实用规则。
+- [snell](https://github.com/surge-networks/snell) - An encrypted proxy service program
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -461,8 +465,8 @@
 
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [vscode](https://github.com/Microsoft/vscode) - Visual Studio Code
+- [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## Vim script 
 
