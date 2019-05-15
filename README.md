@@ -202,7 +202,7 @@
 - [butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
 - [APIJSON](https://github.com/APIJSON/APIJSON) - 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android ARM32 and/or ARM64 native library
+- [unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental  iOS ARM32 emulation
 - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, JavaScript, Python, C++, C, Rust, TypeScript.
 - [DeveloperHelper](https://github.com/WrBug/DeveloperHelper) - 📌易开发是一款帮助开发人员快速开发的工具，功能包括界面分析，页面信息，加固脱壳，支持Android9.0
 - [CryptoFucker](https://github.com/Chenyuxin/CryptoFucker) - A xposed plugin for intercepting crypto parameters from apk files.
@@ -311,7 +311,6 @@
 - [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android
 - [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-- [Bbbb2](https://github.com/2dust/Bbbb2) - 
 - [Actinium](https://github.com/V2Ray-Android/Actinium) - A 3rd party V2Ray client for Android
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
