@@ -41,7 +41,6 @@
 - [funchook](https://github.com/kubo/funchook) - Funchook - an API Hook Library
 - [zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [zlib](https://github.com/cloudflare/zlib) - Cloudflare fork of zlib with massive performance improvements
-- [HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
 - [xAnSo](https://github.com/freakishfox/xAnSo) - Android So文件浏览修复工具
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.
@@ -50,7 +49,7 @@
 - [mandibule](https://github.com/ixty/mandibule) - linux elf injector for x86 x86_64 arm arm64
 - [xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF. Support Android 4.0 - 9.0 (API level 14 - 28). Support armeabi, armeabi-v7a, arm64-v8a, x86 and x86_64.
 - [CustomLinker](https://github.com/liumengdeqq/CustomLinker) - 
-- [axel](https://github.com/axel-download-accelerator/axel) - light command line download accelerator
+- [axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [bplustree](https://github.com/begeekmyfriend/bplustree) - A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
 - [simple-obfs-android](https://github.com/shadowsocks/simple-obfs-android) - A simple obfuscating tool for Android
@@ -63,7 +62,6 @@
 - [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [VIKIROOT](https://github.com/hyln9/VIKIROOT) - CVE-2016-5195 (Dirty COW) PoC for Android 6.0.1 Marshmallow
 - [iovyroot](https://github.com/dosomder/iovyroot) - CVE-2015-1805 root tool
-- [ndk-compression](https://github.com/topjohnwu/ndk-compression) - Common compression tool libraries build with ndk-build command
 - [Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs) - A list of my CVE's with POCs
 - [selinux](https://github.com/topjohnwu/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@tycho.nsa.gov.
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
@@ -100,7 +98,7 @@
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [easyloggingpp](https://github.com/zuhd-org/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
 - [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
-- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest & simplest GUI library(5 KLOC) for all platfoms
+- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest/simplest/stablest GUI library(5 KLOC) for all platfoms
 - [xspy](https://github.com/lynnux/xspy) - Spy for MFC/ATL/WTL window
 - [tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [dnscat2](https://github.com/iagox86/dnscat2) - 
@@ -150,6 +148,9 @@
 
 ## Go 
 
+- [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+- [whoami](https://github.com/containous/whoami) - Tiny Go webserver that prints os information and HTTP request to output
+- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
 - [pangu](https://github.com/vinta/pangu) - Paranoid text spacing in Go (Golang)
 - [alfred-youdao](https://github.com/zgs225/alfred-youdao) - 有道词典 for Alfred
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -196,11 +197,12 @@
 
 ## Java 
 
+- [injectvm-binderjack](https://github.com/Chainfire/injectvm-binderjack) - Android VM injection and BinderJacking sample code, and some ramblings about root
 - [EhViewer](https://github.com/seven332/EhViewer) - An Unofficial E-Hentai Application for Android
 - [XServer](https://github.com/monkeylord/XServer) - A Xposed Module for Android Penetration Test, with NanoHttpd.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
-- [APIJSON](https://github.com/APIJSON/APIJSON) - 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
+- [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental  iOS ARM32 emulation
 - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, JavaScript, Python, C++, C, Rust, TypeScript.
@@ -258,6 +260,7 @@
 
 ## JavaScript 
 
+- [jsbox_script](https://github.com/Fndroid/jsbox_script) - 个人JSBox脚本集合
 - [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Pixiv Batch Downloader. fast, powerful, and make your browsing experience better.
 - [snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
 - [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
@@ -284,7 +287,6 @@
 - [browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
-- [Rules](https://github.com/lhie1/Rules) - Rules / 规则：Surge / Shadowrocket / Quantumult
 - [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nodejs-mobile](https://github.com/janeasystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
@@ -311,12 +313,11 @@
 - [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android
 - [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-- [Actinium](https://github.com/V2Ray-Android/Actinium) - A 3rd party V2Ray client for Android
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
-- [material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful and fluid dialogs API for Kotlin & Android.
+- [material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
 
 ## Lua 
 
@@ -335,6 +336,7 @@
 
 ## Others 
 
+- [petools](https://github.com/petoolse/petools) - PE Tools - Portable executable (PE) manipulation toolkit
 - [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult / Shadowrocket / Surfboard / clash(X) 实用规则。
 - [snell](https://github.com/surge-networks/snell) - An encrypted proxy service program
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -344,6 +346,7 @@
 - [postern-stuff](https://github.com/postern-overwal/postern-stuff) - Postern binaries & documents & configurations
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [helloflask](https://github.com/greyli/helloflask) - 《Flask Web 开发实战》Meta 仓库
+- [Rules](https://github.com/lhie1/Rules) - Rules / 规则：Surge / Shadowrocket / Quantumult
 - [android](https://github.com/omnirom/android) - 
 - [Profiles](https://github.com/ConnersHua/Profiles) - Clash、Kitsunebi、Quantumult、Shadowrocket、Pepi(ShadowRay)、Surge 的配置规则文件
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
@@ -375,6 +378,8 @@
 
 ## Python 
 
+- [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
+- [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [Github-Hunter](https://github.com/Hell0W0rld0/Github-Hunter) - This tool is for sensitive information searching on Github - All new Version.
@@ -404,7 +409,7 @@
 - [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot
+- [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io
 - [lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
 - [pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
@@ -443,10 +448,12 @@
 
 ## Rust 
 
+- [clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 ## Shell 
 
+- [lnmp](https://github.com/licess/lnmp) - Auto compile and install LNMP/LNMPA/LAMP on CentOS/RHEL/Fedora/Aliyun/Amazon,Debian/Ubuntu/Raspbian/Deepin/Mint Linux. Easy install,upgrade and use.
 - [docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [acme.sh](https://github.com/Neilpang/acme.sh) - A pure Unix shell script implementing ACME client protocol
