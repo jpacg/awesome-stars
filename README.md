@@ -23,6 +23,7 @@
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
@@ -31,8 +32,11 @@
 
 ## C 
 
+- [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
+- [openresty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform
+- [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [xCrash](https://github.com/iqiyi/xCrash) - 🔥 A crash reporting library for Android APPs. Support catching native crash and Java exception. Support Android 4.0 - 9.0 (API level 14 - 28). Support armeabi, armeabi-v7a, arm64-v8a, x86 and x86_64.
+- [xCrash](https://github.com/iqiyi/xCrash) - 🔥 A crash reporting library for Android APPs. Support catching native crash and Java exception.
 - [FastHook](https://github.com/turing-technician/FastHook) - Android ART Hook
 - [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library
 - [xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -47,7 +51,7 @@
 - [openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [mandibule](https://github.com/ixty/mandibule) - linux elf injector for x86 x86_64 arm arm64
-- [xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF. Support Android 4.0 - 9.0 (API level 14 - 28). Support armeabi, armeabi-v7a, arm64-v8a, x86 and x86_64.
+- [xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF.
 - [CustomLinker](https://github.com/liumengdeqq/CustomLinker) - 
 - [axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [bplustree](https://github.com/begeekmyfriend/bplustree) - A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage
@@ -89,6 +93,8 @@
 
 ## C++ 
 
+- [UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics(TCP/UDP/ICMP)
+- [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
 - [Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS
 - [cryptopp](https://github.com/weidai11/cryptopp) - free C++ class library of cryptographic schemes
@@ -98,7 +104,7 @@
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [easyloggingpp](https://github.com/zuhd-org/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
 - [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
-- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️The smallest/simplest/stablest GUI library(5 KLOC) for all platfoms
+- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️Smallest/Simplest/Stablest GUI library(5 KLOC) for all platfoms
 - [xspy](https://github.com/lynnux/xspy) - Spy for MFC/ATL/WTL window
 - [tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [dnscat2](https://github.com/iagox86/dnscat2) - 
@@ -148,6 +154,9 @@
 
 ## Go 
 
+- [requests](https://github.com/xuanbo/requests) - http requests lib for golang
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [whoami](https://github.com/containous/whoami) - Tiny Go webserver that prints os information and HTTP request to output
 - [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
@@ -191,7 +200,7 @@
 
 ## HTML 
 
-- [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
+- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [arm-gcc-inline-assembler](https://github.com/tidyjiang8/arm-gcc-inline-assembler) - ARM GCC 内联汇编参考手册 - 中文版
 
@@ -202,7 +211,7 @@
 - [XServer](https://github.com/monkeylord/XServer) - A Xposed Module for Android Penetration Test, with NanoHttpd.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
-- [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
+- [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental  iOS ARM32 emulation
 - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, JavaScript, Python, C++, C, Rust, TypeScript.
@@ -260,6 +269,10 @@
 
 ## JavaScript 
 
+- [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
+- [frida-compile](https://github.com/frida/frida-compile) - Compile a Frida script comprised of one or more Node.js modules
+- [frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [jsbox_script](https://github.com/Fndroid/jsbox_script) - 个人JSBox脚本集合
 - [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Pixiv Batch Downloader. fast, powerful, and make your browsing experience better.
 - [snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
@@ -336,13 +349,18 @@
 
 ## Others 
 
+- [awesome-xmake](https://github.com/xmake-io/awesome-xmake) - 💕 A curated list of awesome XMake projects, plugins, examples and others
+- [awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules, examples and others.
+- [vTemplate](https://github.com/KiriKira/vTemplate) - v2ray的模板们
+- [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [petools](https://github.com/petoolse/petools) - PE Tools - Portable executable (PE) manipulation toolkit
 - [SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult / Shadowrocket / Surfboard / clash(X) 实用规则。
 - [snell](https://github.com/surge-networks/snell) - An encrypted proxy service program
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-- [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers
+- [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [postern-stuff](https://github.com/postern-overwal/postern-stuff) - Postern binaries & documents & configurations
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [helloflask](https://github.com/greyli/helloflask) - 《Flask Web 开发实战》Meta 仓库
@@ -382,7 +400,7 @@
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [Github-Hunter](https://github.com/Hell0W0rld0/Github-Hunter) - This tool is for sensitive information searching on Github - All new Version.
+- [Github-Hunter](https://github.com/Hell0W0rld0/Github-Hunter) - This tool is for sensitive information searching on Github - All new version here: https://github.com/Hell0W0rld0/Github_Hunter_By_Golang
 - [pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 - [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 - [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
@@ -416,6 +434,7 @@
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
 - [denyhosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks
+- [requests-html](https://github.com/kennethreitz/requests-html) - Pythonic HTML Parsing for Humans™
 - [objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [gef](https://github.com/hugsy/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [PyExecJS](https://github.com/doloopwhile/PyExecJS) - Run JavaScript code from Python (EOL: https://gist.github.com/doloopwhile/8c6ec7dd4703e8a44e559411cb2ea221)
@@ -465,6 +484,10 @@
 - [docker-aosp](https://github.com/kylemanna/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
+## Smarty 
+
+- [SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版
+
 ## Swift 
 
 - [clashX](https://github.com/yichengchen/clashX) - A rule based custom  proxy with GUI for Mac base on clash.
@@ -487,6 +510,7 @@
 
 ## Vue 
 
+- [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by electron-vue
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
 
