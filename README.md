@@ -32,11 +32,12 @@
 
 ## C 
 
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [openresty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform
 - [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [xCrash](https://github.com/iqiyi/xCrash) - 🔥 A crash reporting library for Android APPs. Support catching native crash and Java exception.
+- [xCrash](https://github.com/iqiyi/xCrash) - 🔥 A crash reporting library for Android APP. Support catching native crash and Java exception.
 - [FastHook](https://github.com/turing-technician/FastHook) - Android ART Hook
 - [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library
 - [xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -93,6 +94,7 @@
 
 ## C++ 
 
+- [Riru](https://github.com/RikkaApps/Riru) - Inject zygote process by replace libmemtrack
 - [UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics(TCP/UDP/ICMP)
 - [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
@@ -104,7 +106,6 @@
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [easyloggingpp](https://github.com/zuhd-org/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
 - [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
-- [GuiLite](https://github.com/idea4good/GuiLite) - ✔️Smallest/Simplest/Stablest GUI library(5 KLOC) for all platfoms
 - [xspy](https://github.com/lynnux/xspy) - Spy for MFC/ATL/WTL window
 - [tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [dnscat2](https://github.com/iagox86/dnscat2) - 
@@ -154,6 +155,13 @@
 
 ## Go 
 
+- [sniper](https://github.com/bilibili/sniper) - 轻量级 go 业务框架。
+- [viper](https://github.com/spf13/viper) - Go configuration with fangs
+- [athens](https://github.com/gomods/athens) - A Go module datastore and proxy
+- [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
+- [gormt](https://github.com/xie1xiao1jun/gormt) - gorm tools as  database to golang struct , golang 数据库映射工具,golang 数据库导出工具,golang 将数据库转换为gorm结构
+- [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
+- [Github_Hunter_By_Golang](https://github.com/Hell0W0rld0/Github_Hunter_By_Golang) - Github Hunter rewritten by Golang and add new features
 - [requests](https://github.com/xuanbo/requests) - http requests lib for golang
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -191,7 +199,7 @@
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 - [sshhipot](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
-- [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S), websocket,TCP, UDP,Secure DNS,Socks5 proxy server .Chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding ,ipv4 and ipv6 supporting .Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,支持ipv4和ipv6,集成外部API。
+- [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S), websocket,TCP, UDP,Secure DNS,Socks5 proxy server .Chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding ,ipv4 and ipv6 supporting .Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,前置CDN,域名黑白名单,跨平台,KCP协议支持,支持ipv4和ipv6,集成外部API。
 - [TcpConnectionTest](https://github.com/linxin26/TcpConnectionTest) - 
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -206,12 +214,12 @@
 
 ## Java 
 
+- [EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
 - [injectvm-binderjack](https://github.com/Chainfire/injectvm-binderjack) - Android VM injection and BinderJacking sample code, and some ramblings about root
 - [EhViewer](https://github.com/seven332/EhViewer) - An Unofficial E-Hentai Application for Android
 - [XServer](https://github.com/monkeylord/XServer) - A Xposed Module for Android Penetration Test, with NanoHttpd.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
-- [APIJSON](https://github.com/APIJSON/APIJSON) - 🏆Gitee Most Valuable Project 🚀A JSON Transmission Protocol and an ORM Library for auto providing APIs and Documents.
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental  iOS ARM32 emulation
 - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, JavaScript, Python, C++, C, Rust, TypeScript.
@@ -232,7 +240,7 @@
 - [LuckyHooker](https://github.com/wuxianlin/LuckyHooker) - Xposed moudle to remove ads from some apps
 - [libaums](https://github.com/magnusja/libaums) - Open source library to access USB Mass Storage devices on Android without rooting your device
 - [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android
-- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，其他一些小动画效果，rtsp、concat、mpeg。项目解析：
+- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
 - [AndroidVideoCache](https://github.com/danikula/AndroidVideoCache) - Cache support for any video player with help of single line
 - [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -249,7 +257,7 @@
 - [rootcloak](https://github.com/devadvance/rootcloak) - Open source module for Xposed Framework that hides root from specific apps
 - [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
-- [okhttp](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
+- [okhttp](https://github.com/square/okhttp) - An HTTP client for Android, Kotlin, and Java.
 - [VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 10.0 in business version)
 - [FcPermissions](https://github.com/lypeer/FcPermissions) - Fuck the permissions in Android M
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
@@ -269,6 +277,9 @@
 
 ## JavaScript 
 
+- [mpush](https://github.com/kooritea/mpush) - 基于Websocket的即时消息推送服务
+- [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [frida-compile](https://github.com/frida/frida-compile) - Compile a Frida script comprised of one or more Node.js modules
 - [frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
@@ -301,7 +312,7 @@
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
-- [nodejs-mobile](https://github.com/janeasystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
+- [nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 万物皆可 RSS
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
@@ -349,6 +360,8 @@
 
 ## Others 
 
+- [golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
+- [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [awesome-xmake](https://github.com/xmake-io/awesome-xmake) - 💕 A curated list of awesome XMake projects, plugins, examples and others
 - [awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules, examples and others.
 - [vTemplate](https://github.com/KiriKira/vTemplate) - v2ray的模板们
@@ -400,7 +413,6 @@
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [Github-Hunter](https://github.com/Hell0W0rld0/Github-Hunter) - This tool is for sensitive information searching on Github - All new version here: https://github.com/Hell0W0rld0/Github_Hunter_By_Golang
 - [pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 - [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
 - [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
@@ -463,7 +475,7 @@
 - [python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [httpie](https://github.com/jakubroztocil/httpie) - As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
-- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
+- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 
 ## Rust 
 
@@ -472,6 +484,7 @@
 
 ## Shell 
 
+- [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [lnmp](https://github.com/licess/lnmp) - Auto compile and install LNMP/LNMPA/LAMP on CentOS/RHEL/Fedora/Aliyun/Amazon,Debian/Ubuntu/Raspbian/Deepin/Mint Linux. Easy install,upgrade and use.
 - [docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
