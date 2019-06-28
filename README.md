@@ -27,7 +27,6 @@
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
-  - [Visual Basic](#visual-basic)
   - [Vue](#vue)
 
 ## C 
@@ -37,7 +36,7 @@
 - [openresty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform
 - [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [xCrash](https://github.com/iqiyi/xCrash) - 🔥 A crash reporting library for Android APP. Support catching native crash and Java exception.
+- [xCrash](https://github.com/iqiyi/xCrash) - 🔥 A crash reporting library for Android APP which supports catching native crash and Java exception.
 - [FastHook](https://github.com/turing-technician/FastHook) - Android ART Hook
 - [libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library
 - [xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
@@ -57,7 +56,6 @@
 - [axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [bplustree](https://github.com/begeekmyfriend/bplustree) - A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
-- [simple-obfs-android](https://github.com/shadowsocks/simple-obfs-android) - A simple obfuscating tool for Android
 - [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol
 - [proxydroid](https://github.com/madeye/proxydroid) - Global Proxy for Android
 - [Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook) - thumb16 thumb32 arm32 inlineHook in Android
@@ -76,7 +74,6 @@
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [adbi](https://github.com/crmulliner/adbi) - Android Dynamic Binary Instrumentation Toolkit
-- [sqlyog-community](https://github.com/webyog/sqlyog-community) - 
 - [android_bootable_recovery](https://github.com/omnirom/android_bootable_recovery) - 
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
@@ -128,6 +125,7 @@
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+- [sqlyog-community](https://github.com/webyog/sqlyog-community) - 
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
 - [duilib](https://github.com/duilib/duilib) - 
@@ -155,11 +153,12 @@
 
 ## Go 
 
+- [websocket](https://github.com/gorilla/websocket) - A WebSocket implementation for Go.
 - [sniper](https://github.com/bilibili/sniper) - 轻量级 go 业务框架。
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
-- [gormt](https://github.com/xie1xiao1jun/gormt) - gorm tools as  database to golang struct , golang 数据库映射工具,golang 数据库导出工具,golang 将数据库转换为gorm结构
+- [gormt](https://github.com/xxjwxc/gormt) - gorm tools as  database to golang struct , golang 数据库映射工具,golang 数据库导出工具,golang 将数据库转换为gorm结构
 - [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [Github_Hunter_By_Golang](https://github.com/Hell0W0rld0/Github_Hunter_By_Golang) - Github Hunter rewritten by Golang and add new features
 - [requests](https://github.com/xuanbo/requests) - http requests lib for golang
@@ -199,7 +198,6 @@
 - [caddy](https://github.com/mholt/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
 - [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
 - [sshhipot](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
-- [goproxy](https://github.com/snail007/goproxy) - Proxy is a high performance HTTP(S), websocket,TCP, UDP,Secure DNS,Socks5 proxy server .Chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding ,ipv4 and ipv6 supporting .Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,前置CDN,域名黑白名单,跨平台,KCP协议支持,支持ipv4和ipv6,集成外部API。
 - [TcpConnectionTest](https://github.com/linxin26/TcpConnectionTest) - 
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
@@ -214,6 +212,8 @@
 
 ## Java 
 
+- [NetWorkPacketCapture](https://github.com/huolizhuminh/NetWorkPacketCapture) - It is used to capture network packet via Android VPN.
+- [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) - AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~
 - [EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
 - [injectvm-binderjack](https://github.com/Chainfire/injectvm-binderjack) - Android VM injection and BinderJacking sample code, and some ramblings about root
 - [EhViewer](https://github.com/seven332/EhViewer) - An Unofficial E-Hentai Application for Android
@@ -279,7 +279,7 @@
 
 - [mpush](https://github.com/kooritea/mpush) - 基于Websocket的即时消息推送服务
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
 - [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [frida-compile](https://github.com/frida/frida-compile) - Compile a Frida script comprised of one or more Node.js modules
 - [frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
@@ -479,6 +479,7 @@
 
 ## Rust 
 
+- [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
@@ -516,10 +517,6 @@
 
 - [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-
-## Visual Basic 
-
-- [Lime-RAT](https://github.com/NYAN-x-CAT/Lime-RAT) - LimeRAT | Simple, yet powerful remote administration tool for Windows (RAT)
 
 ## Vue 
 
