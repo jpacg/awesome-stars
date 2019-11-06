@@ -41,6 +41,7 @@
 
 ## C 
 
+- [gpac](https://github.com/gpac/gpac) - GPAC main code repository
 - [lede](https://github.com/esirplayground/lede) - Lean's OpenWrt source - 不要fork此Repo，看看编译步骤没问题
 - [Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
 - [redsocks](https://github.com/semigodking/redsocks) - transparent redirector of any TCP/UDP connection to proxy
@@ -150,6 +151,7 @@
 
 ## CSS 
 
+- [hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
 - [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
@@ -170,6 +172,8 @@
 
 ## Go 
 
+- [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
+- [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -181,7 +185,7 @@
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
-- [gormt](https://github.com/xxjwxc/gormt) - gorm tools as database to golang struct , golang 数据库映射工具,golang 数据库导出工具,golang 将数据库转换为gorm结构
+- [gormt](https://github.com/xxjwxc/gormt) - mysql database to golang gorm struct , golang gorm 数据库映射工具
 - [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [Github_Hunter_By_Golang](https://github.com/Hell0W0rld0/Github_Hunter_By_Golang) - Github Hunter rewritten by Golang and add new features
 - [requests](https://github.com/xuanbo/requests) - http requests lib for golang
@@ -308,7 +312,6 @@
 
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API
 - [JNI-Frida-Hook](https://github.com/Areizen/JNI-Frida-Hook) - Script to quickly hook natives call to JNI in Android
-- [hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
 - [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -345,7 +348,6 @@
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [Rules](https://github.com/lhie1/Rules) - Rules / 规则：Surge / Shadowrocket / Quantumult
-- [Profiles](https://github.com/ConnersHua/Profiles) - Clash、Kitsunebi、Mellow、Quantumult(X)、Shadowrocket、Pepi(ShadowRay)、Surge 的配置规则文件
 - [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
@@ -394,6 +396,7 @@
 
 ## Objective-C 
 
+- [IPAPatch](https://github.com/Naituw/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
 - [WeChatRedEnvelop](https://github.com/buginux/WeChatRedEnvelop) - iOS版微信抢红包Tweak
@@ -420,6 +423,7 @@
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [helloflask](https://github.com/greyli/helloflask) - 《Flask Web 开发实战》Meta 仓库
 - [android](https://github.com/omnirom/android) - 
+- [Profiles](https://github.com/ConnersHua/Profiles) - 
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
 - [Hikari](https://github.com/HikariObfuscator/Hikari) - LLVM Obfuscator
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
@@ -529,7 +533,8 @@
 
 ## Shell 
 
-- [xadb](https://github.com/4ch12dy/xadb) - some useful adb commands for android reversing and debuging both 32 and 64 bit and support macOS and win10's MINGW64.
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [xadb](https://github.com/4ch12dy/xadb) - some useful adb commands for android reversing and debugging both 32 and 64 bit and support macOS and win10's MINGW64.
 - [koolproxyR](https://github.com/user1121114685/koolproxyR) - 
 - [ss-tproxy](https://github.com/zfl9/ss-tproxy) - SS/SSR/V2Ray/Socks5 透明代理 for Linux
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
