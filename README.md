@@ -41,6 +41,7 @@
 
 ## C 
 
+- [antispy](https://github.com/mohuihui/antispy) - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its assistance,you can easily spot and neutralize malwares hidden from normal detectors.
 - [gpac](https://github.com/gpac/gpac) - GPAC main code repository
 - [lede](https://github.com/esirplayground/lede) - Lean's OpenWrt source - 不要fork此Repo，看看编译步骤没问题
 - [Undecimus](https://github.com/pwn20wndstuff/Undecimus) - unc0ver jailbreak for iOS 11.0 - 12.4
@@ -104,12 +105,13 @@
 
 - [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - 【自用】Bug-Oriented Programming
 - [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
-- [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Get types, methods, fields, etc. from Unity Il2Cpp binary file
+- [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Restore dll from Unity il2cpp binary file (except code)
 - [wtg-assistant](https://github.com/nkc3g4/wtg-assistant) - 
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 
 ## C++ 
 
+- [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [LiquidCore](https://github.com/LiquidPlayer/LiquidCore) - Node.js virtual machine for Android and iOS
 - [Riru](https://github.com/RikkaApps/Riru) - Inject zygote process by replace libmemtrack
 - [UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics(TCP/UDP/ICMP)
@@ -167,11 +169,16 @@
 
 ## Dockerfile 
 
+- [docker-nginx](https://github.com/metowolf/docker-nginx) - 🐳 Docker Image packaging for nginx
 - [laradock](https://github.com/laradock/laradock) - The most popular full PHP development environment on Docker.
 - [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for applications in Python 3.7, 3.6, 3.5 and Python 2.7 (as Flask) in a single container. Optionally with Alpine Linux.
 
 ## Go 
 
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
+- [ini](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go.
+- [channels](https://github.com/eapache/channels) - Golang channel helpers and special types
+- [chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
@@ -219,7 +226,6 @@
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-- [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [caddy](https://github.com/caddyserver/caddy) - Fast, cross-platform HTTP/2 web server with automatic HTTPS
@@ -227,7 +233,6 @@
 - [sshhipot](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
 - [TcpConnectionTest](https://github.com/linxin26/TcpConnectionTest) - 
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [beego](https://github.com/astaxie/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 
