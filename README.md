@@ -41,6 +41,7 @@
 
 ## C 
 
+- [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [antispy](https://github.com/mohuihui/antispy) - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its assistance,you can easily spot and neutralize malwares hidden from normal detectors.
 - [gpac](https://github.com/gpac/gpac) - GPAC main code repository
 - [lede](https://github.com/esirplayground/lede) - Lean's OpenWrt source - 不要fork此Repo，看看编译步骤没问题
@@ -89,7 +90,7 @@
 - [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) - CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept for Android
 - [upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [toybox](https://github.com/landley/toybox) - toybox
-- [gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded and Network
+- [gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded Multimedia and Network
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [adbi](https://github.com/crmulliner/adbi) - Android Dynamic Binary Instrumentation Toolkit
@@ -139,8 +140,9 @@
 - [Bangcle](https://github.com/woxihuannisja/Bangcle) - The second generation Android Hardening Protection
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [HookZz](https://github.com/jmpews/HookZz) - a hook framework for arm/arm64/ios/android, and [dev] branch is being refactored.
+- [Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [breakpad](https://github.com/google/breakpad) - Mirror of Google Breakpad project
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly
@@ -155,6 +157,9 @@
 
 ## CSS 
 
+- [aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
+- [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
+- [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 - [hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
 - [HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
 - [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -171,14 +176,15 @@
 
 ## Dockerfile 
 
+- [kms-server](https://github.com/luodaoyi/kms-server) - a docker image for kms
 - [docker-nginx](https://github.com/metowolf/docker-nginx) - 🐳 Docker Image packaging for nginx
 - [laradock](https://github.com/laradock/laradock) - The most popular full PHP development environment on Docker.
 - [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for applications in Python 3.7, 3.6, 3.5 and Python 2.7 (as Flask) in a single container. Optionally with Alpine Linux.
 
 ## Go 
 
-- [xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
-- [go-admin](https://github.com/GoAdminGroup/go-admin) - A dataviz framework help gopher to build a admin panel in ten minutes
+- [gim](https://github.com/alberliu/gim) - golang写的IM服务器
+- [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
@@ -191,7 +197,7 @@
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [nps](https://github.com/cnlh/nps) - 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
-- [TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://tophub.fun
+- [TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 - [go-quickjs](https://github.com/wspl/go-quickjs) - QuickJS bindings for Go
 - [websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
 - [sniper](https://github.com/bilibili/sniper) - 轻量级 go 业务框架。
@@ -221,7 +227,6 @@
 - [syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [goproxy](https://github.com/shell909090/goproxy) - 基于go写的隧道代理服务器。
 - [lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 - [goflyway](https://github.com/coyove/goflyway) - An encrypted HTTP server
 - [daze](https://github.com/mohanson/daze) - Daze is a tool to help you link to the Internet.
@@ -245,7 +250,6 @@
 ## HTML 
 
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [arm-gcc-inline-assembler](https://github.com/tidyjiang8/arm-gcc-inline-assembler) - ARM GCC 内联汇编参考手册 - 中文版
 
 ## Java 
@@ -321,6 +325,9 @@
 
 ## JavaScript 
 
+- [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
+- [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+- [Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [JNI-Frida-Hook](https://github.com/Areizen/JNI-Frida-Hook) - Script to quickly hook natives call to JNI in Android
@@ -414,6 +421,8 @@
 
 ## Others 
 
+- [traefik-with-swarm](https://github.com/lndj/traefik-with-swarm) - A traefik demo with docker swarm for little / personal project (You don't need k8s).
+- [msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [domains](https://github.com/Ice-Hazymoon/domains) - 域名发布页
@@ -466,6 +475,7 @@
 
 ## Python 
 
+- [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [dlercloud](https://github.com/youfou/dlercloud) - DlerCloud API 的 Python 客户端 ✨✨
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [text-detection-ocr](https://github.com/GlassyWing/text-detection-ocr) - Chinese text detection and recognition based on CTPN + DENSENET using Keras and Tensor Flow，使用keras和tensorflow基于CTPN+Densenet实现的中文文本检测和识别
@@ -491,7 +501,7 @@
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - Exploring Python through counter-intuitive snippets. If you think you know Python, think once more!
 - [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - 解析下载爱奇艺、哔哩哔哩、腾讯视频
@@ -523,7 +533,7 @@
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
 - [nginx-proxy](https://github.com/jwilder/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [ykdl](https://github.com/zhangn1985/ykdl) - a video downloader focus on China mainland video sites.
-- [crawler_html2pdf](https://github.com/lzjun567/crawler_html2pdf) - 
+- [python_scripts](https://github.com/lzjun567/python_scripts) - 一些python相关的演示代码
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -539,6 +549,7 @@
 
 ## Rust 
 
+- [server_tan](https://github.com/chinuno-usami/server_tan) - 微信通知推送服务
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
@@ -574,7 +585,7 @@
 ## TypeScript 
 
 - [mpush](https://github.com/kooritea/mpush) - 基于Websocket的即时消息推送服务
-- [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Pixiv Batch Downloader. fast, powerful, and make your browsing experience better. 功能丰富的 Pixiv 图片批量下载器。
+- [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - 强大的 Pixiv 图片批量下载器。批量下载、过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv image batch downloader. Batch download, filter works, rename when downloading, convert animated images, and more.
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -588,9 +599,9 @@
 
 ## Vue 
 
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - A free, fast and beautiful alternative to Postman https://postwoman.io 🔥
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
-- [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by electron-vue
+- [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
 
 
