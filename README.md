@@ -443,7 +443,6 @@
 - [postern-stuff](https://github.com/postern-overwal/postern-stuff) - Postern binaries & documents & configurations
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [helloflask](https://github.com/greyli/helloflask) - 《Flask Web 开发实战》Meta 仓库
-- [Rules](https://github.com/lhie1/Rules) - Rules / 规则：Surge / Shadowrocket / QuantumultX / Clash(X|A)
 - [android](https://github.com/omnirom/android) - 
 - [Profiles](https://github.com/ConnersHua/Profiles) - 
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
@@ -502,7 +501,7 @@
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - Exploring Python through counter-intuitive snippets. If you think you know Python, think once more!
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
 - [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - 解析下载爱奇艺、哔哩哔哩、腾讯视频
@@ -579,6 +578,7 @@
 
 ## Swift 
 
+- [uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 - [clashX](https://github.com/yichengchen/clashX) - 
 
 ## TypeScript 
