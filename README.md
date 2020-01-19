@@ -125,9 +125,8 @@
 - [json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [whale](https://github.com/asLody/whale) - Hook Framework for Android/IOS/Linux/MacOS
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
-- [easyloggingpp](https://github.com/amrayn/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
+- [easyloggingpp](https://github.com/amrayn/easyloggingpp) - [LOOKING FOR MAINTAINER] Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
 - [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
-- [xspy](https://github.com/lynnux/xspy) - Spy for MFC/ATL/WTL window
 - [tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [dnscat2](https://github.com/iagox86/dnscat2) - 
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -178,11 +177,14 @@
 
 - [kms-server](https://github.com/luodaoyi/kms-server) - a docker image for kms
 - [docker-nginx](https://github.com/metowolf/docker-nginx) - 🐳 Docker Image packaging for nginx
-- [laradock](https://github.com/laradock/laradock) - The most popular full PHP development environment on Docker.
+- [laradock](https://github.com/laradock/laradock) - The (most popular) full PHP development environment for Docker.
 - [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for applications in Python 3.7, 3.6, 3.5 and Python 2.7 (as Flask) in a single container. Optionally with Alpine Linux.
 
 ## Go 
 
+- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
+- [tcping](https://github.com/akamensky/tcping) - Just ping a TCP port
+- [flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 - [gim](https://github.com/alberliu/gim) - golang写的IM服务器
 - [go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -254,6 +256,7 @@
 
 ## Java 
 
+- [telegram-sms](https://github.com/telegram-sms/telegram-sms) - A robot running on your Android device.
 - [kstools](https://github.com/fourbrother/kstools) - Android中自动爆破签名工具
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
 - [XposedInstaller](https://github.com/DVDAndroid/XposedInstaller) - Materialised Xposed Installer
@@ -325,6 +328,8 @@
 
 ## JavaScript 
 
+- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+- [IHeader](https://github.com/Louiszhai/IHeader) - Chrome扩展: 告别跨域，定制HTTP请求响应头
 - [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -369,7 +374,7 @@
 - [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-- [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 万物皆可 RSS
+- [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [duktape-android](https://github.com/square/duktape-android) - The Duktape embeddable Javascript engine packaged for Android.
 - [duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
@@ -421,6 +426,7 @@
 
 ## Others 
 
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [traefik-with-swarm](https://github.com/lndj/traefik-with-swarm) - A traefik demo with docker swarm for little / personal project (You don't need k8s).
 - [msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0
@@ -475,6 +481,7 @@
 
 ## Python 
 
+- [blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [dlercloud](https://github.com/youfou/dlercloud) - DlerCloud API 的 Python 客户端 ✨✨
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
@@ -583,6 +590,7 @@
 
 ## TypeScript 
 
+- [web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [mpush](https://github.com/kooritea/mpush) - 基于Websocket的即时消息推送服务
 - [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - 强大的 Pixiv 图片批量下载器。批量下载、过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv image batch downloader. Batch download, filter works, rename when downloading, convert animated images, and more.
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
