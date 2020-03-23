@@ -182,6 +182,7 @@
 
 ## Dockerfile 
 
+- [docker-nginx](https://github.com/metowolf/docker-nginx) - 🐳 Docker Image packaging for nginx
 - [kms-server](https://github.com/luodaoyi/kms-server) - a docker image for kms
 - [laradock](https://github.com/laradock/laradock) - The (most popular) full PHP development environment for Docker.
 - [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for applications in Python 3.7, 3.6, 3.5 and Python 2.7 (as Flask) in a single container. Optionally with Alpine Linux.
@@ -226,7 +227,6 @@
 - [pangu](https://github.com/vinta/pangu) - Paranoid text spacing in Go (Golang)
 - [alfred-youdao](https://github.com/zgs225/alfred-youdao) - 有道词典 for Alfred
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-- [govendor](https://github.com/kardianos/govendor) - Use Go Modules.
 - [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [gorequest](https://github.com/parnurzeal/gorequest) - GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
 - [vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -446,7 +446,6 @@
 - [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.0
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [domains](https://github.com/Ice-Hazymoon/domains) - 域名发布页
-- [lede](https://github.com/esirplayground/lede) - Lean's OpenWrt source - 编译步骤
 - [clash-for-openwrt](https://github.com/antonchen/clash-for-openwrt) - Clash for OpenWrt
 - [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [awesome-xmake](https://github.com/xmake-io/awesome-xmake) - 💕 A curated list of awesome XMake projects, plugins, examples and others
