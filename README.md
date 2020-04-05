@@ -58,7 +58,7 @@
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Riru](https://github.com/RikkaApps/Riru) - Inject zygote process by replace libmemtrack
 - [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
-- [openresty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform
+- [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Ngnix and LuaJIT
 - [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [xCrash](https://github.com/iqiyi/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
@@ -189,7 +189,8 @@
 
 ## Go 
 
-- [learning-golang](https://github.com/developer-learning/learning-golang) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
+- [go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility
+- [read](https://github.com/talk-go/read) - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
 - [tcping](https://github.com/akamensky/tcping) - Just ping a TCP port
@@ -250,7 +251,7 @@
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
-- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
+- [brook](https://github.com/txthinking/brook) - Brook is a cross-platform(Linux/BSD/MacOS/Windows/Android/iOS) proxy/vpn software. Zero-Configuration.
 - [sshhipot](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
 - [TcpConnectionTest](https://github.com/linxin26/TcpConnectionTest) - 
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -440,6 +441,7 @@
 
 ## Others 
 
+- [rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla) - Native AMD macOS via Clover & OpenCore
 - [traefik-with-swarm](https://github.com/lndj/traefik-with-swarm) - A traefik demo with docker swarm for little / personal project (You don't need k8s).
 - [msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
@@ -495,6 +497,7 @@
 
 ## Python 
 
+- [AndroidNativeEmu](https://github.com/P4nda0s/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
 - [FART](https://github.com/hanbinglengyue/FART) - ART环境下自动化脱壳方案
 - [deobf](https://github.com/maiyao1988/deobf) - An arm32 ollvm like deofuscator,aim to remove obfuscation made by ollvm like compiler
 - [FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump) - Fast search and dump dex on memory.
@@ -526,7 +529,7 @@
 - [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 - [flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
 - [yapf](https://github.com/google/yapf) - A formatter for Python files
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
 - [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - 解析下载爱奇艺、哔哩哔哩、腾讯视频
@@ -608,6 +611,7 @@
 
 ## TypeScript 
 
+- [frida-tsplugin](https://github.com/tacesrever/frida-tsplugin) - typescript autocomplete plugin for frida's java warpper
 - [frida-agent-example](https://github.com/oleavr/frida-agent-example) - Example Frida agent written in TypeScript
 - [web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [mpush](https://github.com/kooritea/mpush) - 基于Websocket的即时消息推送服务
