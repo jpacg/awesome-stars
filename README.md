@@ -9,6 +9,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CMake](#cmake)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
@@ -164,6 +165,10 @@
 - [tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
 - [duilib](https://github.com/duilib/duilib) - 
 - [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
+
+## CMake 
+
+- [ibus-table-chinese](https://github.com/definite/ibus-table-chinese) - Chinese tables for IBus-Table
 
 ## CSS 
 
@@ -345,7 +350,6 @@
 
 ## JavaScript 
 
-- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
 - [stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
 - [telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
@@ -443,6 +447,7 @@
 
 ## Objective-C 
 
+- [NUC8i7BEH-Hackintosh-Build](https://github.com/sarkrui/NUC8i7BEH-Hackintosh-Build) - [GUIDE] Installing macOS Mojave (10.14.x) on Intel NUC8i7BEH using Clover UEFI
 - [MaciASL](https://github.com/acidanthera/MaciASL) - ACPI editing IDE for macOS
 - [IPAPatch](https://github.com/Naituw/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
@@ -451,6 +456,7 @@
 
 ## Others 
 
+- [op-note](https://github.com/shfshanyue/op-note) - 当我有服务器时我做了什么 · 个人服务器运维指南
 - [ThinkPad-E480-Hackintosh](https://github.com/SukkaW/ThinkPad-E480-Hackintosh) - macOS Catalina on ThinkPad E480 (Hackintosh)
 - [OcBinaryData](https://github.com/acidanthera/OcBinaryData) - 
 - [rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
@@ -511,6 +517,8 @@
 
 ## Python 
 
+- [ibus-table](https://github.com/kaio/ibus-table) - The tables engines for IBus
+- [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [frida-tools](https://github.com/frida/frida-tools) - Frida CLI tools
 - [AndroidNativeEmu](https://github.com/P4nda0s/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
