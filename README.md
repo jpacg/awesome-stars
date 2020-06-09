@@ -42,6 +42,7 @@
 
 ## C 
 
+- [itlwm](https://github.com/zxystd/itlwm) - IntelWifi
 - [SoFixer](https://github.com/F8LEFT/SoFixer) - 
 - [tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 - [frida-python](https://github.com/frida/frida-python) - Frida Python bindings
@@ -244,7 +245,6 @@
 - [cron](https://github.com/robfig/cron) - a cron library for go
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
-- [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) - 百度网盘客户端 - Go语言编写
 - [syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -257,7 +257,7 @@
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [gorm](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under development, PR based on master branch won't be accepted)
+- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -353,7 +353,6 @@
 - [stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
 - [telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
-- [FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump) - Fast search and dump dex on memory.
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [IHeader](https://github.com/Louiszhai/IHeader) - Chrome扩展: 告别跨域，定制HTTP请求响应头
@@ -447,6 +446,7 @@
 
 ## Objective-C 
 
+- [HookZzModules](https://github.com/jmpews/HookZzModules) - modules deps on HookZz framework.
 - [NUC8i7BEH-Hackintosh-Build](https://github.com/sarkrui/NUC8i7BEH-Hackintosh-Build) - [GUIDE] Installing macOS Mojave (10.14.x) on Intel NUC8i7BEH using Clover UEFI
 - [MaciASL](https://github.com/acidanthera/MaciASL) - ACPI editing IDE for macOS
 - [IPAPatch](https://github.com/Naituw/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.
@@ -517,6 +517,7 @@
 
 ## Python 
 
+- [NUC8I7BEH](https://github.com/honglov3/NUC8I7BEH) - 
 - [ibus-table](https://github.com/kaio/ibus-table) - The tables engines for IBus
 - [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
 - [loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -524,6 +525,7 @@
 - [AndroidNativeEmu](https://github.com/P4nda0s/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
 - [FART](https://github.com/hanbinglengyue/FART) - ART环境下自动化脱壳方案
 - [deobf](https://github.com/maiyao1988/deobf) - An arm32 ollvm like deofuscator,aim to remove obfuscation made by ollvm like compiler
+- [FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump) - Fast search and dump dex on memory.
 - [ProperTree](https://github.com/corpnewt/ProperTree) - Cross platform GUI plist editor written in python.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
