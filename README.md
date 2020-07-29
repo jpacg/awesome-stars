@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [hookso](https://github.com/esrrhs/hookso) - linux动态链接库的注入修改查找工具.A tool for injection, modification and search of linux dynamic link library
@@ -180,6 +181,7 @@
 
 ## CSS 
 
+- [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [Opencore-Vanilla-Desktop-Guide](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide) - Host for files for the OpenCore Vanilla Desktop Guide
 - [aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
@@ -225,7 +227,7 @@
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
-- [podman](https://github.com/containers/podman) - libpod is a library used to create container pods. Home of Podman.
+- [podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
@@ -285,7 +287,6 @@
 ## Java 
 
 - [studio_3t_trial](https://github.com/Hlittled/studio_3t_trial) - javaagent + javassist
-- [MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [novel-plus](https://github.com/201206030/novel-plus) - 小说精品屋-plus致力于打造一个完整的可商用、可学习的小说门户平台，小说精品屋-plus是在小说精品屋的基础上，重新进行了数据库设计、代码重构和功能增强，提升了程序整体的可读性和性能，增加了很多商用特性。官方论坛：http://bbs.java2nb.com/
 - [TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
 - [AndServer](https://github.com/yanzhenjie/AndServer) - :cherries: Web server and web framework of Android platform.
@@ -361,6 +362,9 @@
 
 ## JavaScript 
 
+- [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
+- [curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics
 - [DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech_balloon: Render Disqus comments in China using Disqus API
 - [stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
@@ -449,6 +453,7 @@
 
 ## Lua 
 
+- [helloworld](https://github.com/fw876/helloworld) - 
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
 ## Makefile 
@@ -469,6 +474,7 @@
 
 ## Others 
 
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [flask-tutorial](https://github.com/greyli/flask-tutorial) - Flask 入门教程：使用 Python 和 Flask 开发你的第一个 Web 程序
 - [op-note](https://github.com/shfshanyue/op-note) - 当我有服务器时我做了什么 · 个人服务器运维指南
 - [ThinkPad-E480-Hackintosh](https://github.com/SukkaW/ThinkPad-E480-Hackintosh) - macOS Catalina on ThinkPad E480 (Hackintosh)
@@ -531,6 +537,10 @@
 
 ## Python 
 
+- [scrapyd-client](https://github.com/scrapy/scrapyd-client) - Command line client for Scrapyd server
+- [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
+- [scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
+- [scrapy-redis](https://github.com/rmax/scrapy-redis) - Redis-based components for Scrapy.
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
 - [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
 - [DeepLearningSlideCaptcha](https://github.com/Python3WebSpider/DeepLearningSlideCaptcha) - Crack Slide Captcha using Deep Learning YOLOV3 Model
@@ -681,7 +691,7 @@
 
 ## Vue 
 
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 65k+ developers. https://postwoman.io
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 67k+ developers. https://postwoman.io
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
