@@ -42,6 +42,7 @@
 
 ## C 
 
+- [multidict](https://github.com/aio-libs/multidict) - The multidict implementation
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [byOpen](https://github.com/hack0z/byOpen) - 🎉A dlopen library that bypasses mobile system limitation
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -117,6 +118,7 @@
 
 ## C# # 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - 【自用】Bug-Oriented Programming
@@ -127,7 +129,7 @@
 
 ## C++ 
 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
@@ -367,6 +369,7 @@
 
 ## JavaScript 
 
+- [FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
 - [medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [botgram](https://github.com/botgram/botgram) - ⚙️ Microframework to build Telegram bots
 - [cfworker-telegraf-template](https://github.com/Tsuk1ko/cfworker-telegraf-template) - A template for Telegram Bot using Telegraf Framework on Cloudflare Workers
@@ -489,7 +492,6 @@
 - [OcBinaryData](https://github.com/acidanthera/OcBinaryData) - 
 - [rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - [MacInfoPkg](https://github.com/acidanthera/MacInfoPkg) - Mac Platform Information
-- [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg) - AppleSupportPkg - contains UEFI drivers for Apple environment support
 - [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla) - Native AMD macOS via Clover & OpenCore
 - [traefik-with-swarm](https://github.com/lndj/traefik-with-swarm) - A traefik demo with docker swarm for little / personal project (You don't need k8s).
 - [msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
@@ -535,7 +537,7 @@
 - [polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [wordpress-pubsubhubbub](https://github.com/pubsubhubbub/wordpress-pubsubhubbub) - WebSub/PubSubHubbub for WordPress
-- [DVWA](https://github.com/ethicalhack3r/DVWA) - Damn Vulnerable Web Application (DVWA)
+- [DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 
 ## Pascal 
@@ -545,6 +547,7 @@
 
 ## Python 
 
+- [motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
 - [ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
 - [scrapyd-client](https://github.com/scrapy/scrapyd-client) - Command line client for Scrapyd server
@@ -649,6 +652,8 @@
 
 ## Shell 
 
+- [n](https://github.com/tj/n) - Node version management
+- [plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [xadb](https://github.com/4ch12dy/xadb) - some useful adb commands for android reversing and debugging both 32 and 64 bit and support macOS and win10's MINGW64.
 - [koolproxyR](https://github.com/user1121114685/koolproxyR) - 
@@ -701,7 +706,7 @@
 
 ## Vue 
 
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder (web alternative to Postman) used by 70k+ developers. https://postwoman.io
+- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://postwoman.io
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
