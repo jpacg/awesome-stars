@@ -148,14 +148,12 @@
 - [cryptopp](https://github.com/weidai11/cryptopp) - free C++ class library of cryptographic schemes
 - [json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [whale](https://github.com/asLody/whale) - Hook Framework for Android/IOS/Linux/MacOS
-- [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [easyloggingpp](https://github.com/amrayn/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
 - [SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
 - [tinyPortMapper](https://github.com/wangyu-/tinyPortMapper) - A Lightweight Port Mapping/Forwarding Utility using epoll/libev, supports IPv4 and IPv6 for both TCP and UDP
 - [dnscat2](https://github.com/iagox86/dnscat2) - 
 - [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-- [FUPK3](https://github.com/F8LEFT/FUPK3) - 演示视频https://pan.baidu.com/s/1HH_-TQGca1NLoSqzvOPB3Q 密码：izm3
 - [v8eval](https://github.com/sony/v8eval) - Multi-language bindings to JavaScript engine V8
 - [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [dumpDex](https://github.com/WrBug/dumpDex) - 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目：
@@ -281,11 +279,10 @@
 - [sshhipot](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
 - [TcpConnectionTest](https://github.com/linxin26/TcpConnectionTest) - 
 - [v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 
 ## HTML 
 
+- [luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [python_scripts](https://github.com/lzjun567/python_scripts) - 一些python相关的演示代码
 - [arm-gcc-inline-assembler](https://github.com/tidyjiang8/arm-gcc-inline-assembler) - ARM GCC 内联汇编参考手册 - 中文版
@@ -469,7 +466,6 @@
 
 ## Makefile 
 
-- [clash](https://github.com/frainzy1477/clash) - Clash for openwrt       [Luci-app-clash]   https://github.com/frainzy1477/luci-app-clash
 - [frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL & PHPMyAdmin
 
@@ -537,7 +533,6 @@
 - [polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 - [typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [wordpress-pubsubhubbub](https://github.com/pubsubhubbub/wordpress-pubsubhubbub) - WebSub/PubSubHubbub for WordPress
-- [DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 - [adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 
 ## Pascal 
@@ -547,6 +542,7 @@
 
 ## Python 
 
+- [VideoCrawlerEngine](https://github.com/ZSAIm/VideoCrawlerEngine) - 视频爬虫引擎是以自定义脚本为草图，生成请求器工作流，实现可控可视的流水线执行。 意在提高脚本的开发效率，让开发者专注于解决反爬。
 - [Ciphey](https://github.com/Ciphey/Ciphey) - Automated decryption tool
 - [motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
@@ -574,8 +570,6 @@
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [dlercloud](https://github.com/youfou/dlercloud) - DlerCloud API 的 Python 客户端 ✨✨
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-- [text-detection-ocr](https://github.com/GlassyWing/text-detection-ocr) - Chinese text detection and recognition based on CTPN + DENSENET using Keras and Tensor Flow，使用keras和tensorflow基于CTPN+Densenet实现的中文文本检测和识别
-- [SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
@@ -599,7 +593,6 @@
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-- [iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - 解析下载爱奇艺、哔哩哔哩、腾讯视频
 - [sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -653,12 +646,11 @@
 
 ## Shell 
 
+- [ss-tproxy](https://github.com/zfl9/ss-tproxy) - 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简陋脚本
 - [n](https://github.com/tj/n) - Node version management
 - [plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [xadb](https://github.com/4ch12dy/xadb) - some useful adb commands for android reversing and debugging both 32 and 64 bit and support macOS and win10's MINGW64.
-- [koolproxyR](https://github.com/user1121114685/koolproxyR) - 
-- [ss-tproxy](https://github.com/zfl9/ss-tproxy) - 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简陋脚本
 - [gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [lnmp](https://github.com/licess/lnmp) - LNMP一键安装包是一个用Linux Shell编写的可以为CentOS/RHEL/Fedora/Aliyun/Amazon、Debian/Ubuntu/Raspbian/Deepin/Mint Linux VPS或独立主机安装LNMP(Nginx/MySQL/PHP)、LNMPA(Nginx/MySQL/PHP/Apache)、LAMP(Apache/MySQL/PHP)生产环境的Shell程序。
 - [docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -683,7 +675,6 @@
 ## TypeScript 
 
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
-- [lightproxy](https://github.com/alibaba/lightproxy) - 💎 Cross platform Web debugging proxy
 - [jnitrace-engine](https://github.com/chame1eon/jnitrace-engine) - Engine used by jnitrace to intercept JNI API calls.
 - [jnitrace](https://github.com/chame1eon/jnitrace) - A Frida based tool that traces usage of the JNI API in Android apps.
 - [telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
@@ -691,7 +682,6 @@
 - [frida-agent-example](https://github.com/oleavr/frida-agent-example) - Example Frida agent written in TypeScript
 - [web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-- [mpush](https://github.com/kooritea/mpush) - 基于Websocket的即时消息推送服务
 - [PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more.
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
