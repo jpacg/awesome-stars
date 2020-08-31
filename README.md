@@ -42,6 +42,7 @@
 
 ## C 
 
+- [IntelMausi](https://github.com/acidanthera/IntelMausi) - Intel Ethernet LAN driver for macOS
 - [multidict](https://github.com/aio-libs/multidict) - The multidict implementation
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [byOpen](https://github.com/hack0z/byOpen) - 🎉A dlopen library that bypasses mobile system limitation
@@ -118,10 +119,9 @@
 
 ## C# # 
 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
-- [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - 【自用】Bug-Oriented Programming
+- [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - 【自用】Bug-Oriented Programming (waiting for .NET MAUI)
 - [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
 - [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 - [wtg-assistant](https://github.com/nkc3g4/wtg-assistant) - 
@@ -129,11 +129,14 @@
 
 ## C++ 
 
+- [CcRemote](https://github.com/Cc28256/CcRemote) - 这是一个基于gh0st远程控制的项目，使自己更深入了解远控的原理，来编写一款自己的远控(正在编写)，项目采用VS2017
+- [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Drivers
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-- [hookso](https://github.com/esrrhs/hookso) - linux动态链接库的注入修改查找工具.A tool for injection, modification and search of linux dynamic link library
+- [hookso](https://github.com/esrrhs/hookso) - linux动态链接库的注入修改查找工具 A tool for injection, modification and search of linux dynamic link library
 - [OC-little](https://github.com/daliansky/OC-little) - ACPI Hotpatch Samples for the OpenCore Bootloader
 - [AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
 - [VirtualSMC](https://github.com/acidanthera/VirtualSMC) - SMC emulator layer
@@ -211,7 +214,6 @@
 
 ## Go 
 
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [tcping](https://github.com/cloverstd/tcping) - ping over a tcp connection
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility
@@ -271,7 +273,7 @@
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (v2 is under public testing...)
+- [gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 - [annie](https://github.com/iawia002/annie) - 👾 Fast, simple and clean video downloader
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -289,6 +291,9 @@
 
 ## Java 
 
+- [island](https://github.com/oasisfeng/island) - Island for Android
+- [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+- [WeChat-database](https://github.com/1998lixin/WeChat-database) - 破解微信数据库 获取想要的数据
 - [Mindustry](https://github.com/Anuken/Mindustry) - A sandbox tower defense game
 - [XposedAppium](https://github.com/w296488320/XposedAppium) - 基于Xposed自动化框架
 - [studio_3t_trial](https://github.com/Hlittled/studio_3t_trial) - javaagent + javassist
@@ -299,7 +304,7 @@
 - [kstools](https://github.com/fourbrother/kstools) - Android中自动爆破签名工具
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
 - [XposedInstaller](https://github.com/DVDAndroid/XposedInstaller) - Materialised Xposed Installer
-- [Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App allows you to handle your downloads on aria2 wherever you are!
+- [Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [YAHFA](https://github.com/PAGalaxyLab/YAHFA) - Yet Another Hook Framework for ART
 - [SandHook](https://github.com/ganyao114/SandHook) - Android ART Hook/Native Inline Hook/Single Instruction Hook - support 4.4 - 11.0 32/64 bit - Xposed API Compat
 - [EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
@@ -338,7 +343,7 @@
 - [cybergarage-upnp](https://github.com/cybergarage/cybergarage-upnp) - cybergarage-upnp is a development package for UPnP™ developers. cybergarage-upnp controls these protocols automatically, and supports to create your devices and control points quickly.
 - [cling](https://github.com/4thline/cling) - UPnP/DLNA library for Java and Android
 - [JustTrustMe](https://github.com/Fuzion24/JustTrustMe) - An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning
-- [SlimAdapter](https://github.com/MEiDIK/SlimAdapter) - A slim & clean & typeable Adapter without# VIEWHOLDER
+- [SlimAdapter](https://github.com/linisme/SlimAdapter) - A slim & clean & typeable Adapter without# VIEWHOLDER
 - [retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
 - [VirtualAPK](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android
 - [RePlugin](https://github.com/Qihoo360/RePlugin) - RePlugin - A flexible, stable, easy-to-use Android Plug-in Framework
@@ -425,7 +430,7 @@
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
-- [duktape-android](https://github.com/square/duktape-android) - The Duktape embeddable Javascript engine packaged for Android.
+- [duktape-android](https://github.com/cashapp/duktape-android) - The Duktape embeddable Javascript engine packaged for Android.
 - [duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
@@ -481,7 +486,7 @@
 
 ## Others 
 
-- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+- [blog](https://github.com/bestswifter/blog) - 我的博客
 - [flask-tutorial](https://github.com/greyli/flask-tutorial) - Flask 入门教程：使用 Python 和 Flask 开发你的第一个 Web 程序
 - [op-note](https://github.com/shfshanyue/op-note) - 当我有服务器时我做了什么 · 个人服务器运维指南
 - [ThinkPad-E480-Hackintosh](https://github.com/SukkaW/ThinkPad-E480-Hackintosh) - macOS Catalina on ThinkPad E480 (Hackintosh)
@@ -497,7 +502,7 @@
 - [clash-for-openwrt](https://github.com/antonchen/clash-for-openwrt) - Clash for OpenWrt
 - [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [awesome-xmake](https://github.com/xmake-io/awesome-xmake) - 💕 A curated list of awesome XMake projects, plugins, examples and others
-- [awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules, examples and others.
+- [awesome-cmake](https://github.com/onqtam/awesome-cmake) - A curated list of awesome CMake resources, scripts, modules and examples.
 - [vTemplate](https://github.com/KiriKira/vTemplate) - v2ray的模板们
 - [ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio) - 记录一下SS的前世今生，以及一个简单的教程总结
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -542,11 +547,14 @@
 
 ## Python 
 
+- [flask-redis](https://github.com/underyx/flask-redis) - A Flask extension for using Redis
+- [rq](https://github.com/rq/rq) - Simple job queues for Python
 - [VideoCrawlerEngine](https://github.com/ZSAIm/VideoCrawlerEngine) - 视频爬虫引擎是以自定义脚本为草图，生成请求器工作流，实现可控可视的流水线执行。 意在提高脚本的开发效率，让开发者专注于解决反爬。
 - [Ciphey](https://github.com/Ciphey/Ciphey) - Automated decryption tool
 - [motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
 - [ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
+- [chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [scrapyd-client](https://github.com/scrapy/scrapyd-client) - Command line client for Scrapyd server
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 - [scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
@@ -631,7 +639,7 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧  Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 
 ## Rust 
@@ -697,7 +705,7 @@
 
 ## Vue 
 
-- [postwoman](https://github.com/postwoman-io/postwoman) - 👽 A free, fast and beautiful API request builder used by 71k+ developers. https://postwoman.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
