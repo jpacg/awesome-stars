@@ -48,6 +48,7 @@
 
 ## C 
 
+- [aesTool](https://github.com/luck-apple/aesTool) - Android NDK AES
 - [DES](https://github.com/dhuertas/DES) - DES algorithm implementation in C
 - [AES](https://github.com/dhuertas/AES) - AES algorithm implementation in C
 - [IntelMausi](https://github.com/acidanthera/IntelMausi) - Intel Ethernet LAN driver for macOS
