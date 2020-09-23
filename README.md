@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [ASL](#asl)
   - [ASP](#asp)
   - [C](#c)
   - [C#](#c#)
@@ -28,12 +29,17 @@
   - [Pascal](#pascal)
   - [Python](#python)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
+
+## ASL 
+
+- [OC-little](https://github.com/daliansky/OC-little) - ACPI Hotpatch Samples for the OpenCore Bootloader
 
 ## ASP 
 
@@ -42,6 +48,8 @@
 
 ## C 
 
+- [DES](https://github.com/dhuertas/DES) - DES algorithm implementation in C
+- [AES](https://github.com/dhuertas/AES) - AES algorithm implementation in C
 - [IntelMausi](https://github.com/acidanthera/IntelMausi) - Intel Ethernet LAN driver for macOS
 - [multidict](https://github.com/aio-libs/multidict) - The multidict implementation
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -56,7 +64,7 @@
 - [darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
-- [quickjs](https://github.com/horhof/quickjs) - Unpacked tarball of Fabrice Bellard's QuickJS Javascript engine
+- [quickjs](https://github.com/horhof/quickjs) - The official repo is now at bellard/quickjs.
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [antispy](https://github.com/mohuihui/antispy) - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its assistance,you can easily spot and neutralize malwares hidden from normal detectors.
 - [gpac](https://github.com/gpac/gpac) - Modular Multimedia framework for packaging, streaming and playing your favorite content.
@@ -66,7 +74,6 @@
 - [redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 - [openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
 - [go-tun2socks](https://github.com/eycorsican/go-tun2socks) - A tun2socks implementation written in Go.
-- [Riru](https://github.com/RikkaApps/Riru) - Inject zygote process by replace libmemtrack
 - [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
@@ -137,13 +144,13 @@
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [hookso](https://github.com/esrrhs/hookso) - linux动态链接库的注入修改查找工具 A tool for injection, modification and search of linux dynamic link library
-- [OC-little](https://github.com/daliansky/OC-little) - ACPI Hotpatch Samples for the OpenCore Bootloader
 - [AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
 - [VirtualSMC](https://github.com/acidanthera/VirtualSMC) - SMC emulator layer
 - [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent BitTorrent client (Enhanced Edition)
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [LiquidCore](https://github.com/LiquidPlayer/LiquidCore) - Node.js virtual machine for Android and iOS
+- [Riru](https://github.com/RikkaApps/Riru) - Inject into zygote process
 - [UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics(TCP/UDP/ICMP)
 - [udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 - [WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
@@ -189,7 +196,6 @@
 - [hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [Opencore-Vanilla-Desktop-Guide](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide) - Host for files for the OpenCore Vanilla Desktop Guide
-- [aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 - [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 - [hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
@@ -250,8 +256,8 @@
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
-- [whoami](https://github.com/containous/whoami) - Tiny Go webserver that prints os information and HTTP request to output
-- [traefik](https://github.com/containous/traefik) - The Cloud Native Edge Router
+- [whoami](https://github.com/traefik/whoami) - Tiny Go webserver that prints os information and HTTP request to output
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
 - [pangu](https://github.com/vinta/pangu) - Paranoid text spacing in Go (Golang)
 - [alfred-youdao](https://github.com/zgs225/alfred-youdao) - 有道词典 for Alfred
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -284,6 +290,7 @@
 
 ## HTML 
 
+- [FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
 - [luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [python_scripts](https://github.com/lzjun567/python_scripts) - 一些python相关的演示代码
@@ -291,6 +298,10 @@
 
 ## Java 
 
+- [Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
+- [sekiro](https://github.com/virjar/sekiro) - 基于长链接和代码注入的Android private API暴露框架
+- [Xpatch](https://github.com/WindySha/Xpatch) - 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
+- [device-info](https://github.com/song-dev/device-info) - 获取 Android 设备信息
 - [island](https://github.com/oasisfeng/island) - Island for Android
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [WeChat-database](https://github.com/1998lixin/WeChat-database) - 破解微信数据库 获取想要的数据
@@ -323,7 +334,7 @@
 - [Neptune](https://github.com/iqiyi/Neptune) - A flexible, powerful and lightweight plugin framework for Android
 - [jsweet](https://github.com/cincheo/jsweet) - A Java to JavaScript transpiler.
 - [XAOP](https://github.com/xuexiangjys/XAOP) - 🔥一个轻量级的AOP(Android)应用框架。囊括了最实用的AOP应用。
-- [jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Zero dependencies. Use what you like.
+- [jodd](https://github.com/oblac/jodd) - Jodd v5! Lightweight. Java. Zero dependencies. Use what you like.
 - [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) - Android SQLite API based on SQLCipher
 - [LitePal](https://github.com/guolindev/LitePal) - An Android library that makes developers use SQLite database extremely easy.
 - [Aopermission](https://github.com/crazyqiang/Aopermission) - AOP方式封装的6.0运行时申请权限的库—A library that request Permissions in an AOP manner.
@@ -391,6 +402,7 @@
 - [Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
 - [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [JNI-Frida-Hook](https://github.com/Areizen/JNI-Frida-Hook) - Script to quickly hook natives call to JNI in Android
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
@@ -547,10 +559,11 @@
 
 ## Python 
 
+- [mrida](https://github.com/freemanZYQ/mrida) - 
 - [flask-redis](https://github.com/underyx/flask-redis) - A Flask extension for using Redis
 - [rq](https://github.com/rq/rq) - Simple job queues for Python
 - [VideoCrawlerEngine](https://github.com/ZSAIm/VideoCrawlerEngine) - 视频爬虫引擎是以自定义脚本为草图，生成请求器工作流，实现可控可视的流水线执行。 意在提高脚本的开发效率，让开发者专注于解决反爬。
-- [Ciphey](https://github.com/Ciphey/Ciphey) - Automated decryption tool
+- [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
 - [ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
@@ -647,13 +660,17 @@
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [server_tan](https://github.com/chinuno-usami/server_tan) - 微信通知推送服务
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
 - [clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
+## SCSS 
+
+- [aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
+
 ## Shell 
 
+- [magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
 - [ss-tproxy](https://github.com/zfl9/ss-tproxy) - 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简陋脚本
 - [n](https://github.com/tj/n) - Node version management
 - [plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
@@ -705,7 +722,7 @@
 
 ## Vue 
 
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
