@@ -57,7 +57,7 @@
 - [byOpen](https://github.com/hack0z/byOpen) - 🎉A dlopen library that bypasses mobile system limitation
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [crack_litevm](https://github.com/ylcangel/crack_litevm) - 逆向聚安全litevm相关
-- [itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers
+- [itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS
 - [SoFixer](https://github.com/F8LEFT/SoFixer) - 
 - [tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 - [frida-python](https://github.com/frida/frida-python) - Frida Python bindings
@@ -65,7 +65,7 @@
 - [darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
-- [quickjs](https://github.com/horhof/quickjs) - The official repo is now at bellard/quickjs.
+- [quickjs](https://github.com/horhof/quickjs) - The official repo is at bellard/quickjs.
 - [smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [antispy](https://github.com/mohuihui/antispy) - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its assistance,you can easily spot and neutralize malwares hidden from normal detectors.
 - [gpac](https://github.com/gpac/gpac) - Modular Multimedia framework for packaging, streaming and playing your favorite content.
@@ -137,8 +137,9 @@
 
 ## C++ 
 
-- [CcRemote](https://github.com/Cc28256/CcRemote) - 这是一个基于gh0st远程控制的项目，使自己更深入了解远控的原理，来编写一款自己的远控(正在编写)，项目采用VS2017
-- [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Drivers
+- [snell-server-reversed](https://github.com/icpz/snell-server-reversed) - Reverse engineering of surge snell
+- [CcRemote](https://github.com/Cc28256/CcRemote) - 这是一个基于gh0st远程控制的项目，使自己更深入了解远控的原理，采用VS2017，默认分支hijack还在修改不能执行，master分支的项目可以正常的运行的，你可以切换到该分支查看可以执行的代码
+- [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Drivers for macOS
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
@@ -221,6 +222,8 @@
 
 ## Go 
 
+- [open-snell](https://github.com/icpz/open-snell) - This is an unofficial open source port of https://github.com/surge-networks/snell
+- [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [tcping](https://github.com/cloverstd/tcping) - ping over a tcp connection
 - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Go driver for MongoDB
 - [go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility
@@ -258,7 +261,7 @@
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [whoami](https://github.com/traefik/whoami) - Tiny Go webserver that prints os information and HTTP request to output
-- [traefik](https://github.com/traefik/traefik) - The Cloud Native Edge Router
+- [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [pangu](https://github.com/vinta/pangu) - Paranoid text spacing in Go (Golang)
 - [alfred-youdao](https://github.com/zgs225/alfred-youdao) - 有道词典 for Alfred
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -312,7 +315,7 @@
 - [TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
 - [AndServer](https://github.com/yanzhenjie/AndServer) - :cherries: Web server and web framework of Android platform.
 - [ormlite-android](https://github.com/j256/ormlite-android) - ORMLite Android functionality used in conjunction with ormlite-core
-- [telegram-sms](https://github.com/telegram-sms/telegram-sms) - A robot running on your Android device.
+- [telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 - [kstools](https://github.com/fourbrother/kstools) - Android中自动爆破签名工具
 - [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
 - [XposedInstaller](https://github.com/DVDAndroid/XposedInstaller) - Materialised Xposed Installer
@@ -335,7 +338,7 @@
 - [Neptune](https://github.com/iqiyi/Neptune) - A flexible, powerful and lightweight plugin framework for Android
 - [jsweet](https://github.com/cincheo/jsweet) - A Java to JavaScript transpiler.
 - [XAOP](https://github.com/xuexiangjys/XAOP) - 🔥一个轻量级的AOP(Android)应用框架。囊括了最实用的AOP应用。
-- [jodd](https://github.com/oblac/jodd) - Jodd v5! Lightweight. Java. Zero dependencies. Use what you like.
+- [jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Zero dependencies. Use what you like.
 - [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) - Android SQLite API based on SQLCipher
 - [LitePal](https://github.com/guolindev/LitePal) - An Android library that makes developers use SQLite database extremely easy.
 - [Aopermission](https://github.com/crazyqiang/Aopermission) - AOP方式封装的6.0运行时申请权限的库—A library that request Permissions in an AOP manner.
@@ -363,7 +366,7 @@
 - [rootcloak](https://github.com/devadvance/rootcloak) - Open source module for Xposed Framework that hides root from specific apps
 - [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
-- [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for Java and Kotlin.
+- [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 10.0 in business version)
 - [FcPermissions](https://github.com/lypeer/FcPermissions) - Fuck the permissions in Android M
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
@@ -473,6 +476,7 @@
 - [libaums](https://github.com/magnusja/libaums) - Open source library to access USB Mass Storage devices on Android without rooting your device
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
+- [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
 - [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 - [material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
@@ -533,7 +537,6 @@
 - [chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
 - [Hikari](https://github.com/HikariObfuscator/Hikari) - LLVM Obfuscator
 - [awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
-- [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
 - [ndk](https://github.com/android/ndk) - The Android Native Development Kit
 - [ZjDroid](https://github.com/halfkiss/ZjDroid) - Android app dynamic reverse tool based on Xposed framework.
@@ -653,7 +656,7 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 
 ## Rust 
