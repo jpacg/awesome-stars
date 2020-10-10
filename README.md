@@ -127,7 +127,6 @@
 - [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - 【自用】Bug-Oriented Programming (waiting for .NET MAUI)
 - [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
 - [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
-- [wtg-assistant](https://github.com/nkc3g4/wtg-assistant) - 
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 
 ## C++ 
@@ -342,7 +341,6 @@
 - [AndroidOtgDemo](https://github.com/developerHaoz/AndroidOtgDemo) - 
 - [LuckyHooker](https://github.com/wuxianlin/LuckyHooker) - Xposed moudle to remove ads from some apps
 - [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android
-- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
 - [AndroidVideoCache](https://github.com/danikula/AndroidVideoCache) - Cache support for any video player with help of single line
 - [jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -391,7 +389,6 @@
 - [stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
 - [nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [IHeader](https://github.com/Louiszhai/IHeader) - Chrome扩展: 告别跨域，定制HTTP请求响应头
 - [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
@@ -412,7 +409,6 @@
 - [snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
 - [send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
 - [XServer](https://github.com/monkeylord/XServer) - A Xposed Module for Android Penetration Test, with NanoHttpd.
-- [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [uni-app](https://github.com/dcloudio/uni-app) - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
@@ -492,7 +488,6 @@
 - [IPAPatch](https://github.com/Naituw/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [sequelpro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS
-- [WeChatRedEnvelop](https://github.com/buginux/WeChatRedEnvelop) - iOS版微信抢红包Tweak
 
 ## Others 
 
@@ -502,13 +497,11 @@
 - [ThinkPad-E480-Hackintosh](https://github.com/SukkaW/ThinkPad-E480-Hackintosh) - macOS Catalina on ThinkPad E480 (Hackintosh)
 - [OcBinaryData](https://github.com/acidanthera/OcBinaryData) - 
 - [rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
-- [MacInfoPkg](https://github.com/acidanthera/MacInfoPkg) - Mac Platform Information
 - [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla) - Native AMD macOS via Clover & OpenCore
 - [traefik-with-swarm](https://github.com/lndj/traefik-with-swarm) - A traefik demo with docker swarm for little / personal project (You don't need k8s).
 - [msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
-- [domains](https://github.com/Ice-Hazymoon/domains) - 域名发布页
 - [clash-for-openwrt](https://github.com/antonchen/clash-for-openwrt) - Clash for OpenWrt
 - [awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [awesome-xmake](https://github.com/xmake-io/awesome-xmake) - 💕 A curated list of awesome XMake projects, plugins, examples and others
@@ -620,7 +613,6 @@
 - [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io
 - [lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
 - [pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
-- [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) - IDA pro plugin to find crypto constants (and more)
 - [denyhosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks
@@ -714,16 +706,13 @@
 
 ## Vim script 
 
-- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 
 ## Vue 
 
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
-- [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-- [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
 
 
 ## License
