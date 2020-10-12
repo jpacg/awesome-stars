@@ -48,6 +48,8 @@
 
 ## C 
 
+- [src](https://github.com/openbsd/src) - Public git conversion mirror of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
+- [xCrash](https://github.com/hexhacking/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
 - [aesTool](https://github.com/luck-apple/aesTool) - Android NDK AES
 - [DES](https://github.com/dhuertas/DES) - DES algorithm implementation in C
 - [AES](https://github.com/dhuertas/AES) - AES algorithm implementation in C
@@ -112,7 +114,6 @@
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [adbi](https://github.com/crmulliner/adbi) - Android Dynamic Binary Instrumentation Toolkit
-- [android_bootable_recovery](https://github.com/omnirom/android_bootable_recovery) - 
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 - [udis86](https://github.com/vmt/udis86) - Disassembler Library for x86 and x86-64
@@ -192,7 +193,6 @@
 - [Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一只可爱的hexo主题 m(=•ェ•=)m~🍭
 - [hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
-- [Opencore-Vanilla-Desktop-Guide](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide) - Host for files for the OpenCore Vanilla Desktop Guide
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
 - [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) - Elegant and powerful theme for Hexo.
 - [hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) - 🎨Modern, powerful and simple theme for Hexo.
@@ -436,11 +436,8 @@
 - [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
-- [duktape-android](https://github.com/cashapp/duktape-android) - The Duktape embeddable Javascript engine packaged for Android.
-- [duktape](https://github.com/svaarala/duktape) - Duktape - embeddable Javascript engine with a focus on portability and compact footprint
 - [AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [JSLint](https://github.com/douglascrockford/JSLint) - The JavaScript Code Quality Tool
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
