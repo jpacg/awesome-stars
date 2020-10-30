@@ -48,6 +48,7 @@
 
 ## C 
 
+- [quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
 - [src](https://github.com/openbsd/src) - Public git conversion mirror of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
 - [xCrash](https://github.com/hexhacking/xCrash) - 🔥 xCrash provides the Android app with the ability to capture java crash, native crash and ANR. No root permission or any system permissions are required.
 - [aesTool](https://github.com/luck-apple/aesTool) - Android NDK AES
@@ -96,7 +97,7 @@
 - [CustomLinker](https://github.com/liumengdeqq/CustomLinker) - 
 - [axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [bplustree](https://github.com/begeekmyfriend/bplustree) - A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage
-- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - libev port of shadowsocks
+- [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug fix only libev port of shadowsocks. Future development moved to shadowsocks-rust
 - [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol (快速可靠传输协议)
 - [proxydroid](https://github.com/madeye/proxydroid) - Global Proxy for Android
 - [Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook) - thumb16 thumb32 arm32 inlineHook in Android
@@ -126,14 +127,15 @@
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - 【自用】Bug-Oriented Programming (waiting for .NET MAUI)
-- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
+- [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 - [wtg-assistant](https://github.com/nkc3g4/wtg-assistant) - 
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 
 ## C++ 
 
-- [jni_helper](https://github.com/evilpan/jni_helper) - Find JNI function signatures from APK and then load to your reverse tools!
+- [LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
+- [jni_helper](https://github.com/evilpan/jni_helper) - Find JNI function signatures in APK and apply to reverse tools.
 - [snell-server-reversed](https://github.com/icpz/snell-server-reversed) - Reverse engineering of surge snell
 - [CcRemote](https://github.com/Cc28256/CcRemote) - 这是一个基于gh0st远程控制的项目，使自己更深入了解远控的原理，采用VS2017，默认分支hijack还在修改不能执行，master分支的项目可以正常的运行的，你可以切换到该分支查看可以执行的代码
 - [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Drivers for macOS
@@ -217,7 +219,7 @@
 
 ## Go 
 
-- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
+- [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [open-snell](https://github.com/icpz/open-snell) - This is an unofficial open source port of https://github.com/surge-networks/snell
 - [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [tcping](https://github.com/cloverstd/tcping) - ping over a tcp connection
@@ -295,6 +297,7 @@
 
 ## Java 
 
+- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [sekiro](https://github.com/virjar/sekiro) - 基于长链接和代码注入的Android private API暴露框架
 - [Xpatch](https://github.com/WindySha/Xpatch) - 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
@@ -378,6 +381,7 @@
 
 ## JavaScript 
 
+- [electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/serial port/sftp client(linux, mac, win)
 - [FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
 - [medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [botgram](https://github.com/botgram/botgram) - ⚙️ Microframework to build Telegram bots
@@ -386,16 +390,16 @@
 - [curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
 - [curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics
-- [DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech_balloon: Render Disqus comments in China using Disqus API
+- [DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech_balloon: Render Disqus comments in Mainland China using Disqus API
 - [stf](https://github.com/openstf/stf) - Control and manage Android devices from your browser.
 - [nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
+- [frida-tsplugin](https://github.com/tacesrever/frida-tsplugin) - typescript autocomplete plugin for frida's java warpper
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [IHeader](https://github.com/Louiszhai/IHeader) - Chrome扩展: 告别跨域，定制HTTP请求响应头
 - [gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [Valine](https://github.com/xCss/Valine) - A fast, simple & powerful comment system.
-- [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [JNI-Frida-Hook](https://github.com/Areizen/JNI-Frida-Hook) - Script to quickly hook natives call to JNI in Android
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
@@ -456,7 +460,6 @@
 
 - [tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android
 - [legado](https://github.com/gedoor/legado) - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [DeveloperHelper](https://github.com/WrBug/DeveloperHelper) - 📌易开发是一款帮助开发人员快速开发的工具，功能包括界面分析，页面信息，加固脱壳，支持Android9.0
 - [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
@@ -492,12 +495,10 @@
 - [blog](https://github.com/bestswifter/blog) - 我的博客
 - [flask-tutorial](https://github.com/greyli/flask-tutorial) - Flask 入门教程：使用 Python 和 Flask 开发你的第一个 Web 程序
 - [op-note](https://github.com/shfshanyue/op-note) - 当我有服务器时我做了什么 · 个人服务器运维指南
-- [ThinkPad-E480-Hackintosh](https://github.com/SukkaW/ThinkPad-E480-Hackintosh) - macOS Catalina on ThinkPad E480 (Hackintosh)
 - [OcBinaryData](https://github.com/acidanthera/OcBinaryData) - 
 - [rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - [AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla) - Native AMD macOS via Clover & OpenCore
 - [traefik-with-swarm](https://github.com/lndj/traefik-with-swarm) - A traefik demo with docker swarm for little / personal project (You don't need k8s).
-- [msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [TaiChi](https://github.com/taichi-framework/TaiChi) - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 10.
 - [Micro8](https://github.com/Micropoor/Micro8) - Gitbook
 - [clash-for-openwrt](https://github.com/antonchen/clash-for-openwrt) - Clash for OpenWrt
@@ -547,6 +548,8 @@
 
 ## Python 
 
+- [qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
+- [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
 - [Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [mrida](https://github.com/freemanZYQ/mrida) - 
 - [flask-redis](https://github.com/underyx/flask-redis) - A Flask extension for using Redis
@@ -578,14 +581,13 @@
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [dlercloud](https://github.com/youfou/dlercloud) - DlerCloud API 的 Python 客户端 ✨✨
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [AndroidNativeEmu](https://github.com/AeonLucid/AndroidNativeEmu) - Allows you to partly emulate an Android native library.
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
-- [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
+- [instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [COMFinder](https://github.com/howmp/COMFinder) - IDA plugin for COM
@@ -657,6 +659,7 @@
 - [n](https://github.com/tj/n) - Node version management
 - [plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [lnmp](https://github.com/licess/lnmp) - LNMP一键安装包是一个用Linux Shell编写的可以为CentOS/RHEL/Fedora/Aliyun/Amazon、Debian/Ubuntu/Raspbian/Deepin/Mint Linux VPS或独立主机安装LNMP(Nginx/MySQL/PHP)、LNMPA(Nginx/MySQL/PHP/Apache)、LAMP(Apache/MySQL/PHP)生产环境的Shell程序。
 - [docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
@@ -683,7 +686,6 @@
 - [jnitrace-engine](https://github.com/chame1eon/jnitrace-engine) - Engine used by jnitrace to intercept JNI API calls.
 - [jnitrace](https://github.com/chame1eon/jnitrace) - A Frida based tool that traces usage of the JNI API in Android apps.
 - [telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
-- [frida-tsplugin](https://github.com/tacesrever/frida-tsplugin) - typescript autocomplete plugin for frida's java warpper
 - [frida-agent-example](https://github.com/oleavr/frida-agent-example) - Example Frida agent written in TypeScript
 - [web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
@@ -701,7 +703,7 @@
 
 ## Vue 
 
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 80k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
 
