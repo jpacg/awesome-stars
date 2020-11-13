@@ -98,6 +98,7 @@
 - [axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [bplustree](https://github.com/begeekmyfriend/bplustree) - A minimal but extreme fast B+ tree indexing structure demo for billions of key-value storage
 - [kcp](https://github.com/skywind3000/kcp) - KCP - A Fast and Reliable ARQ Protocol (快速可靠传输协议)
+- [Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
 - [proxydroid](https://github.com/madeye/proxydroid) - Global Proxy for Android
 - [Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook) - thumb16 thumb32 arm32 inlineHook in Android
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
@@ -170,7 +171,6 @@
 - [Bangcle](https://github.com/woxihuannisja/Bangcle) - The second generation Android Hardening Protection
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [Dobby](https://github.com/jmpews/Dobby) - a lightweight, multi-platform, multi-architecture hook framework.
 - [nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [breakpad](https://github.com/google/breakpad) - Mirror of Google Breakpad project
@@ -218,6 +218,7 @@
 
 ## Go 
 
+- [zpan](https://github.com/saltbo/zpan) - A self-host cloud disk base on the cloud storage./ 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [open-snell](https://github.com/icpz/open-snell) - This is an unofficial open source port of https://github.com/surge-networks/snell
 - [trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
@@ -296,6 +297,11 @@
 
 ## Java 
 
+- [FakerAndroid](https://github.com/Efaker/FakerAndroid) - A tool translate a apk file to stantard android project include  so hook api and il2cpp c++ scaffolding  when apk is a unity il2cpp game.
+- [logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
+- [xLog](https://github.com/elvishew/xLog) - Android logger, simple and pretty, powerful and flexible, all you need is here (updating)
+- [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+- [Hardwarecode](https://github.com/1998lixin/Hardwarecode) - 基于xposed 修改硬件信息
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [sekiro](https://github.com/virjar/sekiro) - 基于长链接和代码注入的Android private API暴露框架
@@ -444,7 +450,7 @@
 - [thinkjs](https://github.com/thinkjs/thinkjs) - Use full ES2015+ features to develop Node.js applications, Support TypeScript.
 - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [Access-Control-Allow-Origin](https://github.com/vitvad/Access-Control-Allow-Origin) - Chrome extension: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
-- [DPlayer](https://github.com/MoePlayer/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
+- [DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension
@@ -456,6 +462,7 @@
 
 ## Kotlin 
 
+- [EmbeddedLogcat](https://github.com/madchan/EmbeddedLogcat) - 
 - [tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android
 - [legado](https://github.com/gedoor/legado) - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
