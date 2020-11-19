@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
 - [LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
 - [jni_helper](https://github.com/evilpan/jni_helper) - Find JNI function signatures in APK and apply to reverse tools.
 - [snell-server-reversed](https://github.com/icpz/snell-server-reversed) - Reverse engineering of surge snell
@@ -218,6 +219,7 @@
 
 ## Go 
 
+- [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) - 设计模式 Golang实现－《研磨设计模式》读书笔记
 - [zpan](https://github.com/saltbo/zpan) - A self-host cloud disk base on the cloud storage./ 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。
 - [7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [open-snell](https://github.com/icpz/open-snell) - This is an unofficial open source port of https://github.com/surge-networks/snell
@@ -297,6 +299,8 @@
 
 ## Java 
 
+- [SPatch](https://github.com/lianglixin/SPatch) - SPatch a develope tool for WinNT/iOS/Android
+- [FastDownloader](https://github.com/Tamicer/FastDownloader) - 基于Okhttp, 结合Retrofit，使用Okio ，简化处理I/O操作，加入多种设计模式，实现基于链式的android平台多线程下载利器！
 - [FakerAndroid](https://github.com/Efaker/FakerAndroid) - A tool translate a apk file to stantard android project include  so hook api and il2cpp c++ scaffolding  when apk is a unity il2cpp game.
 - [logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
 - [xLog](https://github.com/elvishew/xLog) - Android logger, simple and pretty, powerful and flexible, all you need is here (updating)
@@ -367,7 +371,7 @@
 - [AntiVM](https://github.com/bunnyblue/AntiVM) - this is a project anti vm on android
 - [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 - [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
-- [VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 10.0 in business version)
+- [VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 11.0 in business version)
 - [FcPermissions](https://github.com/lypeer/FcPermissions) - Fuck the permissions in Android M
 - [dexposed](https://github.com/alibaba/dexposed) - dexposed enable 'god' mode for single android application.
 - [Robust](https://github.com/Meituan-Dianping/Robust) - Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without a reboot.
@@ -386,6 +390,7 @@
 
 ## JavaScript 
 
+- [duktape-android](https://github.com/cashapp/duktape-android) - The Duktape embeddable Javascript engine packaged for Android.
 - [electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/serial port/sftp client(linux, mac, win)
 - [medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [botgram](https://github.com/botgram/botgram) - ⚙️ Microframework to build Telegram bots
@@ -462,6 +467,7 @@
 
 ## Kotlin 
 
+- [WADB](https://github.com/RikkaApps/WADB) - A simple switch for adb (Android Debug Bridge) over network.
 - [EmbeddedLogcat](https://github.com/madchan/EmbeddedLogcat) - 
 - [tachiyomi](https://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android
 - [legado](https://github.com/gedoor/legado) - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
@@ -553,6 +559,7 @@
 
 ## Python 
 
+- [kinto](https://github.com/rbreaves/kinto) - A better Linux & Windows keyboard layout for professional mac users
 - [qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
 - [Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
@@ -660,6 +667,7 @@
 
 ## Shell 
 
+- [Riru-ModuleTemplate](https://github.com/RikkaApps/Riru-ModuleTemplate) - Module template of Riru.
 - [magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
 - [ss-tproxy](https://github.com/zfl9/ss-tproxy) - 搭建 SS/SSR/V2Ray/Socks5 透明代理环境的简陋脚本
 - [n](https://github.com/tj/n) - Node version management
