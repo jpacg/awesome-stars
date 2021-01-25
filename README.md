@@ -31,7 +31,6 @@
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
-  - [Smarty](#smarty)
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
@@ -126,10 +125,8 @@
 
 ## C# # 
 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
-- [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
 - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
 - [wtg-assistant](https://github.com/nkc3g4/wtg-assistant) - 
@@ -145,6 +142,7 @@
 - [CcRemote](https://github.com/Cc28256/CcRemote) - 这是一个基于gh0st远程控制的项目，使自己更深入了解远控的原理，采用VS2017，默认分支hijack还在修改不能执行，master分支的项目可以正常的运行的，你可以切换到该分支查看可以执行的代码
 - [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Drivers for macOS
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
@@ -223,7 +221,6 @@
 
 - [igniter-go-libs](https://github.com/trojan-gfw/igniter-go-libs) - 
 - [tun2socket](https://github.com/Kr328/tun2socket) - A utilize that use kernel tcpip stack to forward packet from tun device.
-- [mtSecKill](https://github.com/zqjzqj/mtSecKill) - 京东茅台抢购
 - [colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [goprocinfo](https://github.com/c9s/goprocinfo) - Linux /proc info parser for Go
 - [v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -485,7 +482,6 @@
 ## Kotlin 
 
 - [mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
-- [v2rayNG](https://github.com/2dust/v2rayNG) - 
 - [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 - [Scarlet](https://github.com/Tinder/Scarlet) - A Retrofit inspired WebSocket client for Kotlin, Java, and Android
 - [WADB](https://github.com/RikkaApps/WADB) - A simple switch for adb (Android Debug Bridge) over network.
@@ -500,7 +496,6 @@
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
-- [anko](https://github.com/Kotlin/anko) - Pleasant Android application development
 - [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
 
@@ -524,8 +519,8 @@
 
 ## Others 
 
+- [mtSecKill](https://github.com/zqjzqj/mtSecKill) - 京东茅台抢购
 - [learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
-- [blog](https://github.com/bestswifter/blog) - 我的博客
 - [flask-tutorial](https://github.com/greyli/flask-tutorial) - Flask 入门教程：使用 Python 和 Flask 开发你的第一个 Web 程序
 - [op-note](https://github.com/shfshanyue/op-note) - 当我有服务器时我做了什么 · 个人服务器运维指南
 - [OcBinaryData](https://github.com/acidanthera/OcBinaryData) - 
@@ -591,7 +586,6 @@
 - [mrida](https://github.com/freemanZYQ/mrida) - 
 - [flask-redis](https://github.com/underyx/flask-redis) - A Flask extension for using Redis
 - [rq](https://github.com/rq/rq) - Simple job queues for Python
-- [VideoCrawlerEngine](https://github.com/ZSAIm/VideoCrawlerEngine) - 视频爬虫引擎是以自定义脚本为草图，生成请求器工作流，实现可控可视的流水线执行。 意在提高脚本的开发效率，让开发者专注于解决反爬。
 - [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [motor](https://github.com/mongodb/motor) - Motor - the async Python driver for MongoDB and Tornado or asyncio
 - [scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
@@ -616,7 +610,6 @@
 - [FRIDA-DEXDump](https://github.com/hluwa/FRIDA-DEXDump) - Fast search and dump dex on memory.
 - [ProperTree](https://github.com/corpnewt/ProperTree) - Cross platform GUI plist editor written in python.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
-- [blogroll](https://github.com/tuna/blogroll) - 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
@@ -647,7 +640,7 @@
 - [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [chardet](https://github.com/chardet/chardet) - Python character encoding detector
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io
+- [cowrie](https://github.com/cowrie/cowrie) - Cowrie SSH/Telnet Honeypot https://cowrie.readthedocs.io
 - [lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
 - [pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
 - [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -667,9 +660,7 @@
 - [uwsgi-nginx-docker](https://github.com/tiangolo/uwsgi-nginx-docker) - Docker image with uWSGI and Nginx for applications in Python 3.5 and above and Python 2.7 (as Flask) in a single container. Optionally with Alpine Linux.
 - [gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [flask-mako](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask.
-- [web_develop](https://github.com/dongweiming/web_develop) - 《Python Web开发实战》书中源码
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
-- [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
@@ -701,20 +692,14 @@
 - [plum](https://github.com/rime/plum) - 東風破 /plum/: Rime configuration manager and input schema repository
 - [Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-- [lnmp](https://github.com/licess/lnmp) - LNMP一键安装包是一个用Linux Shell编写的可以为CentOS/RHEL/Fedora/Aliyun/Amazon、Debian/Ubuntu/Raspbian/Deepin/Mint Linux VPS或独立主机安装LNMP(Nginx/MySQL/PHP)、LNMPA(Nginx/MySQL/PHP/Apache)、LAMP(Apache/MySQL/PHP)生产环境的Shell程序。
 - [docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [one-key-kms](https://github.com/dakkidaze/one-key-kms) - 在Linux上一键搭建KMS服务器
 - [across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
-- [libev](https://github.com/enki/libev) - Full-featured high-performance event loop loosely modelled after libevent
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [docker-aosp](https://github.com/kylemanna/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-
-## Smarty 
-
-- [SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版
 
 ## Swift 
 
