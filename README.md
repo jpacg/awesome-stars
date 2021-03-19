@@ -47,6 +47,7 @@
 
 ## C 
 
+- [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of https://gitlab.com/Remmina/Remmina The GTK+ Remmina Remote Desktop Client
 - [Nougat_dlfunctions](https://github.com/avs333/Nougat_dlfunctions) - 
 - [quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
@@ -135,6 +136,8 @@
 
 ## C++ 
 
+- [indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++
+- [mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
 - [fake-linker](https://github.com/sanfengAndroid/fake-linker) - Modify Android linker to provide loading module and hook function
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
@@ -178,10 +181,11 @@
 - [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [breakpad](https://github.com/google/breakpad) - Mirror of Google Breakpad project
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-- [sqlyog-community](https://github.com/webyog/sqlyog-community) - 
+- [sqlyog-community](https://github.com/webyog/sqlyog-community) - Webyog provides monitoring and management tools for open source relational databases. We develop easy-to-use MySQL client tools for performance tuning and database management. Webyog's solutions include SQL Diagnostic Manager for MySQL performance optimization and SQLyog for MySQL administration. More than 35,000 companies (including Amazon, IBM, Salesforce, AT&T, eBay, and GE) and 2.5 million users rely on Webyog's solutions to provide valuable insights into their databases. Webyog is an Idera, Inc. company.
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
 - [duilib](https://github.com/duilib/duilib) - 
@@ -193,7 +197,6 @@
 
 ## CSS 
 
-- [Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一只可爱的hexo主题 m(=•ェ•=)m~🍭
 - [hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
@@ -220,6 +223,7 @@
 
 ## Go 
 
+- [bark-server](https://github.com/Finb/bark-server) - Backend of Bark
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -257,11 +261,11 @@
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
-- [gormt](https://github.com/xxjwxc/gormt) - mysql database to golang struct
+- [gormt](https://github.com/xxjwxc/gormt) - database to golang struct
 - [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [Github_Hunter_By_Golang](https://github.com/Hell0W0rld0/Github_Hunter_By_Golang) - Github Hunter rewritten by Golang and add new features
 - [requests](https://github.com/xuanbo/requests) - http requests lib for golang
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [whoami](https://github.com/traefik/whoami) - Tiny Go webserver that prints os information and HTTP request to output
@@ -299,6 +303,7 @@
 
 ## Java 
 
+- [echo](https://github.com/virjar/echo) - 分布式代理ip共享系统
 - [FakeXposed](https://github.com/sanfengAndroid/FakeXposed) - Hide xposed, root, file redirection, etc.
 - [protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator
 - [Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - API for Shizuku and Sui.
@@ -399,6 +404,8 @@
 
 ## JavaScript 
 
+- [echo-fe](https://github.com/virjar/echo-fe) - echo系统前端代码 https://github.com/virjar/echo
+- [echo-android](https://github.com/virjar/echo-android) - echo系统Android客户端
 - [cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是使用Golang和React开发的一款HTML5的远程桌面网关，具有小巧、易安装、易使用、资源占用小的特点，支持RDP、SSH、VNC和Telnet协议的连接和管理。
 - [r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
@@ -479,7 +486,7 @@
 
 ## Kotlin 
 
-- [mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人框架 / High-performance bot framework for Tencent QQ
+- [mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人框架 / High-performance bot framework for QQ
 - [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 - [Scarlet](https://github.com/Tinder/Scarlet) - A Retrofit inspired WebSocket client for Kotlin, Java, and Android
 - [WADB](https://github.com/RikkaApps/WADB) - A simple switch for adb (Android Debug Bridge) over network.
@@ -494,7 +501,6 @@
 - [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 - [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava bindings for Kotlin
 - [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
-- [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
 
 ## Lua 
@@ -574,10 +580,12 @@
 
 ## Python 
 
+- [protobuf-inspector](https://github.com/mildsunrise/protobuf-inspector) - 🕵️ Tool to reverse-engineer Protocol Buffers with unknown definition
+- [dreamerv2](https://github.com/danijar/dreamerv2) - Mastering Atari with Discrete World Models
 - [Wallbreaker](https://github.com/hluwa/Wallbreaker) - help you understand java memory world.
 - [python-adb](https://github.com/google/python-adb) - Python ADB + Fastboot implementation
 - [pyusb](https://github.com/pyusb/pyusb) - USB access for Python
-- [kinto](https://github.com/rbreaves/kinto) - Linux & Windows with Mac-style shortcut keys.
+- [kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
 - [qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
 - [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
 - [Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
@@ -679,6 +687,7 @@
 
 ## SCSS 
 
+- [Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一只可爱的hexo主题 m(=•ェ•=)m~🍭
 - [aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
 
 ## Shell 
@@ -708,6 +717,7 @@
 
 ## TypeScript 
 
+- [mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [jnitrace-engine](https://github.com/chame1eon/jnitrace-engine) - Engine used by jnitrace to intercept JNI API calls.
 - [jnitrace](https://github.com/chame1eon/jnitrace) - A Frida based tool that traces usage of the JNI API in Android apps.
 - [telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
@@ -729,7 +739,7 @@
 
 ## Vue 
 
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 170k+ developers. https://hoppscotch.io
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
 
