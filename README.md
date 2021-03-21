@@ -189,7 +189,6 @@
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [tinyxml2](https://github.com/leethomason/tinyxml2) - TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.
 - [duilib](https://github.com/duilib/duilib) - 
-- [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 
 ## CMake 
 
@@ -303,6 +302,9 @@
 
 ## Java 
 
+- [xposed_module_loader](https://github.com/WindySha/xposed_module_loader) - This is a library that can load all the installed xposed modules in the android system.
+- [CorePatch](https://github.com/coderstory/CorePatch) - Disable signature verification For Android
+- [LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Xposed Framework.
 - [echo](https://github.com/virjar/echo) - 分布式代理ip共享系统
 - [FakeXposed](https://github.com/sanfengAndroid/FakeXposed) - Hide xposed, root, file redirection, etc.
 - [protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator
