@@ -43,7 +43,6 @@
 ## ASP 
 
 - [Koolshare-Clash](https://github.com/SukkaW/Koolshare-Clash) - :cat: Run Clash Tunnel on Koolshare OpenWrt
-- [ledesoft](https://github.com/bbsec3/ledesoft) - 
 
 ## C 
 
@@ -57,7 +56,6 @@
 - [DES](https://github.com/dhuertas/DES) - DES algorithm implementation in C
 - [AES](https://github.com/dhuertas/AES) - AES algorithm implementation in C
 - [IntelMausi](https://github.com/acidanthera/IntelMausi) - Intel Ethernet LAN driver for macOS
-- [multidict](https://github.com/aio-libs/multidict) - The multidict implementation
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [byOpen](https://github.com/hack0z/byOpen) - 🎉A dlopen library that bypasses mobile system limitation
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -181,7 +179,6 @@
 - [breakpad](https://github.com/google/breakpad) - Mirror of Google Breakpad project
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-- [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [sqlyog-community](https://github.com/webyog/sqlyog-community) - Webyog provides monitoring and management tools for open source relational databases. We develop easy-to-use MySQL client tools for performance tuning and database management. Webyog's solutions include SQL Diagnostic Manager for MySQL performance optimization and SQLyog for MySQL administration. More than 35,000 companies (including Amazon, IBM, Salesforce, AT&T, eBay, and GE) and 2.5 million users rely on Webyog's solutions to provide valuable insights into their databases. Webyog is an Idera, Inc. company.
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
@@ -260,7 +257,6 @@
 - [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [gormt](https://github.com/xxjwxc/gormt) - database to golang struct
 - [redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
-- [Github_Hunter_By_Golang](https://github.com/Hell0W0rld0/Github_Hunter_By_Golang) - Github Hunter rewritten by Golang and add new features
 - [requests](https://github.com/xuanbo/requests) - http requests lib for golang
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -279,7 +275,6 @@
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [lightsocks](https://github.com/gwuhaolin/lightsocks) - ⚡️一个轻巧的网络混淆代理🌏
 - [go-sniffer](https://github.com/40t/go-sniffer) - 🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
-- [shadowtunnel](https://github.com/snail007/shadowtunnel) - secure tunnel which help you protecting your tcp traffic between your machine and your service on remote.
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
@@ -292,10 +287,8 @@
 
 ## HTML 
 
-- [FakeLocation](https://github.com/Lerist/FakeLocation) - Fake Location
 - [luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [python_scripts](https://github.com/lzjun567/python_scripts) - 一些python相关的演示代码
 - [arm-gcc-inline-assembler](https://github.com/tidyjiang8/arm-gcc-inline-assembler) - ARM GCC 内联汇编参考手册 - 中文版
 
 ## Java 
@@ -396,11 +389,9 @@
 - [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS
 - [EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
-- [BusyBox](https://github.com/jrummyapps/BusyBox) - Install BusyBox on an Android device.
 - [busybox](https://github.com/meefik/busybox) - BusyBox for Android
 - [libsuperuser](https://github.com/Chainfire/libsuperuser) - Example code for "How-To SU"
 - [tinker](https://github.com/Tencent/tinker) - Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
-- [XposedInstaller](https://github.com/rovo89/XposedInstaller) - 
 
 ## JavaScript 
 
