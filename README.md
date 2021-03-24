@@ -144,7 +144,6 @@
 - [LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
 - [jni_helper](https://github.com/evilpan/jni_helper) - Find JNI function signatures in APK and apply to reverse tools.
 - [snell-server-reversed](https://github.com/icpz/snell-server-reversed) - Reverse engineering of surge snell
-- [CcRemote](https://github.com/Cc28256/CcRemote) - 这是一个基于gh0st远程控制的项目，使自己更深入了解远控的原理，采用VS2017，默认分支hijack还在修改不能执行，master分支的项目可以正常的运行的，你可以切换到该分支查看可以执行的代码
 - [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Drivers for macOS
 - [anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
@@ -183,7 +182,6 @@
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [android_art](https://github.com/rovo89/android_art) - Android ART with modifications for the Xposed framework.
-- [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).
 - [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [sqlyog-community](https://github.com/webyog/sqlyog-community) - Webyog provides monitoring and management tools for open source relational databases. We develop easy-to-use MySQL client tools for performance tuning and database management. Webyog's solutions include SQL Diagnostic Manager for MySQL performance optimization and SQLyog for MySQL administration. More than 35,000 companies (including Amazon, IBM, Salesforce, AT&T, eBay, and GE) and 2.5 million users rely on Webyog's solutions to provide valuable insights into their databases. Webyog is an Idera, Inc. company.
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
