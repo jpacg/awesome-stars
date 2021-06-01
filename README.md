@@ -302,10 +302,14 @@
 
 ## Java 
 
+- [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - 
+- [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch fork from Xpatch
+- [lianglixin/SlimXposedCompat](https://github.com/lianglixin/SlimXposedCompat) - XposedCompat for SlimHook
+- [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.
 - [2-young-2-simple/VirtualApp](https://github.com/2-young-2-simple/VirtualApp) - VirtualApp With Compatibility Of Android 10/11/12
 - [WindySha/xposed_module_loader](https://github.com/WindySha/xposed_module_loader) - This is a library that can load all the installed xposed modules in the android system.
 - [coderstory/CorePatch](https://github.com/coderstory/CorePatch) - Disable signature verification For Android
-- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Xposed Framework.
+- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework.
 - [virjar/echo](https://github.com/virjar/echo) - 分布式代理ip共享系统
 - [sanfengAndroid/FakeXposed](https://github.com/sanfengAndroid/FakeXposed) - Hide xposed, root, file redirection, etc.
 - [protostuff/protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator
@@ -323,7 +327,6 @@
 - [orhanobut/logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
 - [elvishew/xLog](https://github.com/elvishew/xLog) - Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [1998lixin/Hardwarecode](https://github.com/1998lixin/Hardwarecode) - 基于xposed 修改硬件信息
 - [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [virjar/sekiro](https://github.com/virjar/sekiro) - 基于长链接和代码注入的Android private API暴露框架
@@ -405,13 +408,14 @@
 
 ## JavaScript 
 
+- [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [lasting-yang/frida_bypass_ssl_example](https://github.com/lasting-yang/frida_bypass_ssl_example) - frida 辅助抓包的一些技巧
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [virjar/echo-fe](https://github.com/virjar/echo-fe) - echo系统前端代码 https://github.com/virjar/echo
 - [virjar/echo-android](https://github.com/virjar/echo-android) - echo系统Android客户端
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
-- [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是使用Golang和React开发的一款HTML5的远程桌面网关，具有小巧、易安装、易使用、资源占用小的特点，支持RDP、SSH、VNC和Telnet协议的连接和管理。
+- [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是面向中小企业设计的轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 - [r0ysue/r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
 - [cashapp/duktape-android](https://github.com/cashapp/duktape-android) - The Duktape embeddable Javascript engine packaged for Android.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
@@ -677,7 +681,7 @@
 
 ## Rust 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop client software
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
