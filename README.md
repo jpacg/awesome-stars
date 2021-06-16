@@ -71,7 +71,6 @@
 - [sandboxie/sandboxie](https://github.com/sandboxie/sandboxie) - The Sandboxie application
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror)
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
-- [horhof/quickjs](https://github.com/horhof/quickjs) - The official repo is at bellard/quickjs.
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
 - [mohuihui/antispy](https://github.com/mohuihui/antispy) - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its assistance,you can easily spot and neutralize malwares hidden from normal detectors.
 - [gpac/gpac](https://github.com/gpac/gpac) - Modular Multimedia framework for packaging, streaming and playing your favorite content.
@@ -138,6 +137,7 @@
 
 ## C++ 
 
+- [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
 - [smallsun107/xhsShield](https://github.com/smallsun107/xhsShield) - 
 - [tiann/FreeReflection](https://github.com/tiann/FreeReflection) - A library that lets you use reflection without any restriction above Android P
 - [p-ranav/indicators](https://github.com/p-ranav/indicators) - Activity Indicators for Modern C++
@@ -307,7 +307,6 @@
 - [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - 
 - [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch fork from Xpatch
 - [lianglixin/SlimXposedCompat](https://github.com/lianglixin/SlimXposedCompat) - XposedCompat for SlimHook
-- [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.
 - [2-young-2-simple/VirtualApp](https://github.com/2-young-2-simple/VirtualApp) - VirtualApp With Compatibility Of Android 10/11/12
 - [WindySha/xposed_module_loader](https://github.com/WindySha/xposed_module_loader) - This is a library that can load all the installed xposed modules in the android system.
 - [coderstory/CorePatch](https://github.com/coderstory/CorePatch) - Disable signature verification For Android
@@ -348,7 +347,7 @@
 - [DVDAndroid/XposedInstaller](https://github.com/DVDAndroid/XposedInstaller) - Materialised Xposed Installer
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [PAGalaxyLab/YAHFA](https://github.com/PAGalaxyLab/YAHFA) - Yet Another Hook Framework for ART
-- [ganyao114/SandHook](https://github.com/ganyao114/SandHook) - Android ART Hook/Native Inline Hook/Single Instruction Hook - support 4.4 - 11.0 32/64 bit - Xposed API Compat
+- [asLody/SandHook](https://github.com/asLody/SandHook) - Android ART Hook/Native Inline Hook/Single Instruction Hook - support 4.4 - 11.0 32/64 bit - Xposed API Compat
 - [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
 - [liuqi0725/OpenCV3-Study-JAVA](https://github.com/liuqi0725/OpenCV3-Study-JAVA) - OpenCV3 JAVA 学习示例、应用案例实现、以及 OCR 识别相关内容
 - [huolizhuminh/NetWorkPacketCapture](https://github.com/huolizhuminh/NetWorkPacketCapture) - It is used to capture network packet via Android VPN.
@@ -409,6 +408,7 @@
 
 ## JavaScript 
 
+- [sablejs/sablejs](https://github.com/sablejs/sablejs) - 🏖️ The safer and faster ECMA5.1 interpreter written by JavaScript
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [lasting-yang/frida_bypass_ssl_example](https://github.com/lasting-yang/frida_bypass_ssl_example) - frida 辅助抓包的一些技巧
@@ -418,7 +418,7 @@
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是面向中小企业设计的轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 - [r0ysue/r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
-- [cashapp/duktape-android](https://github.com/cashapp/duktape-android) - The Duktape embeddable Javascript engine packaged for Android.
+- [cashapp/quickjs-java](https://github.com/cashapp/quickjs-java) - The QuickJS embeddable Javascript engine packaged for Android.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 - [botgram/botgram](https://github.com/botgram/botgram) - ⚙️ Microframework to build Telegram bots
@@ -718,7 +718,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [kylemanna/docker-aosp](https://github.com/kylemanna/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Swift 
 
@@ -727,6 +727,7 @@
 
 ## TypeScript 
 
+- [AeonLucid/frida-syscall-interceptor](https://github.com/AeonLucid/frida-syscall-interceptor) - 
 - [Siubaak/sval](https://github.com/Siubaak/sval) - A javascript interpreter written in javascript
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
