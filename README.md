@@ -314,6 +314,9 @@
 
 ## Java 
 
+- [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
+- [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) - xposed安卓虚拟摄像头 android virtual camera on xposed hook
+- [mojohaus/appassembler](https://github.com/mojohaus/appassembler) - 
 - [leibnitz27/cfr](https://github.com/leibnitz27/cfr) - This is the public repository for the CFR Java decompiler
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
