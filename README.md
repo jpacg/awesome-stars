@@ -49,6 +49,7 @@
 
 ## C 
 
+- [RikkaW/xhook-prefab](https://github.com/RikkaW/xhook-prefab) - Prefab version of iqiyi/xHook.
 - [matt-wu/AES](https://github.com/matt-wu/AES) - Understanding AES & Rijndael
 - [vvb2060/riru-unshare](https://github.com/vvb2060/riru-unshare) - 
 - [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.
@@ -145,6 +146,7 @@
 
 ## C++ 
 
+- [AppleBluetooth/IntelBluetoothFamily](https://github.com/AppleBluetooth/IntelBluetoothFamily) - Kexts enabling native support for Intel Bluetooth chipsets in macOS.
 - [canyie/Riru-MomoHider](https://github.com/canyie/Riru-MomoHider) - A Riru module tries to make Magisk more hidden.
 - [avast/retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
@@ -315,6 +317,8 @@
 
 ## Java 
 
+- [liumian97/quantum-tunnel](https://github.com/liumian97/quantum-tunnel) - QuantumTunnel，量子隧道，是一款简单、强大、可扩展性高的内网穿透工具
+- [Palatis/XAppDebug](https://github.com/Palatis/XAppDebug) - toggle app debuggable
 - [Lstaynight/xposed-dy](https://github.com/Lstaynight/xposed-dy) - 基于Xposed的抖音爬虫，抖音风控后自动一键新机，模拟一个全新的运行环境
 - [anjia0532/unidbg-boot-server](https://github.com/anjia0532/unidbg-boot-server) - unidbg-server
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
@@ -344,7 +348,7 @@
 - [virjar/echo](https://github.com/virjar/echo) - 分布式代理ip共享系统
 - [sanfengAndroid/FakeXposed](https://github.com/sanfengAndroid/FakeXposed) - Hide xposed, root, file redirection, etc.
 - [protostuff/protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator
-- [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - API for Shizuku and Sui.
+- [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
 - [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 - [mrniko/netty-socketio](https://github.com/mrniko/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
 - [android/location-samples](https://github.com/android/location-samples) - Multiple samples showing the best practices in location APIs on Android.
@@ -515,7 +519,6 @@
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [rovo89/XposedBridge](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.
 
 ## Jupyter Notebook 
 
@@ -523,6 +526,9 @@
 
 ## Kotlin 
 
+- [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ?
+- [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+- [princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat) - 🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）
 - [google/prefab](https://github.com/google/prefab) - Prefab is a tool for generating build system integrations for prebuilt C/C++ libraries.
 - [KyuubiRan/EzXHelper](https://github.com/KyuubiRan/EzXHelper) - 一个使Xposed模块开发变的更轻松的kotlin库
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
@@ -598,7 +604,7 @@
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [postern-overwal/postern-stuff](https://github.com/postern-overwal/postern-stuff) - Postern binaries & documents & configurations
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-- [greyli/helloflask](https://github.com/greyli/helloflask) - Flask Web 开发实战
+- [greyli/helloflask](https://github.com/greyli/helloflask) - Hello, Flask!
 - [omnirom/android](https://github.com/omnirom/android) - 
 - [saccohuo/chinese-mispronunciation-programmer](https://github.com/saccohuo/chinese-mispronunciation-programmer) - 中国程序员容易发音错误的英文单词（含英美音标和韦氏音标）
 - [HikariObfuscator/Hikari](https://github.com/HikariObfuscator/Hikari) - LLVM Obfuscator
