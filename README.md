@@ -127,7 +127,7 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86)
 - [crmulliner/adbi](https://github.com/crmulliner/adbi) - Android Dynamic Binary Instrumentation Toolkit
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 - [vmt/udis86](https://github.com/vmt/udis86) - Disassembler Library for x86 and x86-64
 - [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
@@ -327,7 +327,7 @@
 - [leibnitz27/cfr](https://github.com/leibnitz27/cfr) - This is the public repository for the CFR Java decompiler
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
-- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [virjarRatel/ratel-core](https://github.com/virjarRatel/ratel-core) - 平头哥的核心代码
 - [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos./ :00
 - [RikkaApps/HiddenApiRefinePlugin](https://github.com/RikkaApps/HiddenApiRefinePlugin) - A Gradle plugin that improves the experience when developing Android apps, especially system tools, that use hidden APIs.
@@ -339,7 +339,7 @@
 - [ac-pm/Inspeckage](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
 - [ferredoxin/QNotified](https://github.com/ferredoxin/QNotified) - 一个旨在使QQ变得更好用的开源Xposed模块
 - [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - Bypass restrictions on non-SDK interfaces
-- [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch fork from Xpatch
+- [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework fork from Xpatch
 - [lianglixin/SlimXposedCompat](https://github.com/lianglixin/SlimXposedCompat) - XposedCompat for SlimHook
 - [2-young-2-simple/VirtualApp](https://github.com/2-young-2-simple/VirtualApp) - VirtualApp With Compatibility Of Android 10/11/12
 - [WindySha/xposed_module_loader](https://github.com/WindySha/xposed_module_loader) - This is a library that can load all the installed xposed modules in the android system.
@@ -368,7 +368,7 @@
 - [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
 - [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [1998lixin/WeChat-database](https://github.com/1998lixin/WeChat-database) - 破解微信数据库 获取想要的数据
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - A sandbox tower defense game
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense game
 - [w296488320/XposedAppium](https://github.com/w296488320/XposedAppium) - 基于Xposed自动化框架
 - [Hlittled/studio_3t_trial](https://github.com/Hlittled/studio_3t_trial) - javaagent + javassist
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
@@ -440,6 +440,7 @@
 
 ## JavaScript 
 
+- [wensonsmith/YoudaoTranslator](https://github.com/wensonsmith/YoudaoTranslator) - Alfred Youdao Translate Workflow
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯  Teach puppeteer new tricks through plugins.
@@ -526,6 +527,7 @@
 
 ## Kotlin 
 
+- [google/accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
 - [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ?
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 - [princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat) - 🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）
