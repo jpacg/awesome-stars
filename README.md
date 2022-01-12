@@ -15,6 +15,7 @@
   - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
+  - [EJS](#ejs)
   - [FreeMarker](#freemarker)
   - [Go](#go)
   - [HTML](#html)
@@ -229,6 +230,10 @@
 - [luodaoyi/kms-server](https://github.com/luodaoyi/kms-server) - a docker image for kms
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 
+## EJS 
+
+- [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
+
 ## FreeMarker 
 
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
@@ -318,11 +323,11 @@
 
 ## Java 
 
+- [CodingGay/BlackObfuscator](https://github.com/CodingGay/BlackObfuscator) - Black Obfuscator is an obfuscator for Android APK DexFile, it can help developer to protect source code by control flow flattening, and make it difficult to analyze the actual program control flow.
 - [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 是 难得一见 的 Jetpack MVVM 最佳实践！在 以简驭繁 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
 - [azhon/AppUpdate](https://github.com/azhon/AppUpdate) - Android App update library.  Android版本更新库，简单、可随意定制
 - [kwai-ec/HybridDemo](https://github.com/kwai-ec/HybridDemo) - 动态化引擎Demo
 - [Tencent/Shadow](https://github.com/Tencent/Shadow) - 零反射全动态Android插件框架
-- [CodingGay/BlackObfuscator](https://github.com/CodingGay/BlackObfuscator) - Black Obfuscator is an obfuscator for Android APK DexFile, it can help developer to protect source code by control flow flattening, and make it difficult to analyze the actual program control flow.
 - [liumian97/quantum-tunnel](https://github.com/liumian97/quantum-tunnel) - QuantumTunnel，量子隧道，是一款简单、强大、可扩展性高的内网穿透工具
 - [Palatis/XAppDebug](https://github.com/Palatis/XAppDebug) - toggle app debuggable
 - [anjia0532/unidbg-boot-server](https://github.com/anjia0532/unidbg-boot-server) - unidbg-server
@@ -445,6 +450,7 @@
 
 ## JavaScript 
 
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [wensonsmith/YoudaoTranslator](https://github.com/wensonsmith/YoudaoTranslator) - Alfred Youdao Translate Workflow
 - [patriksimek/vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
@@ -647,6 +653,7 @@
 
 ## Python 
 
+- [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [salesforce/ja3](https://github.com/salesforce/ja3) - JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.
 - [yanyongyu/JceStruct](https://github.com/yanyongyu/JceStruct) - JCE Encode/Decode using pydantic
@@ -747,9 +754,11 @@
 
 ## Rust 
 
+- [koute/pinky](https://github.com/koute/pinky) - An NES emulator written in Rust
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf) - 基于 Rust + eBPF 丢弃 GFW DNS 污染包
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [wolandr/pretty-hex](https://github.com/wolandr/pretty-hex) - A Rust library providing pretty hex dump.
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
