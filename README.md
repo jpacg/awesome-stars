@@ -50,12 +50,15 @@
 
 ## C 
 
-- [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - 🔥 An inline hook library for Android apps.
-- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。🚧   快应用开发中
+- [Bonfee/CVE-2022-25636](https://github.com/Bonfee/CVE-2022-25636) - CVE-2022-25636
+- [Lojii/Knot](https://github.com/Lojii/Knot) - 一款iOS端基于MITM(中间人攻击技术)实现的HTTPS抓包工具，完整的App，核心代码使用SwiftNIO实现
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+- [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) - :pushpin: ShadowHook is an android inline hook library that supports thumb, arm32 and arm64.
+- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 - [RikkaW/xhook-prefab](https://github.com/RikkaW/xhook-prefab) - Prefab version of iqiyi/xHook.
 - [matt-wu/AES](https://github.com/matt-wu/AES) - Understanding AES & Rijndael
 - [vvb2060/riru-unshare](https://github.com/vvb2060/riru-unshare) - 
-- [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.
+- [bytedance/bhook](https://github.com/bytedance/bhook) - :pushpin: ByteHook is an android PLT hook library that supports armeabi-v7a, arm64-v8a, x86 and x86_64.
 - [Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
 - [BruceWind/AESJniEncrypt](https://github.com/BruceWind/AESJniEncrypt) - Make safest code in Android. (基于libsodium实现chacha20算法,key在native中,防止被二次打包){长期维护,请star,勿fork}
 - [maiyao1988/elf-dump-fix](https://github.com/maiyao1988/elf-dump-fix) - Utils use to dump android ELF from memory and do some fix including the ELF section header rebuilding
@@ -143,11 +146,13 @@
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [dnSpy/dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper) - Unity il2cpp reverse engineer
-- [nkc3g4/wtg-assistant](https://github.com/nkc3g4/wtg-assistant) - 
+- [nkc3g4/wtg-assistant](https://github.com/nkc3g4/wtg-assistant) - Deploy Windows To Go on USB devices.
 - [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 
 ## C++ 
 
+- [w296488320/getMacForNetlink](https://github.com/w296488320/getMacForNetlink) - 
+- [LSPosed/DexBuilder](https://github.com/LSPosed/DexBuilder) - Generate dex file by c++
 - [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant) - A hook framework for Android Runtime (ART)
 - [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
 - [adamyaxley/Obfuscate](https://github.com/adamyaxley/Obfuscate) - Guaranteed compile-time string literal obfuscation header-only library for C++14
@@ -244,6 +249,7 @@
 
 ## Go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
 - [qiniu/qmgo](https://github.com/qiniu/qmgo) - Qmgo - The Go driver for MongoDB. It‘s based on official mongo-go-driver but easier to use like Mgo.
 - [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
@@ -286,7 +292,6 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [wspl/go-quickjs](https://github.com/wspl/go-quickjs) - QuickJS bindings for Go
 - [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [go-kiss/sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
@@ -346,7 +351,7 @@
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [virjarRatel/ratel-core](https://github.com/virjarRatel/ratel-core) - 平头哥的核心代码
-- [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos./ :00
+- [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 - [RikkaApps/HiddenApiRefinePlugin](https://github.com/RikkaApps/HiddenApiRefinePlugin) - A Gradle plugin that improves the experience when developing Android apps, especially system tools, that use hidden APIs.
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [topjohnwu/libsu](https://github.com/topjohnwu/libsu) - A complete solution for apps using root permissions
@@ -355,11 +360,11 @@
 - [canyie/Dreamland](https://github.com/canyie/Dreamland) - A third-party Xposed framework implementation, supports Android 7~11.
 - [ac-pm/Inspeckage](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
 - [ferredoxin/QNotified](https://github.com/ferredoxin/QNotified) - 一个旨在使QQ变得更好用的开源Xposed模块
-- [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - Bypass restrictions on non-SDK interfaces
+- [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) - LSPass: Bypass restrictions on non-SDK interfaces
 - [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework fork from Xpatch
 - [lianglixin/SlimXposedCompat](https://github.com/lianglixin/SlimXposedCompat) - XposedCompat for SlimHook
 - [2-young-2-simple/VirtualApp](https://github.com/2-young-2-simple/VirtualApp) - VirtualApp With Compatibility Of Android 10/11/12
-- [WindySha/xposed_module_loader](https://github.com/WindySha/xposed_module_loader) - This is a library that can load all the installed xposed modules in the android system.
+- [WindySha/xposed_module_loader](https://github.com/WindySha/xposed_module_loader) - This is a library that can load  installed xposed modules and load xposed modules by file path. And native libraries in the xposed module can also be loaded.
 - [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [virjar/echo](https://github.com/virjar/echo) - 分布式代理ip共享系统
@@ -376,7 +381,6 @@
 - [Tamicer/FastDownloader](https://github.com/Tamicer/FastDownloader) - 基于Okhttp, 结合Retrofit，使用Okio ，简化处理I/O操作，加入多种设计模式，实现基于链式的android平台多线程下载利器！
 - [orhanobut/logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
 - [elvishew/xLog](https://github.com/elvishew/xLog) - Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here.
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [virjar/sekiro](https://github.com/virjar/sekiro) - 基于长链接和代码注入的Android private API暴露框架
 - [WindySha/Xpatch](https://github.com/WindySha/Xpatch) - 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
@@ -407,7 +411,7 @@
 - [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods.
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental  iOS emulation
-- [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2021，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+- [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [P4nda0s/CryptoFucker](https://github.com/P4nda0s/CryptoFucker) - A xposed plugin for intercepting crypto parameters from apk files.
 - [iqiyi/Neptune](https://github.com/iqiyi/Neptune) - A flexible, powerful and lightweight plugin framework for Android
@@ -456,6 +460,7 @@
 
 ## JavaScript 
 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [ecomfe/fonteditor](https://github.com/ecomfe/fonteditor) - 在线字体编辑器
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
@@ -473,7 +478,6 @@
 - [virjar/echo-android](https://github.com/virjar/echo-android) - echo系统Android客户端
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个轻量级堡垒机系统，易安装，易使用，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
-- [r0ysue/r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
 - [mozilla/rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
 - [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
@@ -548,6 +552,10 @@
 
 ## Kotlin 
 
+- [niuxiaowei/ReplaceMethod](https://github.com/niuxiaowei/ReplaceMethod) - android app中对方法进行替换工具
+- [niuxiaowei/LayoutInspector](https://github.com/niuxiaowei/LayoutInspector) - 
+- [fengzhizi715/AndroidServer](https://github.com/fengzhizi715/AndroidServer) - 基于 Kotlin + Netty 开发，为 Android App 提供 Server 的功能，包括 Http、TCP、WebSocket 服务
+- [gradle-nexus/publish-plugin](https://github.com/gradle-nexus/publish-plugin) - Gradle plugin for publishing to Nexus repositories
 - [liyihuanx/NewWebView](https://github.com/liyihuanx/NewWebView) - 新的webView
 - [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [ParadiseHell/convex](https://github.com/ParadiseHell/convex) - An elegant tool based on Retrofit to help developers just focus on business data.
@@ -605,8 +613,8 @@
 
 ## Others 
 
+- [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机 iOS 周报
 - [FuckDoctors/rdm-builder](https://github.com/FuckDoctors/rdm-builder) - Redis Desktop Manager Builder
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。
 - [waydabber/BetterDummy](https://github.com/waydabber/BetterDummy) - Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions.
 - [mooseIre/update_miui_ota](https://github.com/mooseIre/update_miui_ota) - 
 - [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
@@ -667,6 +675,7 @@
 
 ## Python 
 
+- [SeanLee97/xmnlp](https://github.com/SeanLee97/xmnlp) - xmnlp：提供中文分词, 词性标注, 命名体识别，情感分析，文本纠错，文本转拼音，文本摘要，偏旁部首，句子表征及文本相似度计算等功能
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [salesforce/ja3](https://github.com/salesforce/ja3) - JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.
@@ -677,6 +686,7 @@
 - [hluwa/Wallbreaker](https://github.com/hluwa/Wallbreaker) - 🔨 Break Java Reverse Engineering form Memory World!
 - [google/python-adb](https://github.com/google/python-adb) - Python ADB + Fastboot implementation
 - [pyusb/pyusb](https://github.com/pyusb/pyusb) - USB access for Python
+- [r0ysue/r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
 - [qilingframework/qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework
 - [tiangolo/uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
@@ -789,6 +799,7 @@
 
 ## Shell 
 
+- [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
 - [kiddin9/OpenWrt_x86-r2s-r4s](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s) - Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B
 - [SukkaW/zsh-osx-autoproxy](https://github.com/SukkaW/zsh-osx-autoproxy) - An oh-my-zsh plugin that configures proxy environment variables based on macOS's system preferences automatically
@@ -814,6 +825,30 @@
 
 ## Swift 
 
+- [ReSwift/ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow in Swift - Inspired by Redux
+- [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+- [elai950/AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI
+- [wxxsw/Refresh](https://github.com/wxxsw/Refresh) - 🎈 Great SwiftUI drop-down refresh and scroll up to load more. 下拉刷新、上拉加载
+- [Moya/Moya](https://github.com/Moya/Moya) - Network abstraction layer written in Swift.
+- [bartoszj/acextract](https://github.com/bartoszj/acextract) - A tool to list and extract content from Assets.car file.
+- [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+- [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) - redis-pro redis 桌面管理工具
+- [sparrowcode/SwiftUI](https://github.com/sparrowcode/SwiftUI) - Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.
+- [KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp) - 戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用
+- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
+- [Andy0570/RoadToSwift](https://github.com/Andy0570/RoadToSwift) - 我的 Swift 自学之旅 🤪
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+- [wxxsw/SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat) - 🇨🇳 Learn how to make WeChat with SwiftUI. 微信 7.0 🟢
+- [swiftui-from-zero/SwiftUIViews](https://github.com/swiftui-from-zero/SwiftUIViews) - SwiftUI 所有基本视图用例和讲解
+- [krzyzanowskim/Natalie](https://github.com/krzyzanowskim/Natalie) - Natalie - Storyboard Code Generator (for Swift)
+- [Lebron1992/WeChat-SwiftUI](https://github.com/Lebron1992/WeChat-SwiftUI) - 用 SwiftUI 仿写的微信。
+- [Kitura/Kitura](https://github.com/Kitura/Kitura) - A Swift web framework and HTTP server.
+- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
+- [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
+- [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
+- [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
+- [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
+- [vinivendra/Gryphon](https://github.com/vinivendra/Gryphon) - The Swift to Kotlin translator.
 - [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
 - [tatsuz0u/EhPanda](https://github.com/tatsuz0u/EhPanda) - An unofficial E-Hentai App for iOS built with SwiftUI & TCA.
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
