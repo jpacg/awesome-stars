@@ -22,7 +22,6 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
-  - [Less](#less)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
@@ -174,7 +173,6 @@
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
-- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [esrrhs/hookso](https://github.com/esrrhs/hookso) - linux动态链接库的注入修改查找工具 A tool for injection, modification and search of linux dynamic link library
 - [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
 - [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC) - SMC emulator layer
@@ -334,6 +332,7 @@
 
 ## Java 
 
+- [LookCos/hermit](https://github.com/LookCos/hermit) - Don't need ADB. It runs on Android and the software itself provides a restful API, you just need to send an HTTP request and it translates the call to the API into an operation on the phone.
 - [Kong/unirest-java](https://github.com/Kong/unirest-java) - Unirest in Java: Simplified, lightweight HTTP client library.
 - [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
 - [auth0/java-jwt](https://github.com/auth0/java-jwt) - Java implementation of JSON Web Token (JWT)
@@ -344,7 +343,7 @@
 - [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) - GDA is a new fast and powerful decompiler in C++(working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&java scripts, device memory extraction, data decryption, and encryption, etc.
 - [lakinduboteju/AndroidNdkBinderExamples](https://github.com/lakinduboteju/AndroidNdkBinderExamples) - Android NDK (C++) Binder examples : Explains how to implement Android services and clients in C++
 - [CodingGay/BlackObfuscator](https://github.com/CodingGay/BlackObfuscator) - Black Obfuscator is an obfuscator for Android APK DexFile, it can help developer to protect source code by control flow flattening, and make it difficult to analyze the actual program control flow.
-- [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 是 难得一见 的 Jetpack MVVM 最佳实践！在 以简驭繁 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！
+- [KunMinX/Jetpack-MVVM-Best-Practice](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice) - 是难得一见 Jetpack MVVM 最佳实践！在 "以简驭繁" 代码中，对 "视图控制器" 乃至 "标准化开发模式" 形成正确、深入理解！
 - [twoyi/twoyi](https://github.com/twoyi/twoyi) - A lightweight Android container on Android
 - [kwai-ec/HybridDemo](https://github.com/kwai-ec/HybridDemo) - 动态化引擎Demo
 - [Tencent/Shadow](https://github.com/Tencent/Shadow) - 零反射全动态Android插件框架
@@ -396,6 +395,7 @@
 - [1998lixin/WeChat-database](https://github.com/1998lixin/WeChat-database) - 破解微信数据库 获取想要的数据
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [w296488320/XposedAppium](https://github.com/w296488320/XposedAppium) - 基于Xposed自动化框架
+- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [Hlittled/studio_3t_trial](https://github.com/Hlittled/studio_3t_trial) - javaagent + javassist
 - [ViRb3/TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) - 🔓 Disable SSL verification and pinning on Android, system-wide
 - [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) - :cherries: Web server and web framework of Android platform.
@@ -598,10 +598,6 @@
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
 
-## Less 
-
-- [Tencent/weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
-
 ## Lua 
 
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
@@ -696,6 +692,7 @@
 
 ## Python 
 
+- [comboed/TikTok-API-Signatures](https://github.com/comboed/TikTok-API-Signatures) - 
 - [newdive/uzmap-resource-extractor](https://github.com/newdive/uzmap-resource-extractor) - apicloud apk的资源解密提取器
 - [SeanLee97/xmnlp](https://github.com/SeanLee97/xmnlp) - xmnlp：提供中文分词, 词性标注, 命名体识别，情感分析，文本纠错，文本转拼音，文本摘要，偏旁部首，句子表征及文本相似度计算等功能
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
@@ -821,7 +818,7 @@
 
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
-- [kiddin9/OpenWrt_x86-r2s-r4s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-N1) - Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/TR609(电信版), 小米4, 小米 R3G, 小米 R3P, 小娱C5, newifi-d2, H1 Box, 贝壳云 P1 , 我家云 lL Pro, x96 Max, 微加云 V-Plus, 章鱼星球 ZYXQ, GT-King, Odroid N2, MXQ Pro+
+- [kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1) - Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/TR609(电信版), 小米4, 小米 R3G, 小米 R3P, 小娱C5, newifi-d2, H1 Box, 贝壳云 P1 , 我家云 lL Pro, x96 Max, 微加云 V-Plus, 章鱼星球 ZYXQ, GT-King, Odroid N2, MXQ Pro+
 - [SukkaW/zsh-osx-autoproxy](https://github.com/SukkaW/zsh-osx-autoproxy) - An oh-my-zsh plugin that configures proxy environment variables based on macOS's system preferences automatically
 - [RikkaApps/Riru-ModuleTemplate](https://github.com/RikkaApps/Riru-ModuleTemplate) - Module template of Riru.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
@@ -845,6 +842,7 @@
 
 ## Swift 
 
+- [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rechsteiner/Parchment](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu ✨
 - [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
