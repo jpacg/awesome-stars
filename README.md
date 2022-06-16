@@ -467,12 +467,14 @@
 
 ## JavaScript 
 
+- [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
+- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Tsaiboss/decodeObfuscator](https://github.com/Tsaiboss/decodeObfuscator) - 免安装一键还原Obfuscator混淆过的代码
 - [Tsaiboss/decode5sObfuscator](https://github.com/Tsaiboss/decode5sObfuscator) - CloudFlare 5秒盾第一层混淆代码一键还原
 - [thx/gogocode](https://github.com/thx/gogocode) - GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing a more intuitive API.
 - [jin-yufeng/mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用
 - [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+- [fkie-cad/friTap](https://github.com/fkie-cad/friTap) - The goal of this project is to help researchers to analyze traffic encapsulated in SSL or TLS.
 - [ecomfe/fonteditor](https://github.com/ecomfe/fonteditor) - 在线字体编辑器
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
@@ -636,7 +638,7 @@
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
 - [FuckDoctors/rdm-builder](https://github.com/FuckDoctors/rdm-builder) - Redis Desktop Manager Builder
-- [waydabber/BetterDummy](https://github.com/waydabber/BetterDummy) - Software Dummy Display Adapter for Apple Silicon/Intel Macs to Have Custom HiDPI Resolutions.
+- [waydabber/BetterDummy](https://github.com/waydabber/BetterDummy) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [mooseIre/update_miui_ota](https://github.com/mooseIre/update_miui_ota) - 
 - [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
@@ -822,6 +824,7 @@
 ## Shell 
 
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
 - [kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1) - Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/TR609(电信版), 小米4, 小米 R3G, 小米 R3P, 小娱C5, newifi-d2, H1 Box, 贝壳云 P1 , 我家云 lL Pro, x96 Max, 微加云 V-Plus, 章鱼星球 ZYXQ, GT-King, Odroid N2, MXQ Pro+
 - [SukkaW/zsh-osx-autoproxy](https://github.com/SukkaW/zsh-osx-autoproxy) - An oh-my-zsh plugin that configures proxy environment variables based on macOS's system preferences automatically
@@ -851,7 +854,6 @@
 - [exyte/PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
 - [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [rechsteiner/Parchment](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu ✨
 - [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
 - [kylehickinson/SwiftUI-WebView](https://github.com/kylehickinson/SwiftUI-WebView) - A SwiftUI component to use WKWebView
 - [bizz84/SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺
@@ -891,7 +893,6 @@
 
 ## TypeScript 
 
-- [fkie-cad/friTap](https://github.com/fkie-cad/friTap) - The goal of this project is to help researchers to analyze traffic encapsulated in SSL or TLS.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [SeeFlowerX/frida-protobuf](https://github.com/SeeFlowerX/frida-protobuf) - 
