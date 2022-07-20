@@ -30,6 +30,7 @@
   - [PHP](#php)
   - [Pascal](#pascal)
   - [Python](#python)
+  - [Roff](#roff)
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
@@ -39,6 +40,7 @@
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [Vue](#vue)
+  - [Zig](#zig)
 
 ## ASL 
 
@@ -228,6 +230,10 @@
 
 ## Dart 
 
+- [iota9star/mikan_flutter](https://github.com/iota9star/mikan_flutter) - Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP，:construction: 开发中...
+- [xiaoyaocz/dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter) - 动漫之家Flutter客户端
+- [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
+- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [niuhuan/jasmine](https://github.com/niuhuan/jasmine) - 一个美观易用的漫画客户端, 同时支持支持 Android / iOS / MacOS / Windows / Linux。
 - [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
@@ -333,10 +339,12 @@
 - [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [eddycjy/go-design-book](https://github.com/eddycjy/go-design-book) - 《Go 语言设计哲学》
 - [frainzy1477/luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
+- [helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask 入门教程
 - [tidyjiang8/arm-gcc-inline-assembler](https://github.com/tidyjiang8/arm-gcc-inline-assembler) - ARM GCC 内联汇编参考手册 - 中文版
 
 ## Java 
 
+- [RikkaW/HiddenApi](https://github.com/RikkaW/HiddenApi) - Unify all hidden APIs used by Rikka apps into a library.
 - [LookCos/hermit](https://github.com/LookCos/hermit) - Don't need ADB. It runs on Android and the software itself provides a restful API, you just need to send an HTTP request and it translates the call to the API into an operation on the phone.
 - [Kong/unirest-java](https://github.com/Kong/unirest-java) - Unirest in Java: Simplified, lightweight HTTP client library.
 - [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
@@ -578,7 +586,7 @@
 - [square/logcat](https://github.com/square/logcat) - I CAN HAZ LOGZ?
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 - [princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat) - 🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）
-- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
 - [google/prefab](https://github.com/google/prefab) - Prefab is a tool for generating build system integrations for prebuilt C/C++ libraries.
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
@@ -612,7 +620,7 @@
 
 ## Markdown 
 
-- [airbnb/swift](https://github.com/airbnb/swift) - Airbnb's Swift Style Guide.
+- [airbnb/swift](https://github.com/airbnb/swift) - Airbnb's Swift Style Guide
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition 施工中）
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
@@ -648,7 +656,6 @@
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
 - [zqjzqj/mtSecKill](https://github.com/zqjzqj/mtSecKill) - 京东茅台抢购
 - [b1f6c1c4/learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
-- [helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask 入门教程
 - [shfshanyue/op-note](https://github.com/shfshanyue/op-note) - 该仓库已迁移至我的博客 https://github.com/shfshanyue/blog/tree/master/op
 - [acidanthera/OcBinaryData](https://github.com/acidanthera/OcBinaryData) - 
 - [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
@@ -702,7 +709,8 @@
 
 ## Python 
 
-- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox
+- [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [Impact-I/reFlutter](https://github.com/Impact-I/reFlutter) - Flutter Reverse Engineering Framework
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
@@ -736,7 +744,7 @@
 - [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis) - Redis-based components for Scrapy.
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
-- [tzutalin/labelImg](https://github.com/tzutalin/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
+- [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [kaio/ibus-table](https://github.com/kaio/ibus-table) - The tables engines for IBus
 - [r0ysue/AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
@@ -805,8 +813,13 @@
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 
+## Roff 
+
+- [kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1) - Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/TR609(电信版), 小米4, 小米 R3G, 小米 R3P, 小娱C5, newifi-d2, H1 Box, 贝壳云 P1 , 我家云 lL Pro, x96 Max, 微加云 V-Plus, 章鱼星球 ZYXQ, GT-King, Odroid N2, MXQ Pro+
+
 ## Rust 
 
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
 - [koute/pinky](https://github.com/koute/pinky) - An NES emulator written in Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -832,7 +845,6 @@
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
-- [kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1) - Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/TR609(电信版), 小米4, 小米 R3G, 小米 R3P, 小娱C5, newifi-d2, H1 Box, 贝壳云 P1 , 我家云 lL Pro, x96 Max, 微加云 V-Plus, 章鱼星球 ZYXQ, GT-King, Odroid N2, MXQ Pro+
 - [SukkaW/zsh-osx-autoproxy](https://github.com/SukkaW/zsh-osx-autoproxy) - An oh-my-zsh plugin that configures proxy environment variables based on macOS's system preferences automatically
 - [RikkaApps/Riru-ModuleTemplate](https://github.com/RikkaApps/Riru-ModuleTemplate) - Module template of Riru.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
@@ -856,6 +868,9 @@
 
 ## Swift 
 
+- [JerryFans/JFPopup](https://github.com/JerryFans/JFPopup) - A Swift Popup Module help you popup your custom view easily
+- [JerryFans/JFHeroBrowser](https://github.com/JerryFans/JFHeroBrowser) - A simplest & base on protocol & swifty way to browse photo or video with hero animation.
+- [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
 - [FiveStarsBlog/CodeSamples](https://github.com/FiveStarsBlog/CodeSamples) - Code samples from https://fivestars.blog
 - [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
@@ -953,6 +968,10 @@
 - [dingyong0214/ThorUI-uniapp](https://github.com/dingyong0214/ThorUI-uniapp) - ThorUI组件库，轻量、简洁的移动端组件库。组件文档地址：https://thorui.cn/doc
 - [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+
+## Zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
