@@ -30,7 +30,6 @@
   - [PHP](#php)
   - [Pascal](#pascal)
   - [Python](#python)
-  - [Roff](#roff)
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
@@ -230,6 +229,10 @@
 
 ## Dart 
 
+- [prahack/chat_bubbles](https://github.com/prahack/chat_bubbles) - Flutter chat bubble/speech bubble widgets.
+- [vi-k/bubble](https://github.com/vi-k/bubble) - Speech bubble for Flutter
+- [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
+- [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [iota9star/mikan_flutter](https://github.com/iota9star/mikan_flutter) - Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP，:construction: 开发中...
 - [xiaoyaocz/dmzj_flutter](https://github.com/xiaoyaocz/dmzj_flutter) - 动漫之家Flutter客户端
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
@@ -570,6 +573,7 @@
 
 ## Kotlin 
 
+- [DylanCaiCoding/MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX) - Use MMKV with property delegates. (用属性委托的方式使用  MMKV)
 - [Lowae/Design-WanAndroid](https://github.com/Lowae/Design-WanAndroid) - 🦄WanAndroid的最佳Material Design实践，严格遵循Material设计，完美支持其Dynamic Colors等新特性，MVVM架构，保证UI风格、逻辑设计的一致性。全盘采用Jetpack，只为解决某些特定问题而引入其他依赖，避免大材小用，且尽可能均自己实现
 - [0xZhangKe/NotionLight](https://github.com/0xZhangKe/NotionLight) - A quick and lightweight Notion app
 - [MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. A convenient and performant logging library wrapping slf4j with Kotlin extensions
@@ -630,6 +634,7 @@
 
 ## Objective-C 
 
+- [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 - [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
 - [fanyuecheng/Pica](https://github.com/fanyuecheng/Pica) - 一个简约的哔咔漫画iOS App
 - [changsanjiang/SJVideoPlayer](https://github.com/changsanjiang/SJVideoPlayer) - iOS VideoPlayer MediaPlayer video player media player 短视频播放器 可接入 ijkplayer aliplayer alivodplayer plplayer
@@ -643,6 +648,7 @@
 
 ## Others 
 
+- [hzzheyang/strongR-frida-android](https://github.com/hzzheyang/strongR-frida-android) - An anti detection version frida-server for android.
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
 - [virjar/aosp-env](https://github.com/virjar/aosp-env) - 快速搭建aosp（Android源码）的开发环境
@@ -744,7 +750,6 @@
 - [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis) - Redis-based components for Scrapy.
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
-- [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [kaio/ibus-table](https://github.com/kaio/ibus-table) - The tables engines for IBus
 - [r0ysue/AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习
@@ -813,10 +818,6 @@
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 
-## Roff 
-
-- [kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1) - Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/TR609(电信版), 小米4, 小米 R3G, 小米 R3P, 小娱C5, newifi-d2, H1 Box, 贝壳云 P1 , 我家云 lL Pro, x96 Max, 微加云 V-Plus, 章鱼星球 ZYXQ, GT-King, Odroid N2, MXQ Pro+
-
 ## Rust 
 
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
@@ -845,6 +846,7 @@
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
+- [kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1) - Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/TR609(电信版), 小米4, 小米 R3G, 小米 R3P, 小娱C5, newifi-d2, H1 Box, 贝壳云 P1 , 我家云 lL Pro, x96 Max, 微加云 V-Plus, 章鱼星球 ZYXQ, GT-King, Odroid N2, MXQ Pro+
 - [SukkaW/zsh-osx-autoproxy](https://github.com/SukkaW/zsh-osx-autoproxy) - An oh-my-zsh plugin that configures proxy environment variables based on macOS's system preferences automatically
 - [RikkaApps/Riru-ModuleTemplate](https://github.com/RikkaApps/Riru-ModuleTemplate) - Module template of Riru.
 - [ViRb3/magisk-frida](https://github.com/ViRb3/magisk-frida) - 🔐 Run frida-server on boot with Magisk, always up-to-date
@@ -868,6 +870,9 @@
 
 ## Swift 
 
+- [Lakr233/Axchange](https://github.com/Lakr233/Axchange) - Android file transfer via ADB
+- [Vaida12345/waifuExtension](https://github.com/Vaida12345/waifuExtension) - The waifu2x & Other image-enlargers on Mac
+- [russell-archer/StoreHelper](https://github.com/russell-archer/StoreHelper) - Implementing and testing In-App Purchases with StoreKit2 and StoreHelper in Xcode 13, Swift 5.5, SwiftUI, iOS 15 and macOS 12.
 - [JerryFans/JFPopup](https://github.com/JerryFans/JFPopup) - A Swift Popup Module help you popup your custom view easily
 - [JerryFans/JFHeroBrowser](https://github.com/JerryFans/JFHeroBrowser) - A simplest & base on protocol & swifty way to browse photo or video with hero animation.
 - [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
