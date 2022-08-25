@@ -20,6 +20,7 @@
   - [Handlebars](#handlebars)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
@@ -217,6 +218,7 @@
 
 ## CSS 
 
+- [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace/Nerd Font font with round corner for IDE and command line. 开源圆角的等宽和控制台字体
 - [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
@@ -375,7 +377,6 @@
 - [liumian97/quantum-tunnel](https://github.com/liumian97/quantum-tunnel) - QuantumTunnel，量子隧道，是一款简单、强大、可扩展性高的内网穿透工具
 - [Palatis/XAppDebug](https://github.com/Palatis/XAppDebug) - toggle app debuggable
 - [anjia0532/unidbg-boot-server](https://github.com/anjia0532/unidbg-boot-server) - unidbg-server 提供http api服务
-- [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [w2016561536/android_virtual_cam](https://github.com/w2016561536/android_virtual_cam) - xposed安卓虚拟摄像头 android virtual camera on xposed hook
 - [mojohaus/appassembler](https://github.com/mojohaus/appassembler) - 
 - [leibnitz27/cfr](https://github.com/leibnitz27/cfr) - This is the public repository for the CFR Java decompiler
@@ -542,7 +543,7 @@
 - [monkeylord/XServer](https://github.com/monkeylord/XServer) - A Xposed Module for Android Penetration Test, with NanoHttpd.
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
+- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [metowolf/pipe-demo](https://github.com/metowolf/pipe-demo) - 从零开始写一个代理
 - [zmzhang8/Photon](https://github.com/zmzhang8/Photon) - A lightweight multi-threaded downloader based on aria2.
 - [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings in pure javascript.
@@ -575,12 +576,18 @@
 - [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
+## Jinja 
+
+- [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
+
 ## Jupyter Notebook 
 
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 
 ## Kotlin 
 
+- [equationl/calculatorCompose](https://github.com/equationl/calculatorCompose) - 这是一款完全使用 Jetpack Compose 实现的计算器 APP ， 支持标准计算器和程序员计算器，支持深色模式，支持自动旋转，支持悬浮窗计算器
+- [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up.
 - [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
 - [DylanCaiCoding/MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX) - Use MMKV with property delegates. (用属性委托的方式使用  MMKV，无需初始化 MMKV，无需传 key 值)
 - [Lowae/Design-WanAndroid](https://github.com/Lowae/Design-WanAndroid) - 🦄WanAndroid的最佳Material Design实践，严格遵循Material设计，完美支持其Dynamic Colors等新特性，MVVM架构，保证UI风格、逻辑设计的一致性。全盘采用Jetpack，只为解决某些特定问题而引入其他依赖，避免大材小用，且尽可能均自己实现
@@ -611,7 +618,7 @@
 - [madchan/EmbeddedLogcat](https://github.com/madchan/EmbeddedLogcat) - 
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
-- [gedoor/legado](https://github.com/gedoor/legado) - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [WrBug/DeveloperHelper](https://github.com/WrBug/DeveloperHelper) - 📌易开发是一款帮助开发人员快速开发的工具，功能包括界面分析，页面信息，加固脱壳，支持Android9.0
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
@@ -656,7 +663,6 @@
 
 ## Others 
 
-- [Lakr233/ActionBee](https://github.com/Lakr233/ActionBee) - A programmable pasteboard action trigger
 - [hzzheyang/strongR-frida-android](https://github.com/hzzheyang/strongR-frida-android) - An anti detection version frida-server for android.
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
@@ -866,7 +872,6 @@
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
-- [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [dakkidaze/one-key-kms](https://github.com/dakkidaze/one-key-kms) - 在Linux上一键搭建KMS服务器
 - [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
@@ -880,6 +885,10 @@
 
 ## Swift 
 
+- [kean/Pulse](https://github.com/kean/Pulse) - Logger and network inspector for Apple platforms
+- [kean/PulsePro](https://github.com/kean/PulsePro) - A macOS app for viewing logs from Pulse
+- [fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer) - SwiftUI Overlay Container is a view container component for SwiftUI. It is a customizable, efficient and convenient view manager.  With just a simple configuration, SwiftUI Overlay Container can do the basic work of view organization, queue handling, transitions, animations, interactions, display style configuration and so on for you, allowing developers to devote more effort to the implementation of the application view itself.
+- [Lakr233/ActionBee](https://github.com/Lakr233/ActionBee) - A programmable pasteboard action trigger
 - [jasudev/AxisSegmentedView](https://github.com/jasudev/AxisSegmentedView) - A library that allows you to easily create various styles of segmented views. Supports iOS, macOS and tvOS.
 - [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
 - [Vaida12345/waifuExtension](https://github.com/Vaida12345/waifuExtension) - The waifu2x & Other image-enlargers on Mac
@@ -901,7 +910,6 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [Shubham0812/SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - A repository containing a variety of animations and Animated components created in SwiftUI that you can use in your own projects.
 - [kylehickinson/SwiftUI-WebView](https://github.com/kylehickinson/SwiftUI-WebView) - A SwiftUI component to use WKWebView
-- [bizz84/SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺
 - [xmartlabs/PagerTabStripView](https://github.com/xmartlabs/PagerTabStripView) - 🚀  Elegant Pager View fully written in pure SwiftUI.
 - [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 - [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
@@ -927,7 +935,6 @@
 - [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
 - [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen) - The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 - [SwiftKickMobile/SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift.
-- [SwiftyJSON/SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 - [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
 - [vinivendra/Gryphon](https://github.com/vinivendra/Gryphon) - The Swift to Kotlin translator.
 - [Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI) - `SwiftUI` Framework  Learning and Usage Guide. 🚀
