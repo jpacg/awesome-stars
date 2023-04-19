@@ -44,7 +44,6 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [Zig](#zig)
 
 ## Batchfile 
 
@@ -56,6 +55,8 @@
 
 ## C 
 
+- [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) - Using Zygisk to dump il2cpp data at runtime
+- [hexhacking/xUnwind](https://github.com/hexhacking/xUnwind) - :fire: xUnwind is a collection of Android native stack unwinding solutions.
 - [hexhacking/xDL](https://github.com/hexhacking/xDL) - :fire: xDL is an enhanced implementation of the Android DL series functions.
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 - [bootlin/elixir](https://github.com/bootlin/elixir) - The Elixir Cross Referencer
@@ -413,6 +414,7 @@
 
 ## Java 
 
+- [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [Western-parotia/BookViewProject](https://github.com/Western-parotia/BookViewProject) - 基于RecyclerView，实现业务侧的数据与Item布局即可（包括广告view）。无需关心阅读器动画与Item 动画渲染的交互。（不包含文字的处理，以后应该也不会添加）
 - [Kr328/ZygoteLoader](https://github.com/Kr328/ZygoteLoader) - A library for building Java only Zygisk/Riru modules.
 - [ys1231/jxtrace](https://github.com/ys1231/jxtrace) - 
@@ -460,7 +462,6 @@
 - [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
 - [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-- [sanfengAndroid/FakeXposed](https://github.com/sanfengAndroid/FakeXposed) - Hide xposed, root, file redirection, etc.
 - [protostuff/protostuff](https://github.com/protostuff/protostuff) - Java serialization library, proto compiler, code generator
 - [RikkaApps/Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
 - [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
@@ -645,6 +646,7 @@
 
 ## Kotlin 
 
+- [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
 - [capntrips/KernelFlasher](https://github.com/capntrips/KernelFlasher) - Kernel Flasher is an Android app to flash, backup, and restore kernels.
 - [libxposed/example](https://github.com/libxposed/example) - Example module
 - [byxiaorun/Ruru](https://github.com/byxiaorun/Ruru) - An android sample app of detecting suspicious apps like magisk manager
@@ -755,7 +757,6 @@
 - [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) - :japanese_castle: Better ways to structure iOS apps
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
-- [FuckDoctors/rdm-builder](https://github.com/FuckDoctors/rdm-builder) - Redis Desktop Manager Builder
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
@@ -958,6 +959,7 @@
 
 ## Shell 
 
+- [tiann/adb_root](https://github.com/tiann/adb_root) - 
 - [ChisBread/malior](https://github.com/ChisBread/malior) - malior is the game container of arm
 - [taamarin/ClashforMagisk](https://github.com/taamarin/ClashforMagisk) - Transparent proxy(Tproxy) for android (root)
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
@@ -1082,7 +1084,7 @@
 - [oleavr/frida-agent-example](https://github.com/oleavr/frida-agent-example) - Example Frida agent written in TypeScript
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [frida/frida-compile](https://github.com/frida/frida-compile) - Compile a Frida script comprised of one or more Node.js modules
 - [nowsecure/frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
@@ -1111,10 +1113,6 @@
 - [Kuari/RedisFish](https://github.com/Kuari/RedisFish) - 🌈A convenient, cross-platform, and content-focused redis GUI client. Maybe you will like it.
 - [dingyong0214/ThorUI-uniapp](https://github.com/dingyong0214/ThorUI-uniapp) - ThorUI组件库，轻量、简洁的移动端组件库。组件文档地址：https://thorui.cn/doc
 - [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
-
-## Zig 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 
 
 ## License
