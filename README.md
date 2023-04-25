@@ -180,6 +180,7 @@
 
 ## C++ 
 
+- [liwugang/android_properties](https://github.com/liwugang/android_properties) - Android get/set system properties
 - [3026187875/ROCK_5b](https://github.com/3026187875/ROCK_5b) - 关于rock5b的玩法文档资料
 - [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
@@ -366,7 +367,7 @@
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [xxjwxc/gormt](https://github.com/xxjwxc/gormt) - database to golang struct
-- [redis/go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [xuanbo/requests](https://github.com/xuanbo/requests) - http requests lib for golang
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -414,6 +415,8 @@
 
 ## Java 
 
+- [fengyuecanzhu/Maple](https://github.com/fengyuecanzhu/Maple) - A Java hook framwork (Xposed style) for Android Runtime (ART) implemented by LSPlant.
+- [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [Western-parotia/BookViewProject](https://github.com/Western-parotia/BookViewProject) - 基于RecyclerView，实现业务侧的数据与Item布局即可（包括广告view）。无需关心阅读器动画与Item 动画渲染的交互。（不包含文字的处理，以后应该也不会添加）
 - [Kr328/ZygoteLoader](https://github.com/Kr328/ZygoteLoader) - A library for building Java only Zygisk/Riru modules.
@@ -646,6 +649,8 @@
 
 ## Kotlin 
 
+- [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku) - A Android Application for share DeviceOwner
+- [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
 - [mobile-dev-inc/dadb](https://github.com/mobile-dev-inc/dadb) - A Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server
 - [capntrips/KernelFlasher](https://github.com/capntrips/KernelFlasher) - Kernel Flasher is an Android app to flash, backup, and restore kernels.
 - [libxposed/example](https://github.com/libxposed/example) - Example module
@@ -653,7 +658,7 @@
 - [flexbooru/flexbooru](https://github.com/flexbooru/flexbooru) - A booru client for Android, support Danbooru, Moebooru, Gelbooru, Shimmie, etc.
 - [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
 - [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
-- [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
+- [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
 - [KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner) - 瘦身模块
 - [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
@@ -665,7 +670,7 @@
 - [equationl/calculatorCompose](https://github.com/equationl/calculatorCompose) - 这是一款完全使用 Jetpack Compose 实现的计算器 APP ， 支持标准计算器和程序员计算器，支持深色模式，支持自动旋转，支持悬浮窗计算器。兄弟项目：使用 Compose Multiplatform实现的跨平台计算器：https://github.com/equationl/calculator-Compose-Multiplatform
 - [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up.
 - [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
-- [DylanCaiCoding/MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX) - Use MMKV with property delegates. (用属性委托的方式使用  MMKV，无需初始化 MMKV，无需传 key 值)
+- [DylanCaiCoding/MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX) - The most flexible and easy-to-use MMKV utils. (最灵活易用的  MMKV 工具，无需初始化 MMKV，无需传 key 值)
 - [Lowae/Design-WanAndroid](https://github.com/Lowae/Design-WanAndroid) - 🦄WanAndroid的最佳Material Design实践，严格遵循Material设计，完美支持其Dynamic Colors等新特性，MVVM架构，保证UI风格、逻辑设计的一致性。全盘采用Jetpack，只为解决某些特定问题而引入其他依赖，避免大材小用，且尽可能均自己实现
 - [0xZhangKe/NotionLight](https://github.com/0xZhangKe/NotionLight) - A quick and lightweight Notion app
 - [oshai/kotlin-logging](https://github.com/oshai/kotlin-logging) - Lightweight Multiplatform logging framework for Kotlin. A convenient and performant logging facade.
@@ -744,6 +749,7 @@
 
 ## Others 
 
+- [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [darbra/sperm](https://github.com/darbra/sperm) - 浏览过的精彩逆向文章汇总，值得一看
 - [5ec1cff/my-notes](https://github.com/5ec1cff/my-notes) - 
 - [feicong/ebpf-course](https://github.com/feicong/ebpf-course) - 
@@ -1062,6 +1068,7 @@
 
 ## TypeScript 
 
+- [r3x5ur/unveilr](https://github.com/r3x5ur/unveilr) - 小程序反编译工具
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
@@ -1109,6 +1116,7 @@
 
 ## Vue 
 
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Kuari/RedisFish](https://github.com/Kuari/RedisFish) - 🌈A convenient, cross-platform, and content-focused redis GUI client. Maybe you will like it.
 - [dingyong0214/ThorUI-uniapp](https://github.com/dingyong0214/ThorUI-uniapp) - ThorUI组件库，轻量、简洁的移动端组件库。组件文档地址：https://thorui.cn/doc
