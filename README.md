@@ -729,6 +729,7 @@
 
 ## Lua 
 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
@@ -1114,7 +1115,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [SeeFlowerX/frida-protobuf](https://github.com/SeeFlowerX/frida-protobuf) - 
 - [Siubaak/sval](https://github.com/Siubaak/sval) - A javascript interpreter written in javascript
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification, has limited accuracy (40 - 60%).
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
 - [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech_balloon: Render Disqus comments in Mainland China using Disqus API
