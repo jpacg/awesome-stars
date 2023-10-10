@@ -48,6 +48,7 @@
 
 ## C 
 
+- [linxinrao/Shamrock](https://github.com/linxinrao/Shamrock) - ☘ 基于Xposed实现的Onebot11/12标准QQBot框架
 - [bmax121/KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 - [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz) - 基于eBPF的堆栈追踪工具
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
@@ -428,6 +429,7 @@
 
 ## Java 
 
+- [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
 - [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
 - [Giftedcat/AdSkipHelper](https://github.com/Giftedcat/AdSkipHelper) - Android使用无障碍模式跳过应用广告的实现（仿李跳跳功能）
@@ -571,7 +573,7 @@
 - [2833844911/cy_jsvmp](https://github.com/2833844911/cy_jsvmp) - 基本实现ES5语法被翻译成VMP，ES6语法的一部分也被实现The basic implementation ES5 syntax is translated into VMP, and part of the ES6 syntax is also implemented
 - [openai-translator/bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - 使用 ChatGPT API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！Licensed under CC BY-NC-SA 4.0
 - [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
-- [cilame/v_jstools](https://github.com/cilame/v_jstools) - 模仿着写一个开源的 chrome 插件，用来快速调试前端 js 代码。
+- [cilame/v_jstools](https://github.com/cilame/v_jstools) - 模仿着写一个 chrome 插件，用来快速调试前端 js 代码。
 - [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
 - [pawitp/protobuf-decoder](https://github.com/pawitp/protobuf-decoder) - JavaScript-based web UI to decode ad-hoc Protobuf data
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
@@ -667,6 +669,8 @@
 
 ## Kotlin 
 
+- [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
+- [HappyMax0/FCMPushViewer](https://github.com/HappyMax0/FCMPushViewer) - 此APP可以查看用户安装的应用及系统应用中，哪些应用支持谷歌FCM推送，并且可以调出FCM系统日志页面，可以查看FCM连接状态及应用推送记录。
 - [GangJust/ktutils](https://github.com/GangJust/ktutils) - Kotlin Android工具类库
 - [thorjay/LightWebviewBridge](https://github.com/thorjay/LightWebviewBridge) - LightWebviewBridge定位为一个轻量级、小而美的Hybrid混合APP解决方案工具
 - [MlgmXyysd/KernelSU_Debug](https://github.com/MlgmXyysd/KernelSU_Debug) - KernelSU modified for debugging
@@ -778,6 +782,7 @@
 
 ## Others 
 
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [Ylarod/Florida](https://github.com/Ylarod/Florida) - 
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
@@ -1051,7 +1056,7 @@
 - [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [kylemanna/docker-aosp](https://github.com/kylemanna/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Standard ML 
 
@@ -1131,6 +1136,7 @@
 
 ## TypeScript 
 
+- [chrononeko/chronocat](https://github.com/chrononeko/chronocat) - 小巧轻便的 Red 实现
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
