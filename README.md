@@ -63,6 +63,7 @@
 - [hexhacking/xUnwind](https://github.com/hexhacking/xUnwind) - :fire: xUnwind is a collection of Android native stack unwinding solutions.
 - [hexhacking/xDL](https://github.com/hexhacking/xDL) - :fire: xDL is an enhanced implementation of the Android DL series functions.
 - [hmgle/graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
+- [SnapdragonLee/ChatGPT-weBot](https://github.com/SnapdragonLee/ChatGPT-weBot) - Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based
 - [bootlin/elixir](https://github.com/bootlin/elixir) - The Elixir Cross Referencer
 - [gityf/crc](https://github.com/gityf/crc) - crc16/crc32/crc64
 - [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
@@ -183,7 +184,6 @@
 ## C++ 
 
 - [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - maybe a new fcitx.
-- [bmax121/AndroidKernelPatch](https://github.com/bmax121/AndroidKernelPatch) - Patching, hooking, and rooting the Android kernel using only a stripped Linux kernel image.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 - [topjohnwu/system_properties](https://github.com/topjohnwu/system_properties) - 
@@ -269,7 +269,7 @@
 ## CSS 
 
 - [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
-- [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme.
+- [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images.
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -306,6 +306,7 @@
 
 ## Go 
 
+- [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - 8年积累，沉淀出来的高性能通用实时通讯服务，支持即时通讯（聊天软件）(IM)(Chat)，消息推送，消息中台，音视频信令，直播弹幕，客服系统，AI通讯，即时社区等场景
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, u
@@ -429,6 +430,7 @@
 
 ## Java 
 
+- [briandilley/jsonrpc4j](https://github.com/briandilley/jsonrpc4j) - JSON-RPC for Java
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
 - [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
@@ -439,7 +441,7 @@
 - [fengyuecanzhu/Maple](https://github.com/fengyuecanzhu/Maple) - A Java hook framwork (Xposed style) for Android Runtime (ART) implemented by LSPlant.
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
-- [Western-parotia/BookViewProject](https://github.com/Western-parotia/BookViewProject) - 基于RecyclerView，实现业务侧的数据与Item布局即可（包括广告view）。无需关心阅读器动画与Item 动画渲染的交互。（不包含文字的处理，以后应该也不会添加）
+- [Western-parotia/BookViewProject](https://github.com/Western-parotia/BookViewProject) - This is a reader supporting the advertising business, with pages able to directly add any custom View layout, including video Views.
 - [Kr328/ZygoteLoader](https://github.com/Kr328/ZygoteLoader) - A library for building Java only Zygisk/Riru modules.
 - [ys1231/jxtrace](https://github.com/ys1231/jxtrace) - 对不加壳的app java所有Api进行hook 获取参数返回值等. 部分加壳app hook不到 可针对性修改.实际有遗漏辅助分析吧
 - [yrom/ScreenRecorder](https://github.com/yrom/ScreenRecorder) - Implement screen capture without root on Android 5.0+ by using MediaProjectionManager, VirtualDisplay, AudioRecord, MediaCodec and MediaMuxer APIs
@@ -582,7 +584,7 @@
 - [danny0838/webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures web pages to local device or backend server for future retrieval, organization, annotation, and edit. This project inherits from legacy Firefox add-on ScrapBook X.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [thx/gogocode](https://github.com/thx/gogocode) - GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing a more intuitive API.
-- [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
+- [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
 - [fkie-cad/friTap](https://github.com/fkie-cad/friTap) - The goal of this project is to help researchers to analyze traffic encapsulated in SSL or TLS.
 - [ecomfe/fonteditor](https://github.com/ecomfe/fonteditor) - 在线字体编辑器
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -673,6 +675,7 @@
 - [HappyMax0/FCMPushViewer](https://github.com/HappyMax0/FCMPushViewer) - 此APP可以查看用户安装的应用及系统应用中，哪些应用支持谷歌FCM推送，并且可以调出FCM系统日志页面，可以查看FCM连接状态及应用推送记录。
 - [GangJust/ktutils](https://github.com/GangJust/ktutils) - Kotlin Android工具类库
 - [thorjay/LightWebviewBridge](https://github.com/thorjay/LightWebviewBridge) - LightWebviewBridge定位为一个轻量级、小而美的Hybrid混合APP解决方案工具
+- [bmax121/AndroidKernelPatch](https://github.com/bmax121/AndroidKernelPatch) - Patching, hooking, and rooting the Android kernel using only a stripped Linux kernel image.
 - [MlgmXyysd/KernelSU_Debug](https://github.com/MlgmXyysd/KernelSU_Debug) - KernelSU modified for debugging
 - [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 - [coil-kt/coil](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
@@ -782,6 +785,7 @@
 
 ## Others 
 
+- [chrononeko/chronocat](https://github.com/chrononeko/chronocat) - 小巧轻便的 Red 实现
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [Ylarod/Florida](https://github.com/Ylarod/Florida) - 
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
@@ -856,7 +860,6 @@
 - [yifeikong/curl_cffi](https://github.com/yifeikong/curl_cffi) - Python binding for curl-impersonate via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [XRSec/tiktok_airtest](https://github.com/XRSec/tiktok_airtest) - 抖音自动化 群控
 - [novnc/websockify](https://github.com/novnc/websockify) - Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service.
-- [SnapdragonLee/ChatGPT-weBot](https://github.com/SnapdragonLee/ChatGPT-weBot) - Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [gaasedelen/lighthouse](https://github.com/gaasedelen/lighthouse) - A Coverage Explorer for Reverse Engineers
@@ -1136,7 +1139,6 @@
 
 ## TypeScript 
 
-- [chrononeko/chronocat](https://github.com/chrononeko/chronocat) - 小巧轻便的 Red 实现
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
