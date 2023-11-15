@@ -49,6 +49,8 @@
 
 ## C 
 
+- [DragonQuestHero/Medusa](https://github.com/DragonQuestHero/Medusa) - Radical Windows ARK
+- [Ch0pin/JNIInvocation](https://github.com/Ch0pin/JNIInvocation) - 
 - [MJx0/AndKittyInjector](https://github.com/MJx0/AndKittyInjector) - Inject a shared library into a process using ptrace
 - [bmax121/KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 - [SeeFlowerX/stackplz](https://github.com/SeeFlowerX/stackplz) - 基于eBPF的堆栈追踪工具
@@ -170,6 +172,7 @@
 
 ## C# # 
 
+- [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -182,6 +185,7 @@
 
 ## C++ 
 
+- [reveny/Android-GUI-Injector](https://github.com/reveny/Android-GUI-Injector) - GUI App for Injecting shared libraries on Android
 - [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - maybe a new fcitx.
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
@@ -303,6 +307,10 @@
 
 ## Go 
 
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+- [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+- [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - 8年积累，沉淀出来的高性能通用实时通讯服务，支持即时通讯（聊天软件）(IM)(Chat)，消息推送，消息中台，音视频信令，直播弹幕，客服系统，AI通讯，即时社区等场景
@@ -422,6 +430,8 @@
 
 ## Java 
 
+- [ukanth/afwall](https://github.com/ukanth/afwall) - AFWall+ (Android Firewall +) - iptables based firewall for Android
+- [1754048656/FATJS](https://github.com/1754048656/FATJS) - FATJS 基于安卓无障碍的自动化框架，集成找色，引入V8引擎
 - [briandilley/jsonrpc4j](https://github.com/briandilley/jsonrpc4j) - JSON-RPC for Java
 - [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
@@ -617,7 +627,6 @@
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-- [Fndroid/jsbox_script](https://github.com/Fndroid/jsbox_script) - 个人JSBox脚本集合
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 - [epidemian/snake](https://github.com/epidemian/snake) - A silly snake game on the browser URL
 - [monkeylord/XServer](https://github.com/monkeylord/XServer) - A Xposed Module for Android Penetration Test, with NanoHttpd.
@@ -662,6 +671,9 @@
 
 ## Kotlin 
 
+- [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
+- [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - 数据备份 DataBackup for Android
+- [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [leavesCZY/compose_tetris](https://github.com/leavesCZY/compose_tetris) - Not only Android, Compose Multiplatform Write an Android+Desktop Tetris（不止 Android，用 Compose Multiplatform 实现一个 Android + Desktop 平台的俄罗斯方块）
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
 - [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
@@ -968,7 +980,7 @@
 
 ## QML 
 
-- [hiroi-sora/Umi-OCR_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描二维码。兼容两种离线OCR引擎，内置多国语言识别库。
+- [hiroi-sora/Umi-OCR_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描/生成二维码。全程无需联网，内置多国语言识别库。
 
 ## Roff 
 
@@ -981,6 +993,8 @@
 
 ## Rust 
 
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [zhboner/realm](https://github.com/zhboner/realm) - A network relay tool
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
@@ -1027,7 +1041,7 @@
 
 ## Shell 
 
-- [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派3B/B+、树莓派4B、R66S、R68S、M68S、H66K、H68K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
+- [haiibo/OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5C、R5S、香橙派 R1 Plus、树莓派4B、R66S、R68S、M68S、H66K、H68K、H69K、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
 - [boredazfcuk/docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd) - An Alpine Linux 3.18.3 container for the iCloud Photos Downloader command line utility
 - [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk) - Transparent Proxy for Android(root)
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -1186,10 +1200,10 @@
 
 ## Vue 
 
+- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-- [hunter-ji/RedisFish](https://github.com/hunter-ji/RedisFish) - 🌈A convenient, cross-platform, and content-focused redis GUI client. Maybe you will like it.
 - [dingyong0214/ThorUI-uniapp](https://github.com/dingyong0214/ThorUI-uniapp) - ThorUI组件库，轻量、简洁的移动端组件库。组件文档地址：https://thorui.cn/doc
 - [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~
 
