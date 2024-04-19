@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Brainfuck](#brainfuck)
 - [C](#c)
 - [C#](#c#)
@@ -25,6 +26,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mercury](#mercury)
+- [Meson](#meson)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -41,6 +43,10 @@
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vue](#vue)
+
+## Astro 
+
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro.
 
 ## Brainfuck 
 
@@ -175,6 +181,7 @@
 
 ## C# # 
 
+- [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 - [SuxueCode/WechatBakTool](https://github.com/SuxueCode/WechatBakTool) - 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
 - [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
@@ -189,6 +196,8 @@
 
 ## C++ 
 
+- [MJx0/InputMsgCapture](https://github.com/MJx0/InputMsgCapture) - Capture input events of any android application
+- [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [vvb2060/zygisk_cacerts](https://github.com/vvb2060/zygisk_cacerts) - 
 - [percona/percona-xtrabackup](https://github.com/percona/percona-xtrabackup) - Open source hot backup tool for InnoDB and XtraDB databases
 - [lico-n/ZygiskFrida](https://github.com/lico-n/ZygiskFrida) - Injects frida gadget using zygisk to bypass anti-tamper checks.
@@ -278,7 +287,7 @@
 ## CSS 
 
 - [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
-- [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images.
+- [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -290,7 +299,7 @@
 ## Dart 
 
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
-- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -321,6 +330,8 @@
 
 ## Go 
 
+- [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [xiaoxinpro/WolGoWeb](https://github.com/xiaoxinpro/WolGoWeb) - 基于Golang的远程唤醒WebAPI
 - [MartialBE/one-api](https://github.com/MartialBE/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
@@ -460,6 +471,8 @@
 
 ## Java 
 
+- [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
+- [WindySha/Poros](https://github.com/WindySha/Poros) - This is a dynamic instrumentation tool that can inject xposed module into any appliation on rooted Android devices.
 - [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 14
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS
 - [happylishang/AntiFakerAndroidChecker](https://github.com/happylishang/AntiFakerAndroidChecker) - 设备指纹 获取真实的IMEI AndroidId 序列号 MAC地址等，Android模拟器检测，检测Android模拟器 ，作为可信DeviceID，应对防刷需求等                  Android设备指纹  How to detect Android emulator
@@ -592,7 +605,7 @@
 
 ## JavaScript 
 
-- [2ri4eUI/CFW-BOT](https://github.com/2ri4eUI/CFW-BOT) - Cloudflare Woker Bot ! No servers needed, just pure Xray link creation, all running smoothly on PythonAnywhere. a Shortcut to internet freedom! ✨"
+- [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [x-dr/short](https://github.com/x-dr/short) - 一个使用 Cloudflare Pages 创建的 URL 缩短器。A URL Shortener created using Cloudflare Pages
 - [xxxily/h5player](https://github.com/xxxily/h5player) - This software supports all audio and video websites, such as TikTok, YouTube, Bilibili, TED, Instagram, Twitter, etc. Features include: variable playback speed, screen capture, video download, custom 
@@ -701,6 +714,8 @@
 
 ## Kotlin 
 
+- [Suzhelan/TXHook](https://github.com/Suzhelan/TXHook) - 腾讯QQ协议分析工具
+- [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 - [PatilShreyas/Foodium](https://github.com/PatilShreyas/Foodium) - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, R
@@ -790,6 +805,7 @@
 
 ## Lua 
 
+- [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 - [ejoy/ant](https://github.com/ejoy/ant) - Ant game engine
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
@@ -800,7 +816,6 @@
 ## Makefile 
 
 - [clemedon/Makefile_tutor](https://github.com/clemedon/Makefile_tutor) - This project aims to create a crystal clear tutorial on a cryptic looking topic.
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [nanoninja/docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL & PHPMyAdmin
 
 ## Markdown 
@@ -812,6 +827,10 @@
 ## Mercury 
 
 - [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Objective-C 
 
@@ -833,6 +852,7 @@
 
 ## Others 
 
+- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 - [cxapython/mybackup-IT](https://github.com/cxapython/mybackup-IT) - 技术文章备份，安卓，js，汇编以及对应的逆向
 - [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 - [chiteroman/Reprogram-TEE-on-Qualcomm-devices](https://github.com/chiteroman/Reprogram-TEE-on-Qualcomm-devices) - Guide to reprogram the TEE on Qualcomm devices to fix lost attestation keys
@@ -911,6 +931,7 @@
 
 ## Python 
 
+- [2ri4eUI/CFW-BOT](https://github.com/2ri4eUI/CFW-BOT) - Cloudflare Woker Bot ! No servers needed, just pure Xray link creation, all running smoothly on PythonAnywhere. a Shortcut to internet freedom! ✨"
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、afreecatv、flextv、popkontv、twitcasting、winktv等平台直播录制，抓取多平台直播源地址，抖音无水印解析，快手无水印解析
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
@@ -968,7 +989,7 @@
 - [Gerapy/Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
 - [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [rmax/scrapy-redis](https://github.com/rmax/scrapy-redis) - Redis-based components for Scrapy.
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [kaio/ibus-table](https://github.com/kaio/ibus-table) - The tables engines for IBus
@@ -1053,9 +1074,12 @@
 
 ## Rust 
 
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
+- [Mufanc/z-loader](https://github.com/Mufanc/z-loader) - Inject into processes specialized from Zygote
+- [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient.
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
-- [blechschmidt/tun2proxy](https://github.com/blechschmidt/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
+- [tun2proxy/tun2proxy](https://github.com/tun2proxy/tun2proxy) - Tunnel (TUN) interface for SOCKS and HTTP proxies
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -1143,7 +1167,7 @@
 - [teddysun/across](https://github.com/teddysun/across) - Across the Great Wall we can reach every corner in the world
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [kylemanna/docker-aosp](https://github.com/kylemanna/docker-aosp) - 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## Stylus 
 
@@ -1173,7 +1197,7 @@
 - [jasudev/AxisSegmentedView](https://github.com/jasudev/AxisSegmentedView) - A library that allows you to easily create various styles of segmented views. Supports iOS, macOS and tvOS.
 - [lexrus/SwiftyMenu](https://github.com/lexrus/SwiftyMenu) - The missing Finder menu for your daily ease
 - [Vaida12345/waifuExtension](https://github.com/Vaida12345/waifuExtension) - The waifu2x & Other image-enlargers on Mac
-- [russell-archer/StoreHelper](https://github.com/russell-archer/StoreHelper) - Implementing In-App Purchases with StoreKit2 in Xcode 13 - 15 using SwiftUI, Swift 5.7 - 5.9, iOS 15 - 17 and macOS 12 - 14
+- [russell-archer/StoreHelper](https://github.com/russell-archer/StoreHelper) - Implementing In-App Purchases with StoreKit2 in Xcode 13 - 15 using SwiftUI, Swift 5.7 - 5.9, iOS 15 - 17 and macOS 12 - 14. Also supports tvOS and visionOS.
 - [JerryFans/JFPopup](https://github.com/JerryFans/JFPopup) - A Swift Popup Module help you popup your custom view easily. Support three way to popup, Drawer, Dialog and BottomSheet.
 - [JerryFans/JFHeroBrowser](https://github.com/JerryFans/JFHeroBrowser) - A simplest & base on protocol & swifty way to browse photo or video with hero animation.
 - [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
@@ -1204,7 +1228,7 @@
 - [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) - redis-pro redis 桌面管理工具
 - [ivanvorobei/SwiftUI](https://github.com/ivanvorobei/SwiftUI) - Examples projects using SwiftUI released by WWDC2019. Include Layout, UI, Animations, Gestures, Draw and Data.
-- [ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用
+- [ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + SwiftData + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [Andy0570/RoadToSwift](https://github.com/Andy0570/RoadToSwift) - My Swift self-study tour 🤪
 - [wxxsw/SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat) - 🇨🇳 Learn how to make WeChat with SwiftUI. 微信 7.0 🟢
@@ -1223,6 +1247,8 @@
 
 ## TypeScript 
 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
@@ -1231,7 +1257,7 @@
 - [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
-- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software
+- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Input, screenshot, picture, word selection, replacement, text recognition, AI, translation software || 输入、截图、图片、划词、替换、文字识别、AI、翻译软件
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
@@ -1278,6 +1304,8 @@
 
 ## Vue 
 
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more! || 🇨🇳 可能是最好用的
+- [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia + Vite5 仿抖音，完全度90% .  Imitate TikTok with 90% completeness
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
