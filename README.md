@@ -57,7 +57,7 @@
 - [web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
 - [Thehepta/HideApk](https://github.com/Thehepta/HideApk) - 
 - [MuggleWei/haclog](https://github.com/MuggleWei/haclog) - Haclog(Happy Aync C log) is an extremely fast plain C logging library
-- [Thehepta/RXPosed](https://github.com/Thehepta/RXPosed) - 
+- [Thehepta/rxposed](https://github.com/Thehepta/rxposed) - 
 - [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [WearCode/magiskboot_build](https://github.com/WearCode/magiskboot_build) - unofficial magiskboot build system (and port) targeting multi-platform (does not require NDK)
 - [DragonQuestHero/Medusa](https://github.com/DragonQuestHero/Medusa) - Radical Windows ARK
@@ -343,6 +343,8 @@
 
 ## Go 
 
+- [bytedance/netcap](https://github.com/bytedance/netcap) - 
+- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -399,7 +401,6 @@
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
@@ -636,7 +637,7 @@
 
 ## JavaScript 
 
-- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
+- [morytyann/OpenWrt-mihomo](https://github.com/morytyann/OpenWrt-mihomo) - A project contains mihomo packages for OpenWrt.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [ZJ595/AndroidReverse](https://github.com/ZJ595/AndroidReverse) - 《安卓逆向这档事》
 - [okhanyu/minichat](https://github.com/okhanyu/minichat) - Minichat，Go语言实现的极简、极轻、无痕、匿名的聊天工具。
@@ -747,6 +748,7 @@
 
 ## Jupyter Notebook 
 
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [mildsunrise/darter](https://github.com/mildsunrise/darter) - :detective: Dart / Flutter VM snapshot analyzer
 - [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 
@@ -772,7 +774,6 @@
 - [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 - [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon) - Fix the native notification bar icon function abandoned by the MIUI development team.
-- [sya-ri/KGit](https://github.com/sya-ri/KGit) - Kotlin Wrapper Library of JGit
 - [zj565061763/xlog](https://github.com/zj565061763/xlog) - 
 - [Kamel-Media/Kamel](https://github.com/Kamel-Media/Kamel) - Kotlin asynchronous media loading and caching library for Compose.
 - [square/wire](https://github.com/square/wire) - gRPC and protocol buffers for Android, Kotlin, Swift and Java.
@@ -978,6 +979,7 @@
 
 ## Python 
 
+- [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - NEW - YOLOv8 🚀 in PyTorch &gt; ONNX &gt; OpenVINO &gt; CoreML &gt; TFLite
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
@@ -1122,6 +1124,7 @@
 
 ## Rust 
 
+- [AkinoKaede/asport](https://github.com/AkinoKaede/asport) - A quick and secure reverse proxy based on QUIC for NAT traversal.
 - [YCCDSZXH/proxy-checker-rs](https://github.com/YCCDSZXH/proxy-checker-rs) - 
 - [erfur/linjector-rs](https://github.com/erfur/linjector-rs) - Code injection on Android without ptrace
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -1325,12 +1328,11 @@
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve links (and files).
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
-- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative
 - [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
@@ -1341,7 +1343,6 @@
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [openai-translator/bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - 使用 OpenAI API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！Licensed under CC BY-NC-SA 4.0
 - [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 - [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 - [chenxch/xlegex](https://github.com/chenxch/xlegex) - Match 3 type game template. 简化版羊了个羊游戏模板
