@@ -514,6 +514,7 @@
 
 ## Java 
 
+- [iofomo/aseeker](https://github.com/iofomo/aseeker) - An AIDL interface scanning tool for Android source code.
 - [eirv/ElfLoader](https://github.com/eirv/ElfLoader) - Loading ELF in android using pure java / 使用纯 java 在 android 上加载 ELF
 - [cinit/LibcoreSyscall](https://github.com/cinit/LibcoreSyscall) - A library for making Linux syscalls on Android written in pure Java.
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
@@ -1233,7 +1234,6 @@
 
 ## SCSS 
 
-- [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一个可爱而现代的 Hexo 主题
 - [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
 
 ## SQL 
