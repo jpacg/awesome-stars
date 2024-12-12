@@ -49,7 +49,7 @@
 - [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [iofomo/abyss](https://github.com/iofomo/abyss) - Android system call hook
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line.
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, analyze requests/responses in command line.
 - [muchenspace/jniRootImgui](https://github.com/muchenspace/jniRootImgui) - 
 - [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
 - [BossKoopa/BWSR](https://github.com/BossKoopa/BWSR) - Arm64 inline hooking for iOS, Android, OSX, and Linux.
@@ -69,7 +69,7 @@
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A high-performance tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
+- [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
 - [Netatalk/netatalk](https://github.com/Netatalk/netatalk) - Netatalk is a Free and Open Source AFP fileserver. A *NIX or BSD system running Netatalk is capable of serving many Macintosh clients simultaneously as an AppleShare file server.
 - [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
 - [lzhiyong/termux-ndk](https://github.com/lzhiyong/termux-ndk) - android-ndk for termux
@@ -120,7 +120,6 @@
 - [luck-apple/aesTool](https://github.com/luck-apple/aesTool) - Android NDK AES
 - [dhuertas/DES](https://github.com/dhuertas/DES) - DES algorithm implementation in C
 - [dhuertas/AES](https://github.com/dhuertas/AES) - AES algorithm implementation in C
-- [acidanthera/IntelMausi](https://github.com/acidanthera/IntelMausi) - Intel Ethernet LAN driver for macOS
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [fw876/helloworld](https://github.com/fw876/helloworld) - 
 - [microsoft/ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - A Linux version of the Procmon Sysinternals tool
@@ -199,6 +198,8 @@
 
 ## C++ 
 
+- [richgel999/miniz](https://github.com/richgel999/miniz) - miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [5ec1cff/MagicMountStandalone](https://github.com/5ec1cff/MagicMountStandalone) - 
 - [google/quiche](https://github.com/google/quiche) - 
@@ -304,7 +305,6 @@
 
 ## CSS 
 
-- [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -394,7 +394,7 @@
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [huhu/go-search-extension](https://github.com/huhu/go-search-extension) - The ultimate search extension for Golang
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administratio
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -406,7 +406,7 @@
 - [jschwinger233/go-spy](https://github.com/jschwinger233/go-spy) - 
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [csznet/goForward](https://github.com/csznet/goForward) - 使用golang实现的tcp udp端口转发，支持流量统计、web管理、规则热加载
-- [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly golang package for time.
+- [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly  time  package for golang
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
@@ -508,6 +508,7 @@
 - [miaoermua/CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [trans-archive/jyosei-guide](https://github.com/trans-archive/jyosei-guide) - 成为女孩子的声音！结合了插画、音频和基础训练手段的伪声训练
+- [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [eddycjy/go-design-book](https://github.com/eddycjy/go-design-book) - 《Go 语言设计哲学》
@@ -519,9 +520,9 @@
 
 - [iofomo/aseeker](https://github.com/iofomo/aseeker) - An AIDL interface scanning tool for Android source code.
 - [eirv/ElfLoader](https://github.com/eirv/ElfLoader) - Loading ELF in android using pure java / 使用纯 java 在 android 上加载 ELF
-- [cinit/LibcoreSyscall](https://github.com/cinit/LibcoreSyscall) - A library for making Linux syscalls on Android written in pure Java.
+- [cinit/LibcoreSyscall](https://github.com/cinit/LibcoreSyscall) - A library for loading ELF from memory and/or making Linux syscalls on Android written in pure Java.
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-- [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - LSPosed Framework
+- [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 - [yangchong211/YCAndroidTool](https://github.com/yangchong211/YCAndroidTool) - 用于项目测试，崩溃重启操作，崩溃记录日志【可以查看，分享】和重启【多种重启app方式】；网路拦截查看的工具小助手，拦截请求和响应数据，统计接口请求次数，流量消耗，以及统计网络链接/dns解析/request请求/respond响应等时间。提高开发效率……
 - [eclipse-jgit/jgit](https://github.com/eclipse-jgit/jgit) - JGit, the Java implementation of git
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
@@ -1021,6 +1022,10 @@
 
 ## Python 
 
+- [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -1036,7 +1041,7 @@
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [2ri4eUI/CFW-BOT](https://github.com/2ri4eUI/CFW-BOT) - Cloudflare Woker Bot ! No servers needed, just pure Xray link creation, all running smoothly on PythonAnywhere. a Shortcut to internet freedom! ✨"
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
-- [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK等平台直播录制
+- [ihmily/DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK、shopee等40+平台直播录制
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox Protobuf is a set of tools for working with encoded Protocol Buffers (protobuf) without the matching protobuf definition.
 - [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
@@ -1056,7 +1061,7 @@
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [obpo-project/obpo-plugin](https://github.com/obpo-project/obpo-plugin) - An OLLVM-CFF Deobfuscation Plugin
 - [ppwwyyxx/wechat-dump](https://github.com/ppwwyyxx/wechat-dump) - Cracking encrypted wechat message history from android
-- [firerpa/lamda](https://github.com/firerpa/lamda) - ⚡️ 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证 ALL-IN-ONE，安卓 RPA 机器人框架，下一代移动端数据自动化机器人。
+- [firerpa/lamda](https://github.com/firerpa/lamda) - 🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [Try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
@@ -1073,7 +1078,6 @@
 - [mildsunrise/protobuf-inspector](https://github.com/mildsunrise/protobuf-inspector) - 🕵️ Tool to reverse-engineer Protocol Buffers with unknown definition
 - [danijar/dreamerv2](https://github.com/danijar/dreamerv2) - Mastering Atari with Discrete World Models
 - [hluwa/Wallbreaker](https://github.com/hluwa/Wallbreaker) - 🔨 Break Java Reverse Engineering form Memory World!
-- [google/python-adb](https://github.com/google/python-adb) - Python ADB + Fastboot implementation
 - [pyusb/pyusb](https://github.com/pyusb/pyusb) - Easy USB access for Python
 - [r0ysue/r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
@@ -1239,7 +1243,7 @@
 
 ## SCSS 
 
-- [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
+- [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme, perfect for ACG lovers.
 
 ## SQL 
 
@@ -1265,7 +1269,7 @@
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
 - [Magisk-Modules-Repo/movecert](https://github.com/Magisk-Modules-Repo/movecert) - movecert
 - [tiann/adb_root](https://github.com/tiann/adb_root) - 
-- [feicong/ebpf-course](https://github.com/feicong/ebpf-course) - 
+- [feicong/ebpf-course](https://github.com/feicong/ebpf-course) - eBPF安全开发、安卓系统与内核定制、Frida源码分析与对抗、沙箱开发等课程
 - [ChisBread/malior](https://github.com/ChisBread/malior) - malior is the game container of arm
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [7Ji/amlogic-s9xxx-archlinuxarm](https://github.com/7Ji/amlogic-s9xxx-archlinuxarm) - ArchLinux ARM for Amlogic s9xxx tv box.
@@ -1296,6 +1300,7 @@
 
 ## Swift 
 
+- [TBXark/rmtrash](https://github.com/TBXark/rmtrash) - rmtrash is a small utility that will move the file to macOS's Trash rather than obliterating the file (as rm does).
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
@@ -1446,7 +1451,7 @@
 
 ## Vue 
 
-- [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量导出微信公众号文章，支持阅读量、评论数据的导出，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
+- [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量下载微信公众号文章，支持阅读量、评论、内嵌音视频，无需搭建任何环境，可100%还原文章样式，支持私有部署
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
