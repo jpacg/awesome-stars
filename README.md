@@ -44,6 +44,7 @@
 
 ## C 
 
+- [wuyr/agent-injector-for-android](https://github.com/wuyr/agent-injector-for-android) - 基于JVMTI实现的Android端动态代码注入工具
 - [SoyBeanMilkx/IO_Redirect](https://github.com/SoyBeanMilkx/IO_Redirect) - apatch内核模块 用于文件重定向
 - [Asphaltt/tcpw](https://github.com/Asphaltt/tcpw) - tcpw: An eBPF enhanced tool to capture tcp tuple info of curl,telnet,socat tools. License Apache 2.0
 - [Moe-hacker/ruri](https://github.com/Moe-hacker/ruri) - Linux container, with zero runtime dependency (Lightweight User-friendly Linux-container Implementation)
@@ -199,6 +200,7 @@
 
 ## C++ 
 
+- [feicong/rom-course](https://github.com/feicong/rom-course) - 安卓系统定制入门图书
 - [richgel999/miniz](https://github.com/richgel999/miniz) - miniz: Single C source file zlib-replacement library, originally from code.google.com/p/miniz
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
@@ -346,7 +348,6 @@
 
 ## Dockerfile 
 
-- [11notes/docker-kms](https://github.com/11notes/docker-kms) - Activate any version of Windows and Office, forever
 - [naruhito/ubuntu-xrdp](https://github.com/naruhito/ubuntu-xrdp) - Ubuntu 22.04 desktop with xrdp on docker
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
@@ -375,7 +376,7 @@
 - [bytedance/netcap](https://github.com/bytedance/netcap) - 
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory database with query subscriptions.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source in-memory reactive database with query subscriptions.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [hr3lxphr6j/bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具
 - [iimeta/fastapi](https://github.com/iimeta/fastapi) - 企业级 LLM API 快速集成系统，支持OpenAI、Azure、文心一言、讯飞星火、通义千问、智谱GLM、Gemini、DeepSeek、Anthropic Claude以及OpenAI格式的模型等，简洁的页面风格，轻量高效且稳定，支持Docker一键部署。
@@ -402,7 +403,7 @@
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [huhu/go-search-extension](https://github.com/huhu/go-search-extension) - The ultimate search extension for Golang
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administratio
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 - [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -554,7 +555,7 @@
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 - [mywalkb/LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
 - [Katana-Official/XYNXposed](https://github.com/Katana-Official/XYNXposed) - XYN Xposed - The future from now on
-- [dromara/hutool](https://github.com/dromara/hutool) - 🍬A set of tools that keep Java sweet.
+- [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 - [WindySha/Poros](https://github.com/WindySha/Poros) - This is a dynamic instrumentation tool that can inject xposed module into any appliation on rooted Android devices.
 - [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 15
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
@@ -690,6 +691,7 @@
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
 - [Hosinoharu/SkipJSDebugger](https://github.com/Hosinoharu/SkipJSDebugger) - An experimental tool that can skip JavaScript debugger statement in Edge and Chrome, and have a self-defined debugger.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [ZJ595/AndroidReverse](https://github.com/ZJ595/AndroidReverse) - 《安卓逆向这档事》
 - [byebyehair/minichat](https://github.com/byebyehair/minichat) - Minichat，Go语言实现的极简、极轻、无痕、匿名的聊天工具。
@@ -804,6 +806,11 @@
 
 ## Kotlin 
 
+- [wuyr/jdwp-injector-for-android](https://github.com/wuyr/jdwp-injector-for-android) - 借助adb协议+jdwp协议在Android端实现基于debugger的代码注入工具
+- [HdShare/WAuxiliary_Public](https://github.com/HdShare/WAuxiliary_Public) - WAuxiliary 核心功能 hook 源码
+- [fumiama/copymanga](https://github.com/fumiama/copymanga) - 拷贝漫画的第三方APP，优化阅读/下载体验
+- [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit) - An easy-to-use, high-performance dex deobfuscation library.
+- [BetterAndroid/Hikage](https://github.com/BetterAndroid/Hikage) - An Android responsive UI building tool.
 - [psuzn/multiplatform-paths](https://github.com/psuzn/multiplatform-paths) - Platform specific application home and cache directories for KMP
 - [BetterAndroid/PanguText](https://github.com/BetterAndroid/PanguText) - A typographic solution for the optimal alignment of CJK characters, English words, and half-width digits.
 - [BetterAndroid/BetterAndroid](https://github.com/BetterAndroid/BetterAndroid) - 🛠️ Create more useful tool extensions for Android.
@@ -1052,8 +1059,10 @@
 
 ## Python 
 
+- [foundryzero/binder-trace](https://github.com/foundryzero/binder-trace) - Binder Trace is a tool for intercepting and parsing Android Binder messages. Think of it as "Wireshark for Binder".
 - [ColdWindScholar/TIK](https://github.com/ColdWindScholar/TIK) - 开源的安卓全版本ROM处理工具
 - [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Wh
+- [11notes/docker-kms](https://github.com/11notes/docker-kms) - Activate any version of Windows and Office, forever
 - [pyinstxtractor/pyinstxtractor-ng](https://github.com/pyinstxtractor/pyinstxtractor-ng) - PyInstaller Extractor Next Generation
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 - [timerring/bilive](https://github.com/timerring/bilive) - 极快的B站直播录制、自动切片、自动渲染弹幕以及字幕并投稿至B站，兼容超低配置机器。
@@ -1101,7 +1110,7 @@
 - [obpo-project/obpo-plugin](https://github.com/obpo-project/obpo-plugin) - An OLLVM-CFF Deobfuscation Plugin
 - [ppwwyyxx/wechat-dump](https://github.com/ppwwyyxx/wechat-dump) - Cracking encrypted wechat message history from android
 - [firerpa/lamda](https://github.com/firerpa/lamda) - 🤖 史上最强云手机远程桌面逆向抓包HOOK自动化取证能力集一体的安卓 RPA 框架，下一代移动数据自动化机器人。
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [permasigner/permasigner](https://github.com/permasigner/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
@@ -1212,6 +1221,7 @@
 
 ## Rust 
 
+- [ShellWen/v8_killer](https://github.com/ShellWen/v8_killer) - A powerful and highly customizable universal V8 virtual machine injector.
 - [ohchase/yaui](https://github.com/ohchase/yaui) - Yet Another Unix Injector with support for Android/Android Emulator i686/x64/arm/aarch64
 - [ofek/pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -1299,7 +1309,6 @@
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please l
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
 - [lobaro/restic-backup-docker](https://github.com/lobaro/restic-backup-docker) - A docker container to automate backups with restic
@@ -1429,6 +1438,7 @@
 
 ## TypeScript 
 
+- [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [chclt/oh-my-wechat](https://github.com/chclt/oh-my-wechat) - 微信备份与数据报告
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -1441,7 +1451,7 @@
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）v2.x
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu.com
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
