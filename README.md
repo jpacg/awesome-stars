@@ -402,6 +402,7 @@
 
 ## Go 
 
+- [Zesuy/UA3F-tproxy](https://github.com/Zesuy/UA3F-tproxy) - 这是ua3f的tproxy透明代理版本，使用防火墙转发，无需clash,对低性能设备更加友好。
 - [mochi-mqtt/server](https://github.com/mochi-mqtt/server) - The fully compliant, embeddable high-performance Go MQTT v5 server for IoT, smarthome, and pubsub
 - [liweiyi88/onedump](https://github.com/liweiyi88/onedump) - Effortless database administration tool
 - [up-zero/my-proxy](https://github.com/up-zero/my-proxy) - 局域网代理工具，支持 TCP、UDP、HTTP 等协议的代理转发，适用于绝大多数网络环境。提供了命令行、WebUI 两种配置代理的方法，极大地简化了代理配置的步骤。
@@ -414,7 +415,6 @@
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [Dasongzi1366/AutoGo](https://github.com/Dasongzi1366/AutoGo) - 一个使用 Golang 构建的 Android 自动化测试框架，旨在高效且灵活地与 Android 设备进行交互。它支持 UI 自动化、系统交互以及自定义自动化任务。
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [WillzenZou/myt-edgeclient](https://github.com/WillzenZou/myt-edgeclient) - MYT魔云腾开源客户端ARM边缘计算盒子
 - [HanHai-Space/FlowSilicon](https://github.com/HanHai-Space/FlowSilicon) - FlowSilicon 是一个专为硅基流动 API 设计的代理服务，提供全面的 API 密钥管理、智能负载均衡、请求转发和实时监控功能。
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -466,7 +466,7 @@
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [pion/stun](https://github.com/pion/stun) - A Go implementation of STUN
 - [LeslieLeung/reaper](https://github.com/LeslieLeung/reaper) - REpository ArchivER(REAPER) is a tool to archive repositories from any Git servers.
@@ -894,6 +894,7 @@
 
 ## Kotlin 
 
+- [VegaBobo/DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [Joker-x-dev/CoolMallKotlin](https://github.com/Joker-x-dev/CoolMallKotlin) - 基于 Kotlin 与 Jetpack Compose 打造的电商项目，运用 MVVM 架构和模块化设计，遵循 Google 最佳实践，为 Android 开发者提供现代开发参考。
 - [wukuiqing49/LocationKit](https://github.com/wukuiqing49/LocationKit) - 定位工具类
@@ -1090,7 +1091,6 @@
 
 ## Objective-C 
 
-- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [gitx/gitx](https://github.com/gitx/gitx) - The best fork of the best lightweight, visual git client for macOS.
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
@@ -1114,6 +1114,7 @@
 - [pperez39/google-keys](https://github.com/pperez39/google-keys) - 
 - [getActivity/AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) - Android 版本适配全套指南
 - [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
+- [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 - [jiqiu2022/vm-trace-release](https://github.com/jiqiu2022/vm-trace-release) - vmtrace的发布仓库，相关so 调用脚本例子都会放在里面
 - [BetterAndroid/FlexiUI](https://github.com/BetterAndroid/FlexiUI) - A flexible and useful UI component library.
@@ -1131,6 +1132,7 @@
 - [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
 - [limbopro/Paolujichang](https://github.com/limbopro/Paolujichang) - 科学上网🕸️之跑路机场名单收集（2020-2025），欢迎投稿。Ad🔗🈲🙅❌
 - [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录导出归档的 大 项目.
+- [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [eddycjy/go-developer-roadmap](https://github.com/eddycjy/go-developer-roadmap) - 【Go 学习路线图】涵盖业内 Go 面试题和所需要掌握的 Go 核心知识大全
 - [Ylarod/Florida](https://github.com/Ylarod/Florida) - 基础反检测 frida-server / Basic anti-detection frida-server
@@ -1215,7 +1217,7 @@
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
-- [chenwei-zhao/captcha-recognizer](https://github.com/chenwei-zhao/captcha-recognizer) - 单缺口/多缺口滑块验证码识别，pip安装使用, 可本地/服务器部署API，下方链接在线体验 ⬇⬇⬇
+- [chenwei-zhao/captcha-recognizer](https://github.com/chenwei-zhao/captcha-recognizer) - 单缺口/多缺口滑块验证码识别，pip安装使用, 可本地/服务器部署API，点击下方链接在线体验 ⬇⬇⬇
 - [Tokeii0/LovelyMem](https://github.com/Tokeii0/LovelyMem) - 基于Memprocfs和Volatility的可视化内存取证工具
 - [foundryzero/binder-trace](https://github.com/foundryzero/binder-trace) - Binder Trace is a tool for intercepting and parsing Android Binder messages. Think of it as "Wireshark for Binder".
 - [ColdWindScholar/TIK](https://github.com/ColdWindScholar/TIK) - 开源的安卓全版本ROM处理工具
@@ -1248,7 +1250,6 @@
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox Protobuf is a set of tools for working with encoded Protocol Buffers (protobuf) without the matching protobuf definition.
-- [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
 - [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A cross-version Python bytecode decompiler
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
@@ -1376,6 +1377,7 @@
 
 ## Rust 
 
+- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
 - [Mrack/TinyDump](https://github.com/Mrack/TinyDump) - Android native SO and DEX dumper.
 - [fuqiuluo/rnidbg](https://github.com/fuqiuluo/rnidbg) - An Android-ARM64 kernel emulator written in Rust. (Rewrite from unidbg)
@@ -1547,6 +1549,7 @@
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
+- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp) - Automated iOS Backup Robot
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
@@ -1612,6 +1615,8 @@
 
 ## TypeScript 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+- [kottster/kottster](https://github.com/kottster/kottster) - Instant Node.js admin panel. Secure, self-hosted, and easy to set up
 - [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress) - NeuraPress
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
@@ -1669,7 +1674,7 @@
 - [oleavr/frida-agent-example](https://github.com/oleavr/frida-agent-example) - Example Frida agent written in TypeScript
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [nowsecure/frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
