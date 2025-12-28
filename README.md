@@ -31,7 +31,6 @@
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -222,6 +221,7 @@
 
 ## C++ 
 
+- [eirv/LSPlant](https://github.com/eirv/LSPlant) - A hook framework for Android Runtime (ART)
 - [facebook/redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 - [ByNameModding/BNM-Android](https://github.com/ByNameModding/BNM-Android) - Modding il2cpp games by classes, methods, fields names on Android.
 - [NiTianErXing666/SmallVmp](https://github.com/NiTianErXing666/SmallVmp) - 简单的基于llvm实现vmp保护
@@ -254,7 +254,7 @@
 - [Mrack/TInjector](https://github.com/Mrack/TInjector) - 劫持Zygote在App启动前注入so
 - [google/boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
 - [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
-- [stephenberry/glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and reflection library for modern C++
+- [stephenberry/glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and reflection library for modern C++. BEVE, CBOR, CSV, MessagePack, TOML, EETF
 - [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
 - [ngiokweng/ng1ok-linker](https://github.com/ngiokweng/ng1ok-linker) - 自實現Linker的小Demo
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
@@ -381,7 +381,7 @@
 - [vi-k/bubble](https://github.com/vi-k/bubble) - Speech bubble for Flutter
 - [ionicfirebaseapp/getwidget](https://github.com/ionicfirebaseapp/getwidget) - Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-- [iota9star/mikan_flutter](https://github.com/iota9star/mikan_flutter) - Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP，🚧 开发中...
+- [iota9star/mikan_flutter](https://github.com/iota9star/mikan_flutter) - 蜜柑计划（ https://mikanani.me ），🚧 持续开发中...
 - [xiaoyaocz/flutter_dmzj](https://github.com/xiaoyaocz/flutter_dmzj) - 动漫之家第三方Flutter客户端
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -403,6 +403,7 @@
 
 ## Go 
 
+- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser.
 - [runxiyu/furgit](https://github.com/runxiyu/furgit) - Fast Git library in pure Go
 - [Zesuy/UA-Mask](https://github.com/Zesuy/UA-Mask) - 一个高性能、低占用的 UA 修改透明代理。致力于打造更好的体验
 - [mochi-mqtt/server](https://github.com/mochi-mqtt/server) - The fully compliant, embeddable high-performance Go MQTT v5 server for IoT, smarthome, and pubsub
@@ -468,7 +469,6 @@
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [pion/stun](https://github.com/pion/stun) - A Go implementation of STUN
 - [LeslieLeung/reaper](https://github.com/LeslieLeung/reaper) - REpository ArchivER(REAPER) is a tool to archive repositories from any Git servers.
@@ -585,7 +585,6 @@
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [trans-archive/jyosei-guide](https://github.com/trans-archive/jyosei-guide) - 成为女孩子的声音！结合了插画、音频和基础训练手段的伪声训练
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [eddycjy/go-design-book](https://github.com/eddycjy/go-design-book) - 《Go 语言设计哲学》
 - [helloflask/flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask 入门教程 / Flask for Beginners
 - [square/retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
@@ -604,7 +603,6 @@
 - [imxiaoc996/DeviceWarLock](https://github.com/imxiaoc996/DeviceWarLock) - 这是一个Android Project，具备设备指纹采集，设备安全检测的能力
 - [kohlschutter/junixsocket](https://github.com/kohlschutter/junixsocket) - Unix Domain Sockets for all Java versions 7 and newer (AF_UNIX), AF_TIPC, AF_VSOCK, and more
 - [iamr0s/AndroidAppProcess](https://github.com/iamr0s/AndroidAppProcess) - Run Android app_process just like Android Service.
-- [Fansirsqi/Sesame-TK](https://github.com/Fansirsqi/Sesame-TK) - 芝你麻咸鱼的粒-TK
 - [loerting/dalvikus](https://github.com/loerting/dalvikus) - Android reverse-engineering tool / smali editor
 - [JakeWharton/ProcessPhoenix](https://github.com/JakeWharton/ProcessPhoenix) - Process Phoenix facilitates restarting your application process.
 - [getActivity/EasyWindow](https://github.com/getActivity/EasyWindow) - Android 悬浮窗框架，好用不解释
@@ -646,7 +644,7 @@
 - [eclipse-jgit/jgit](https://github.com/eclipse-jgit/jgit) - JGit, the Java implementation of git
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [ben-manes/caffeine](https://github.com/ben-manes/caffeine) - A high performance caching library for Java
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [iofomo/fireyer](https://github.com/iofomo/fireyer) - An application for detecting the runtime environment on the Android platform.
 - [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
 - [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
@@ -779,6 +777,8 @@
 
 ## JavaScript 
 
+- [frankiejun/wxpush](https://github.com/frankiejun/wxpush) - 一个极简且免费的微信消息推送服务
+- [ZeroDeng01/sublinkPro](https://github.com/ZeroDeng01/sublinkPro) - ✨ 现代化代理订阅管理平台 | 🏷️智能标签自动分类 ⚡专业测速 🔗链式代理中转 ✈️机场流量监控 🤖TG远程管理 📜JS脚本扩展 | Go+React 全新UI，移动端友好！
 - [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [yan5xu/ququ](https://github.com/yan5xu/ququ) - 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
@@ -811,6 +811,7 @@
 - [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free & Unlimited Image Hosting
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [SwiftGGTeam/swiftgg-trans-plugin](https://github.com/SwiftGGTeam/swiftgg-trans-plugin) - Twine by SwiftGG is a browser extension that simplifies learning and understanding Apple's official documentation. It offers bilingual translation of English content in Apple's documentation using com
 - [techfort/LokiJS](https://github.com/techfort/LokiJS) - javascript embeddable / in-memory database
@@ -899,6 +900,11 @@
 
 ## Kotlin 
 
+- [Guang233/CloudX](https://github.com/Guang233/CloudX) - 一个第三方安卓端网易云音乐下载软件
+- [HuSuuuu/HusxGLM](https://github.com/HuSuuuu/HusxGLM) - An Android GUI Agent powered by Volcano Engine's vision LLM - automate phone operations with natural language commands
+- [limuyang2/okcronet](https://github.com/limuyang2/okcronet) - 🚀 A network request library similar to OKHTTP, implemented using Cronet(Http3/QUIC)
+- [Turbo1123/roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
+- [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) - 第三方B站客户端，BiliBili KanPai "( ゜- ゜)つロ 干杯~"）!
 - [jenly1314/LogX](https://github.com/jenly1314/LogX) - :triangular_flag_on_post: LogX 一个轻量而强大的日志框架；好用不解释。
 - [jenly1314/AppUpdater](https://github.com/jenly1314/AppUpdater) - 🚀 AppUpdater一个专注于App更新，一键傻瓜式集成App版本升级的轻量开源库。(集成步骤超简单)
 - [Nitsuya/DoNotTryAccessibility](https://github.com/Nitsuya/DoNotTryAccessibility) - Hook System Framework 让应用认为没有开启无障碍服务
@@ -913,6 +919,7 @@
 - [wukuiqing49/LocationKit](https://github.com/wukuiqing49/LocationKit) - 定位工具类
 - [michaelbull/kotlin-retry](https://github.com/michaelbull/kotlin-retry) - A multiplatform higher-order function for retrying operations that may fail.
 - [KitsunePie/AppErrorsTracking](https://github.com/KitsunePie/AppErrorsTracking) - Added more features to app's crash dialog, fixed custom rom deleted dialog, the best experience to Android developer.
+- [Fansirsqi/Sesame-TK](https://github.com/Fansirsqi/Sesame-TK) - 芝你麻咸鱼的粒-TK
 - [wgllss/WX-Download](https://github.com/wgllss/WX-Download) - 基于 Kotlin 协程 compose Flow Channel 多文件，多任务同时下载，支持断点续传, 支持队列等待下载，支持暂停
 - [wgllss/WXDynamicPlugin](https://github.com/wgllss/WXDynamicPlugin) - 自研零反射，零HooK,全动态化，插件化框架，全网唯一结合启动优化的插件化架构，适合小，中，大型项目均可的插件化架构
 - [Syer10/Kotlin-Multiplatform-AppDirs](https://github.com/Syer10/Kotlin-Multiplatform-AppDirs) - Kotlin Multiplatform AppDirs is a small library which provides a path to the platform dependent special folder/directory.
@@ -995,7 +1002,7 @@
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [leavesCZY/compose-multiplatform-tetris](https://github.com/leavesCZY/compose-multiplatform-tetris) - compose multiplatform 实现一个 Android + windows + macOS + linux 俄罗斯方块
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
 - [HappyMax0/FCMPushViewer](https://github.com/HappyMax0/FCMPushViewer) - 此APP可以查看用户安装的应用及系统应用中，哪些应用支持谷歌FCM推送，并且可以调出FCM系统日志页面，可以查看FCM连接状态及应用推送记录。
 - [GangJust/ktutils](https://github.com/GangJust/ktutils) - Kotlin Android工具类库
@@ -1101,7 +1108,6 @@
 
 - [gitx/gitx](https://github.com/gitx/gitx) - The best fork of the best lightweight, visual git client for macOS.
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
-- [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 - [nygard/class-dump](https://github.com/nygard/class-dump) - Generate Objective-C headers from Mach-O files.
 - [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
@@ -1118,7 +1124,7 @@
 ## Others 
 
 - [MlgmXyysd/android-bootloader-kernel-source](https://github.com/MlgmXyysd/android-bootloader-kernel-source) - 各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况
-- [dartcv/NewMiko](https://github.com/dartcv/NewMiko) - 一个基于LSPosed的QQ/TIM/微信模块
+- [dartcv/NewMiko](https://github.com/dartcv/NewMiko) - 一个基于LSPosed的微信模块
 - [pperez39/google-keys](https://github.com/pperez39/google-keys) - 
 - [getActivity/AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) - Android 版本适配全套指南
 - [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
@@ -1157,6 +1163,7 @@
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 - [virjar/aosp-env](https://github.com/virjar/aosp-env) - 快速搭建aosp（Android源码）的开发环境
 - [onmyway133/awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) - :japanese_castle: Better ways to structure iOS apps
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [monyhar/monyhar](https://github.com/monyhar/monyhar) - 梦弘浏览器 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。
@@ -1216,6 +1223,8 @@
 
 ## Python 
 
+- [betterproto/python-betterproto2](https://github.com/betterproto/python-betterproto2) - 
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [karanhudia/borg-ui](https://github.com/karanhudia/borg-ui) - Replace complex Borg Backup terminal commands with a beautiful web UI. Create, schedule, and   restore backups with just a few clicks.
 - [frankheat/frida-jdwp-loader](https://github.com/frankheat/frida-jdwp-loader) - A Python script that dynamically attaches Frida to any debuggable Android process over JDWP, enabling runtime instrumentation without root access or APK repackaging
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
@@ -1376,10 +1385,6 @@
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 
-## Roff 
-
-- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
-
 ## Ruby 
 
 - [david942j/seccomp-tools](https://github.com/david942j/seccomp-tools) - Provide powerful tools for seccomp analysis
@@ -1387,6 +1392,9 @@
 
 ## Rust 
 
+- [songpengfei1111-dot/large-text-viewer](https://github.com/songpengfei1111-dot/large-text-viewer) - Large text file viewer to handle &gt; 10GB text file reading, purely written in Rust
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [Ylarod/runzip](https://github.com/Ylarod/runzip) - Rust Remote UnZip Tool
 - [ri-char/zygisk-dump-dex](https://github.com/ri-char/zygisk-dump-dex) - A zygisk module that hooks `libdexfile.so` to dump dex
 - [gojue/ecaptureQ](https://github.com/gojue/ecaptureQ) - A cross-platform GUI for ecapture built with Tauri, enabling eBPF-based, non-intrusive TLS inspection on Linux & Android, with remote clients for Windows, macOS, and Linux.
@@ -1482,6 +1490,8 @@
 
 ## Shell 
 
+- [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
+- [Fanju6/NetProxy-Magisk](https://github.com/Fanju6/NetProxy-Magisk) - 基于 Xray 内核的 Android 代理模块，支持一键启动/停止透明代理，适用于 Android 设备。
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [buyi06/-Linux-](https://github.com/buyi06/-Linux-) - 🔥 一键优化 Linux 网络性能与系统稳定性（sysctl + IRQ + Offload + 自检修复）安全、通用、持久。
 - [mrh929/magisk-wifiadb](https://github.com/mrh929/magisk-wifiadb) - A magisk module to enable WiFi ADB automatically.
@@ -1512,6 +1522,7 @@
 - [ChisBread/malior](https://github.com/ChisBread/malior) - malior is the game container of arm
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [7Ji/amlogic-s9xxx-archlinuxarm](https://github.com/7Ji/amlogic-s9xxx-archlinuxarm) - ArchLinux ARM for Amlogic s9xxx tv box.
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [osm0sis/AnyKernel3](https://github.com/osm0sis/AnyKernel3) - AnyKernel, Evolved
 - [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
 - [newbit1/rootAVD](https://github.com/newbit1/rootAVD) - Script to root AVDs running with QEMU Emulator from Android Studio
@@ -1547,6 +1558,8 @@
 
 ## Swift 
 
+- [FuzzyIdeas/StartupFolder](https://github.com/FuzzyIdeas/StartupFolder) - Run anything at startup by placing it in a special folder
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS app for finding and killing processes on open ports. Perfect for developers.
 - [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext) - Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free.
 - [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [Lakr233/FlowDown](https://github.com/Lakr233/FlowDown) - https://flowdown.ai/
@@ -1570,12 +1583,13 @@
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp) - Automated iOS Backup Robot
-- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+- [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [damus-io/damus](https://github.com/damus-io/damus) - iOS nostr client
 - [37MobileTeam/iChatGPT](https://github.com/37MobileTeam/iChatGPT) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [HDCodePractice/OneTapSwiftUI](https://github.com/HDCodePractice/OneTapSwiftUI) - SwiftUI一点通
 - [vincent-pradeilles/KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit is a library that provides the standard functions to manipulate data along with a call-syntax that relies on typed keypaths to make the call sites as short and clean as possible.
 - [tuist/XcodeProj](https://github.com/tuist/XcodeProj) - 📝 Read, update and write your Xcode projects
@@ -1595,7 +1609,7 @@
 - [fatbobman/NavigationViewKit](https://github.com/fatbobman/NavigationViewKit) - NavigationViewKit is a NavigationView extension library for SwiftUI.
 - [OpenCombine/OpenCombine](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
 - [yuanzj/AppStore-04](https://github.com/yuanzj/AppStore-04) - 外观设置
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. 轻灵的 Markdown 笔记本伴你写出妙言
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [exyte/PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
 - [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22
@@ -1644,8 +1658,8 @@
 - [NetrisTV/ws-scrcpy](https://github.com/NetrisTV/ws-scrcpy) - Web client prototype for scrcpy.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [chclt/oh-my-wechat](https://github.com/chclt/oh-my-wechat) - 微信备份阅读器
@@ -1664,15 +1678,15 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 程序员鱼皮原创项目，免费的闯关交互式 SQL 自学教程网站，从零基础到进阶，带你掌握常用 SQL 语法（MySQL、SQLite、PostgreSQL）、快速学习 SQL 和数据库。支持在线SQL编辑器、实时查询结果、语法高亮、SQL运行广场等功能。纯前端实现，简单易学~
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternat
-- [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web) - A remote debugging platform you can definitely use.
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [labring/sealos](https://github.com/labring/sealos) - The Intelligent Cloud OS. Use AI to automate the full lifecycle of your development and production environments, from provisioning custom dev stacks and deploying self-optimizing databases (MySQL, Pos
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
@@ -1687,7 +1701,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [SeeFlowerX/frida-protobuf](https://github.com/SeeFlowerX/frida-protobuf) - 
 - [Siubaak/sval](https://github.com/Siubaak/sval) - A javascript interpreter written in javascript
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech_balloon: Render Disqus comments in Mainland China using Disqus API
@@ -1700,7 +1714,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [nowsecure/frida-fs](https://github.com/nowsecure/frida-fs) - Create a stream from a filesystem resource.
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
 - [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) - Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -1724,13 +1738,12 @@
 
 ## Vue 
 
-- [ZeroDeng01/sublinkPro](https://github.com/ZeroDeng01/sublinkPro) - 在 sublinkX/sublinkE 基础上二次开发，支持更多协议和高度自定义的开源订阅转换管理工具。
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
-- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
+- [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Mihomo Dashboard, The Official One, XD
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [dingyong0214/ThorUI-uniapp](https://github.com/dingyong0214/ThorUI-uniapp) - ThorUI组件库，轻量、简洁的移动端组件库。组件文档地址：https://thorui.cn/doc
